@@ -40,8 +40,8 @@
         "status": "active",
         "provider_id": "cvs",
         "location_count": 25,
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00"
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
       },
       {
         "id": 96517,
@@ -95,13 +95,13 @@
         "status": "active",
         "provider_id": "walmart",
         "location_count": 22,
-        "appointments_last_fetched": "2021-06-16T22:02:25.85+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.85+00:00"
+        "appointments_last_fetched": "2021-06-16T22:12:57.685+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.685+00:00"
       }
     ],
     "provider_brand_count": 6,
-    "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-    "appointments_last_modified": "2021-06-16T22:03:04.993+00:00"
+    "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+    "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
   },
   "features": [
     {
@@ -223,44 +223,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.79113004,
-          44.80734262
-        ]
-      },
-      "properties": {
-        "id": 2712055,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "BANGOR",
-        "name": "Walgreen Drug Store",
-        "state": "ME",
-        "address": "566 UNION ST",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "04401",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "17141",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T18:52:20.131+00:00",
-        "appointments_last_modified": "2021-06-16T18:52:20.131+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -68.7811716,
           44.82443712
         ]
@@ -284,6 +246,44 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "11285",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:52:20.131+00:00",
+        "appointments_last_modified": "2021-06-16T18:52:20.131+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.79113004,
+          44.80734262
+        ]
+      },
+      "properties": {
+        "id": 2712055,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BANGOR",
+        "name": "Walgreen Drug Store",
+        "state": "ME",
+        "address": "566 UNION ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "04401",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17141",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -489,44 +489,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.25584961,
-          44.08161587
-        ]
-      },
-      "properties": {
-        "id": 2711428,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "AUBURN",
-        "name": "Walgreen Drug Store",
-        "state": "ME",
-        "address": "698 MINOT AVE",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "04210",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "19162",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T18:52:16.147+00:00",
-        "appointments_last_modified": "2021-06-16T18:52:16.147+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -70.22903918,
           44.10021175
         ]
@@ -565,20 +527,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.77811814,
-          44.31065039
+          -70.25584961,
+          44.08161587
         ]
       },
       "properties": {
-        "id": 2711436,
+        "id": 2711428,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "AUGUSTA",
+        "city": "AUBURN",
         "name": "Walgreen Drug Store",
         "state": "ME",
-        "address": "403 WATER ST",
+        "address": "698 MINOT AVE",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "04330",
+        "postal_code": "04210",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -587,7 +549,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "11373",
+        "provider_location_id": "19162",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -626,6 +588,44 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "19359",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:52:16.147+00:00",
+        "appointments_last_modified": "2021-06-16T18:52:16.147+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.77811814,
+          44.31065039
+        ]
+      },
+      "properties": {
+        "id": 2711436,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "AUGUSTA",
+        "name": "Walgreen Drug Store",
+        "state": "ME",
+        "address": "403 WATER ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "04330",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11373",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -2617,20 +2617,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.283512,
-          43.669719
+          -70.26903161,
+          43.6531556
         ]
       },
       "properties": {
-        "id": 2711418,
+        "id": 2711415,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "PORTLAND",
         "name": "Walgreen Drug Store",
         "state": "ME",
-        "address": "616 FOREST AVE",
+        "address": "713 CONGRESS ST",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "04101",
+        "postal_code": "04102",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -2639,7 +2639,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "12325",
+        "provider_location_id": "19821",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -2693,20 +2693,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.26903161,
-          43.6531556
+          -70.283512,
+          43.669719
         ]
       },
       "properties": {
-        "id": 2711415,
+        "id": 2711418,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "PORTLAND",
         "name": "Walgreen Drug Store",
         "state": "ME",
-        "address": "713 CONGRESS ST",
+        "address": "616 FOREST AVE",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "04102",
+        "postal_code": "04101",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -2715,7 +2715,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "19821",
+        "provider_location_id": "12325",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -3858,117 +3858,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.767458,
-          44.314815
-        ]
-      },
-      "properties": {
-        "id": 287857434,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "AUGUSTA",
-        "name": "CVS Pharmacy in AUGUSTA, ME",
-        "state": "ME",
-        "address": "24 STONE ST., SUITE 120",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "04330",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "4158",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4076,8 +3967,117 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.767458,
+          44.314815
+        ]
+      },
+      "properties": {
+        "id": 287857434,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "AUGUSTA",
+        "name": "CVS Pharmacy in AUGUSTA, ME",
+        "state": "ME",
+        "address": "24 STONE ST., SUITE 120",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "04330",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "4158",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4150,8 +4150,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4259,117 +4259,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.51552,
-          43.473524
-        ]
-      },
-      "properties": {
-        "id": 270652691,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "BIDDEFORD",
-        "name": "CVS Pharmacy in BIDDEFORD, ME",
-        "state": "ME",
-        "address": "430 MARINER WAY",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "04005",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "17246",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4477,8 +4368,117 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.51552,
+          43.473524
+        ]
+      },
+      "properties": {
+        "id": 270652691,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BIDDEFORD",
+        "name": "CVS Pharmacy in BIDDEFORD, ME",
+        "state": "ME",
+        "address": "430 MARINER WAY",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "04005",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "17246",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4586,8 +4586,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4695,8 +4695,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4804,8 +4804,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4878,8 +4878,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4987,8 +4987,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5096,325 +5096,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.260627,
-          43.656102
-        ]
-      },
-      "properties": {
-        "id": 270261153,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "PORTLAND",
-        "name": "CVS Pharmacy in PORTLAND, ME",
-        "state": "ME",
-        "address": "510 CONGRESS STREET",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "04101",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "454",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.276336,
-          43.66616
-        ]
-      },
-      "properties": {
-        "id": 434909236,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "PORTLAND",
-        "name": "CVS Pharmacy in PORTLAND, ME",
-        "state": "ME",
-        "address": "449 FOREST AVENUE",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "04101",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "374",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.288762,
-          43.703999
-        ]
-      },
-      "properties": {
-        "id": 434858177,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "PORTLAND",
-        "name": "CVS Pharmacy in PORTLAND, ME",
-        "state": "ME",
-        "address": "111 AUBURN ST.",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "04103",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "329",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5522,8 +5205,216 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.288762,
+          43.703999
+        ]
+      },
+      "properties": {
+        "id": 434858177,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "PORTLAND",
+        "name": "CVS Pharmacy in PORTLAND, ME",
+        "state": "ME",
+        "address": "111 AUBURN ST.",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "04103",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "329",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.260627,
+          43.656102
+        ]
+      },
+      "properties": {
+        "id": 270261153,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "PORTLAND",
+        "name": "CVS Pharmacy in PORTLAND, ME",
+        "state": "ME",
+        "address": "510 CONGRESS STREET",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "04101",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "454",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5631,117 +5522,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.255053,
-          43.636174
-        ]
-      },
-      "properties": {
-        "id": 270318369,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "SOUTH PORTLAND",
-        "name": "CVS Pharmacy in SOUTH PORTLAND, ME",
-        "state": "ME",
-        "address": "51 MARKET ST.",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "04106",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "806",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5849,8 +5631,117 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.255053,
+          43.636174
+        ]
+      },
+      "properties": {
+        "id": 270318369,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "SOUTH PORTLAND",
+        "name": "CVS Pharmacy in SOUTH PORTLAND, ME",
+        "state": "ME",
+        "address": "51 MARKET ST.",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "04106",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "806",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5958,8 +5849,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6067,8 +5958,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6176,8 +6067,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6285,8 +6176,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6394,888 +6285,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.749406,
-          44.839916
-        ]
-      },
-      "properties": {
-        "id": 772489,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Bangor",
-        "name": "Bangor Supercenter",
-        "state": "ME",
-        "address": "900 Stillwater Ave",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04401",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1856",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.85+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.85+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.732304,
-          44.774335
-        ]
-      },
-      "properties": {
-        "id": 772490,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Brewer",
-        "name": "Brewer Supercenter",
-        "state": "ME",
-        "address": "24 Walton Dr",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04412",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Moderna",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "5076",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.85+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.85+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.392911,
-          44.524801
-        ]
-      },
-      "properties": {
-        "id": 772493,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Ellsworth",
-        "name": "Ellsworth Supercenter",
-        "state": "ME",
-        "address": "17 Myrick St",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04605",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1932",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.85+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.85+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.524661,
-          45.35585
-        ]
-      },
-      "properties": {
-        "id": 772492,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Lincoln",
-        "name": "Lincoln Store",
-        "state": "ME",
-        "address": "250 W Broadway",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04457",
-        "appointments": [
-          {
-            "time": "2021-06-17T09:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1919",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.85+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.85+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.294579,
-          44.837414
-        ]
-      },
-      "properties": {
-        "id": 772491,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Palmyra",
-        "name": "Palmyra Supercenter",
-        "state": "ME",
-        "address": "1573 Main St",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04965",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2047",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.85+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.85+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.238202,
-          44.11765
-        ]
-      },
-      "properties": {
-        "id": 772482,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Auburn",
-        "name": "Auburn Supercenter",
-        "state": "ME",
-        "address": "100 Mount Auburn Ave",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04210",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:40:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1868",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.652+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.652+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.789861,
-          44.343123
-        ]
-      },
-      "properties": {
-        "id": 772485,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Augusta",
-        "name": "Augusta Supercenter",
-        "state": "ME",
-        "address": "201 Civic Center Dr",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04330",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2046",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.652+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.652+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.4995399,
-          43.4743792
-        ]
-      },
-      "properties": {
-        "id": 772479,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Biddeford",
-        "name": "Biddeford Supercenter",
-        "state": "ME",
-        "address": "50 Boulder Way",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04005",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:40:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2153",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.652+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.652+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.90761,
-          43.907103
-        ]
-      },
-      "properties": {
-        "id": 772483,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Brunswick",
-        "name": "Brunswick Supercenter",
-        "state": "ME",
-        "address": "15 Tibbetts Dr",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04011",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1939",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.652+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.652+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.235287,
-          43.720249
-        ]
-      },
-      "properties": {
-        "id": 772481,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Falmouth",
-        "name": "Falmouth Store",
-        "state": "ME",
-        "address": "206 Us Route 1",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04105",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2659",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.652+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.652+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.5131,
-          44.1727
-        ]
-      },
-      "properties": {
-        "id": 772476,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Oxford",
-        "name": "Oxford Supercenter",
-        "state": "ME",
-        "address": "1240 Main St",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04270",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2183",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.652+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.652+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.343417,
-          43.622201
-        ]
-      },
-      "properties": {
-        "id": 772480,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Scarborough",
-        "name": "Scarborough Supercenter",
-        "state": "ME",
-        "address": "500 Gallery Blvd",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04074",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1788",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.652+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.652+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.1379246,
-          44.0915373
-        ]
-      },
-      "properties": {
-        "id": 772496,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Thomaston",
-        "name": "Thomaston Supercenter",
-        "state": "ME",
-        "address": "55 Thomaston Commons Way",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04861",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1797",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.652+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.652+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.644397,
-          44.568057
-        ]
-      },
-      "properties": {
-        "id": 772487,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Waterville",
-        "name": "Waterville Supercenter",
-        "state": "ME",
-        "address": "80 Waterville Commons Dr",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04901",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:40:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2013",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.652+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.652+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.444719,
-          43.837079
-        ]
-      },
-      "properties": {
-        "id": 772477,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Windham",
-        "name": "Windham Supercenter",
-        "state": "ME",
-        "address": "30 Landing Rd",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04062",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:40:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2202",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:25.652+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.652+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.699657,
-          43.401093
-        ]
-      },
-      "properties": {
-        "id": 772478,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Sanford",
-        "name": "Sanford Supercenter",
-        "state": "ME",
-        "address": "1930 Main St",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04073",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1954",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:23.876+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:23.876+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.842502,
-          46.143162
-        ]
-      },
-      "properties": {
-        "id": 772495,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Houlton",
-        "name": "Houlton Store",
-        "state": "ME",
-        "address": "17 Ludlow Rd",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04730",
-        "appointments": [
-          {
-            "time": "2021-06-17T11:40:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1974",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:18.814+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:18.814+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.014517,
-          46.697536
-        ]
-      },
-      "properties": {
-        "id": 772497,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Presque Isle",
-        "name": "Presque Isle Supercenter",
-        "state": "ME",
-        "address": "781 Main St",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04769",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1924",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:18.814+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:18.814+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7323,8 +6334,264 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:01:08.845+00:00",
-        "appointments_last_modified": "2021-06-16T22:01:08.845+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.685+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.685+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.276336,
+          43.66616
+        ]
+      },
+      "properties": {
+        "id": 434909236,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "PORTLAND",
+        "name": "CVS Pharmacy in PORTLAND, ME",
+        "state": "ME",
+        "address": "449 FOREST AVENUE",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "04101",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "374",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.294579,
+          44.837414
+        ]
+      },
+      "properties": {
+        "id": 772491,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Palmyra",
+        "name": "Palmyra Supercenter",
+        "state": "ME",
+        "address": "1573 Main St",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04965",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2047",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:38.954+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:38.954+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.238202,
+          44.11765
+        ]
+      },
+      "properties": {
+        "id": 772482,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Auburn",
+        "name": "Auburn Supercenter",
+        "state": "ME",
+        "address": "100 Mount Auburn Ave",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04210",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:40:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1868",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:38.756+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:38.756+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.789861,
+          44.343123
+        ]
+      },
+      "properties": {
+        "id": 772485,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Augusta",
+        "name": "Augusta Supercenter",
+        "state": "ME",
+        "address": "201 Civic Center Dr",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04330",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2046",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:38.756+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:38.756+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7372,57 +6639,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:59:40.14+00:00",
-        "appointments_last_modified": "2021-06-16T21:59:40.14+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.731022,
-          44.780385
-        ]
-      },
-      "properties": {
-        "id": 772488,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Skowhegan",
-        "name": "Skowhegan Supercenter",
-        "state": "ME",
-        "address": "60 Fairgrounds Mkt Pl",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "04976",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-04:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2143",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T21:59:40.14+00:00",
-        "appointments_last_modified": "2021-06-16T21:59:40.14+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:38.756+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:38.756+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7470,8 +6688,790 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:59:39.74+00:00",
-        "appointments_last_modified": "2021-06-16T21:59:39.74+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:38.756+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:38.756+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5131,
+          44.1727
+        ]
+      },
+      "properties": {
+        "id": 772476,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Oxford",
+        "name": "Oxford Supercenter",
+        "state": "ME",
+        "address": "1240 Main St",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04270",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2183",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:38.756+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:38.756+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.731022,
+          44.780385
+        ]
+      },
+      "properties": {
+        "id": 772488,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Skowhegan",
+        "name": "Skowhegan Supercenter",
+        "state": "ME",
+        "address": "60 Fairgrounds Mkt Pl",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04976",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2143",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:38.756+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:38.756+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.644397,
+          44.568057
+        ]
+      },
+      "properties": {
+        "id": 772487,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Waterville",
+        "name": "Waterville Supercenter",
+        "state": "ME",
+        "address": "80 Waterville Commons Dr",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04901",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:40:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2013",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:38.756+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:38.756+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.749406,
+          44.839916
+        ]
+      },
+      "properties": {
+        "id": 772489,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Bangor",
+        "name": "Bangor Supercenter",
+        "state": "ME",
+        "address": "900 Stillwater Ave",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04401",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1856",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:07.476+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:07.476+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.732304,
+          44.774335
+        ]
+      },
+      "properties": {
+        "id": 772490,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Brewer",
+        "name": "Brewer Supercenter",
+        "state": "ME",
+        "address": "24 Walton Dr",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04412",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Moderna",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "5076",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:07.476+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:07.476+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.392911,
+          44.524801
+        ]
+      },
+      "properties": {
+        "id": 772493,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Ellsworth",
+        "name": "Ellsworth Supercenter",
+        "state": "ME",
+        "address": "17 Myrick St",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04605",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1932",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:07.476+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:07.476+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.524661,
+          45.35585
+        ]
+      },
+      "properties": {
+        "id": 772492,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Lincoln",
+        "name": "Lincoln Store",
+        "state": "ME",
+        "address": "250 W Broadway",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04457",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1919",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:07.476+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:07.476+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4995399,
+          43.4743792
+        ]
+      },
+      "properties": {
+        "id": 772479,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Biddeford",
+        "name": "Biddeford Supercenter",
+        "state": "ME",
+        "address": "50 Boulder Way",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04005",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:40:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2153",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:07.075+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:07.075+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.90761,
+          43.907103
+        ]
+      },
+      "properties": {
+        "id": 772483,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Brunswick",
+        "name": "Brunswick Supercenter",
+        "state": "ME",
+        "address": "15 Tibbetts Dr",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04011",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1939",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:07.075+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:07.075+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.235287,
+          43.720249
+        ]
+      },
+      "properties": {
+        "id": 772481,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Falmouth",
+        "name": "Falmouth Store",
+        "state": "ME",
+        "address": "206 Us Route 1",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04105",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2659",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:07.075+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:07.075+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.343417,
+          43.622201
+        ]
+      },
+      "properties": {
+        "id": 772480,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Scarborough",
+        "name": "Scarborough Supercenter",
+        "state": "ME",
+        "address": "500 Gallery Blvd",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04074",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1788",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:07.075+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:07.075+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1379246,
+          44.0915373
+        ]
+      },
+      "properties": {
+        "id": 772496,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Thomaston",
+        "name": "Thomaston Supercenter",
+        "state": "ME",
+        "address": "55 Thomaston Commons Way",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04861",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1797",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:07.075+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:07.075+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.444719,
+          43.837079
+        ]
+      },
+      "properties": {
+        "id": 772477,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Windham",
+        "name": "Windham Supercenter",
+        "state": "ME",
+        "address": "30 Landing Rd",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04062",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:40:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2202",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:07.075+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:07.075+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.699657,
+          43.401093
+        ]
+      },
+      "properties": {
+        "id": 772478,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Sanford",
+        "name": "Sanford Supercenter",
+        "state": "ME",
+        "address": "1930 Main St",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04073",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1954",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:04.956+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:04.956+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.842502,
+          46.143162
+        ]
+      },
+      "properties": {
+        "id": 772495,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Houlton",
+        "name": "Houlton Store",
+        "state": "ME",
+        "address": "17 Ludlow Rd",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04730",
+        "appointments": [
+          {
+            "time": "2021-06-17T11:40:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1974",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:00.575+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:00.575+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.014517,
+          46.697536
+        ]
+      },
+      "properties": {
+        "id": 772497,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Presque Isle",
+        "name": "Presque Isle Supercenter",
+        "state": "ME",
+        "address": "781 Main St",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "04769",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-04:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1924",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:08:00.575+00:00",
+        "appointments_last_modified": "2021-06-16T22:08:00.575+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }

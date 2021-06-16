@@ -40,8 +40,8 @@
         "status": "active",
         "provider_id": "costco",
         "location_count": 1,
-        "appointments_last_fetched": "2021-06-16T22:03:49.3+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:49.3+00:00"
+        "appointments_last_fetched": "2021-06-16T22:11:49.675+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:49.675+00:00"
       },
       {
         "id": 19,
@@ -51,8 +51,8 @@
         "status": "active",
         "provider_id": "cvs",
         "location_count": 9,
-        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
-        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00"
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
       },
       {
         "id": 96517,
@@ -73,8 +73,8 @@
         "status": "active",
         "provider_id": "price_chopper",
         "location_count": 1,
-        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
-        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00"
+        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00"
       },
       {
         "id": 99377,
@@ -84,8 +84,8 @@
         "status": "active",
         "provider_id": "price_chopper",
         "location_count": 4,
-        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
-        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00"
+        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00"
       },
       {
         "id": 40,
@@ -133,8 +133,8 @@
       }
     ],
     "provider_brand_count": 9,
-    "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
-    "appointments_last_modified": "2021-06-16T22:04:09.779+00:00"
+    "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
+    "appointments_last_modified": "2021-06-16T22:13:23.371+00:00"
   },
   "features": [
     {
@@ -165,8 +165,8 @@
         "provider_location_id": "171",
         "appointments_available": false,
         "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
-        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -199,8 +199,8 @@
         "provider_location_id": "165",
         "appointments_available": false,
         "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
-        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -233,8 +233,8 @@
         "provider_location_id": "192",
         "appointments_available": false,
         "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
-        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -267,8 +267,8 @@
         "provider_location_id": "131",
         "appointments_available": false,
         "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
-        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -301,8 +301,8 @@
         "provider_location_id": "127",
         "appointments_available": false,
         "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
-        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -339,8 +339,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:49.3+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:49.3+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:49.675+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:49.675+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -2282,189 +2282,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.202233,
-          42.895372
-        ]
-      },
-      "properties": {
-        "id": 270149460,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "BENNINGTON",
-        "name": "CVS Pharmacy in BENNINGTON, VT",
-        "state": "VT",
-        "address": "8 KOCHER DR.",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "05201",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "337",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
-        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.973472,
-          43.610301
-        ]
-      },
-      "properties": {
-        "id": 270176674,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "RUTLAND",
-        "name": "CVS Pharmacy in RUTLAND, VT",
-        "state": "VT",
-        "address": "31-33 MAIN STREET",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "05701",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "673",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
-        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -72.55278,
           44.231797
         ]
@@ -2563,8 +2380,117 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.202233,
+          42.895372
+        ]
+      },
+      "properties": {
+        "id": 270149460,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BENNINGTON",
+        "name": "CVS Pharmacy in BENNINGTON, VT",
+        "state": "VT",
+        "address": "8 KOCHER DR.",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "05201",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "337",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2672,8 +2598,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2781,8 +2707,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2890,8 +2816,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2999,8 +2925,82 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.973472,
+          43.610301
+        ]
+      },
+      "properties": {
+        "id": 270176674,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "RUTLAND",
+        "name": "CVS Pharmacy in RUTLAND, VT",
+        "state": "VT",
+        "address": "31-33 MAIN STREET",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "05701",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "673",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3108,8 +3108,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3217,8 +3217,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }

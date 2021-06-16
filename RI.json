@@ -40,8 +40,8 @@
         "status": "active",
         "provider_id": "cvs",
         "location_count": 61,
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00"
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
       },
       {
         "id": 96517,
@@ -84,15 +84,53 @@
         "status": "active",
         "provider_id": "walmart",
         "location_count": 9,
-        "appointments_last_fetched": "2021-06-16T22:02:23.676+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:23.676+00:00"
+        "appointments_last_fetched": "2021-06-16T22:12:18.405+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:18.405+00:00"
       }
     ],
     "provider_brand_count": 5,
-    "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-    "appointments_last_modified": "2021-06-16T22:03:04.993+00:00"
+    "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+    "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
   },
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.498321,
+          41.788163
+        ]
+      },
+      "properties": {
+        "id": 772025,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Cranston",
+        "name": "Cranston Supercenter",
+        "state": "RI",
+        "address": "1776 Plainfield Pike",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "02921",
+        "appointments": [],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1873",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:09:55.57+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:55.57+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -125,8 +163,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:23.676+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:23.676+00:00",
+        "appointments_last_fetched": "2021-06-16T22:09:55.57+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:55.57+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -163,46 +201,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:23.676+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:23.676+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.498321,
-          41.788163
-        ]
-      },
-      "properties": {
-        "id": 772025,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Cranston",
-        "name": "Cranston Supercenter",
-        "state": "RI",
-        "address": "1776 Plainfield Pike",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "02921",
-        "appointments": [],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1873",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T21:58:10.886+00:00",
-        "appointments_last_modified": "2021-06-16T21:58:10.886+00:00",
+        "appointments_last_fetched": "2021-06-16T22:09:55.57+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:55.57+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -326,44 +326,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.45841243,
-          41.58915902
-        ]
-      },
-      "properties": {
-        "id": 2711351,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "NORTH KINGSTOWN",
-        "name": "Walgreen Drug Store",
-        "state": "RI",
-        "address": "7691 POST ROAD",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "02852",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "19680",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T19:50:35.095+00:00",
-        "appointments_last_modified": "2021-06-16T19:50:35.095+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.46976861,
           41.63342537
         ]
@@ -390,6 +352,44 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:50:35.095+00:00",
+        "appointments_last_modified": "2021-06-16T19:50:35.095+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.45841243,
+          41.58915902
+        ]
+      },
+      "properties": {
+        "id": 2711351,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "NORTH KINGSTOWN",
+        "name": "Walgreen Drug Store",
+        "state": "RI",
+        "address": "7691 POST ROAD",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "02852",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "19680",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
         },
         "appointments_last_fetched": "2021-06-16T19:50:35.095+00:00",
         "appointments_last_modified": "2021-06-16T19:50:35.095+00:00",
@@ -478,6 +478,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.49019879,
+          41.70935356
+        ]
+      },
+      "properties": {
+        "id": 2711325,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WARWICK",
+        "name": "Walgreen Drug Store",
+        "state": "RI",
+        "address": "1080 BALD HILL ROAD",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "02886",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "19838",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:50:35.095+00:00",
+        "appointments_last_modified": "2021-06-16T19:50:35.095+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.41586214,
           41.70566831
         ]
@@ -542,44 +580,6 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T19:50:35.095+00:00",
-        "appointments_last_modified": "2021-06-16T19:50:35.095+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.49019879,
-          41.70935356
-        ]
-      },
-      "properties": {
-        "id": 2711325,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "WARWICK",
-        "name": "Walgreen Drug Store",
-        "state": "RI",
-        "address": "1080 BALD HILL ROAD",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "02886",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "19838",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
         },
         "appointments_last_fetched": "2021-06-16T19:50:35.095+00:00",
         "appointments_last_modified": "2021-06-16T19:50:35.095+00:00",
@@ -782,44 +782,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.48854539,
-          41.86013007
-        ]
-      },
-      "properties": {
-        "id": 2711262,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "JOHNSTON",
-        "name": "Walgreen Drug Store",
-        "state": "RI",
-        "address": "25 PUTNAM PIKE",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "02919",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "3719",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T19:50:32.966+00:00",
-        "appointments_last_modified": "2021-06-16T19:50:32.966+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.49987756,
           41.82946652
         ]
@@ -858,20 +820,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.46079919,
-          41.84948233
+          -71.48854539,
+          41.86013007
         ]
       },
       "properties": {
-        "id": 2711261,
+        "id": 2711262,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "NORTH PROVIDENCE",
+        "city": "JOHNSTON",
         "name": "Walgreen Drug Store",
         "state": "RI",
-        "address": "1510 SMITH STREET",
+        "address": "25 PUTNAM PIKE",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "02911",
+        "postal_code": "02919",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -880,7 +842,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "19761",
+        "provider_location_id": "3719",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -972,6 +934,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.46079919,
+          41.84948233
+        ]
+      },
+      "properties": {
+        "id": 2711261,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "NORTH PROVIDENCE",
+        "name": "Walgreen Drug Store",
+        "state": "RI",
+        "address": "1510 SMITH STREET",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "02911",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "19761",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:50:32.966+00:00",
+        "appointments_last_modified": "2021-06-16T19:50:32.966+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.57346991,
           41.83634285
         ]
@@ -1048,44 +1048,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.38710602,
-          41.88015604
-        ]
-      },
-      "properties": {
-        "id": 2705137,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "PAWTUCKET",
-        "name": "Walgreen Drug Store",
-        "state": "RI",
-        "address": "100 BROAD ST",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "02860",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "3468",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T19:50:32.966+00:00",
-        "appointments_last_modified": "2021-06-16T19:50:32.966+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.36631524,
           41.88641643
         ]
@@ -1124,20 +1086,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.40244694,
-          41.8516557
+          -71.38710602,
+          41.88015604
         ]
       },
       "properties": {
-        "id": 2711247,
+        "id": 2705137,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "PROVIDENCE",
+        "city": "PAWTUCKET",
         "name": "Walgreen Drug Store",
         "state": "RI",
-        "address": "1140 N MAIN ST",
+        "address": "100 BROAD ST",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "02904",
+        "postal_code": "02860",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -1146,83 +1108,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "10256",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T19:50:32.966+00:00",
-        "appointments_last_modified": "2021-06-16T19:50:32.966+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.44418879,
-          41.83291059
-        ]
-      },
-      "properties": {
-        "id": 2711264,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "PROVIDENCE",
-        "name": "Walgreen Drug Store",
-        "state": "RI",
-        "address": "295 ACADEMY AVE",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "02908",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "3204",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T19:50:32.966+00:00",
-        "appointments_last_modified": "2021-06-16T19:50:32.966+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.4204132,
-          41.85035039
-        ]
-      },
-      "properties": {
-        "id": 2711250,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "PROVIDENCE",
-        "name": "Walgreen Drug Store",
-        "state": "RI",
-        "address": "456 BRANCH AVENUE",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "02904",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "18384",
+        "provider_location_id": "3468",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -1299,6 +1185,120 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "3703",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:50:32.966+00:00",
+        "appointments_last_modified": "2021-06-16T19:50:32.966+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44418879,
+          41.83291059
+        ]
+      },
+      "properties": {
+        "id": 2711264,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "PROVIDENCE",
+        "name": "Walgreen Drug Store",
+        "state": "RI",
+        "address": "295 ACADEMY AVE",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "02908",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "3204",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:50:32.966+00:00",
+        "appointments_last_modified": "2021-06-16T19:50:32.966+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.40244694,
+          41.8516557
+        ]
+      },
+      "properties": {
+        "id": 2711247,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "PROVIDENCE",
+        "name": "Walgreen Drug Store",
+        "state": "RI",
+        "address": "1140 N MAIN ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "02904",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "10256",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:50:32.966+00:00",
+        "appointments_last_modified": "2021-06-16T19:50:32.966+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4204132,
+          41.85035039
+        ]
+      },
+      "properties": {
+        "id": 2711250,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "PROVIDENCE",
+        "name": "Walgreen Drug Store",
+        "state": "RI",
+        "address": "456 BRANCH AVENUE",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "02904",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "18384",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -1694,44 +1694,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.42662396,
-          41.79769789
-        ]
-      },
-      "properties": {
-        "id": 2711275,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "PROVIDENCE",
-        "name": "Walgreen Drug Store",
-        "state": "RI",
-        "address": "533 ELMWOOD AVE",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "02907",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "4145",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T19:10:56.271+00:00",
-        "appointments_last_modified": "2021-06-16T19:10:56.271+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.4147662,
           41.80498465
         ]
@@ -1758,6 +1720,44 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:10:56.271+00:00",
+        "appointments_last_modified": "2021-06-16T19:10:56.271+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44866986,
+          41.81337796
+        ]
+      },
+      "properties": {
+        "id": 2711272,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "PROVIDENCE",
+        "name": "Walgreen Drug Store",
+        "state": "RI",
+        "address": "1 POCASSET AVE",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "02909",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11147",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
         },
         "appointments_last_fetched": "2021-06-16T19:10:56.271+00:00",
         "appointments_last_modified": "2021-06-16T19:10:56.271+00:00",
@@ -1808,20 +1808,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.44866986,
-          41.81337796
+          -71.42662396,
+          41.79769789
         ]
       },
       "properties": {
-        "id": 2711272,
+        "id": 2711275,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "PROVIDENCE",
         "name": "Walgreen Drug Store",
         "state": "RI",
-        "address": "1 POCASSET AVE",
+        "address": "533 ELMWOOD AVE",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "02909",
+        "postal_code": "02907",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -1830,7 +1830,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "11147",
+        "provider_location_id": "4145",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
@@ -1960,6 +1960,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.4057521,
+          41.8451709
+        ]
+      },
+      "properties": {
+        "id": 141533192,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "PROVIDENCE",
+        "name": "GREEN LINE APOTH OF PROV",
+        "state": "RI",
+        "address": "905 N MAIN ST",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "02904",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "18578",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.4477844,
           41.8211748
         ]
@@ -1987,40 +2021,6 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
-        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.4057521,
-          41.8451709
-        ]
-      },
-      "properties": {
-        "id": 141533192,
-        "url": "https://www.healthmartcovidvaccine.com/",
-        "city": "PROVIDENCE",
-        "name": "GREEN LINE APOTH OF PROV",
-        "state": "RI",
-        "address": "905 N MAIN ST",
-        "provider": "health_mart",
-        "time_zone": null,
-        "postal_code": "02904",
-        "appointments": null,
-        "provider_brand": "health_mart",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 96517,
-        "provider_brand_name": "Health Mart",
-        "provider_location_id": "18578",
-        "appointments_available": null,
-        "appointment_vaccine_types": null,
         "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
         "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
         "appointments_available_all_doses": null,
@@ -2271,8 +2271,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2380,8 +2380,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2489,8 +2489,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2598,8 +2598,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2672,117 +2672,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.450921,
-          41.751866
-        ]
-      },
-      "properties": {
-        "id": 282144186,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "CRANSTON",
-        "name": "CVS Pharmacy in CRANSTON, RI",
-        "state": "RI",
-        "address": "1188 PONTIAC AVENUE",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02920",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "469",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2860,8 +2751,112 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.443065,
+          41.780994
+        ]
+      },
+      "properties": {
+        "id": 270627737,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "CRANSTON",
+        "name": "CVS Pharmacy in CRANSTON, RI",
+        "state": "RI",
+        "address": "681 RESERVOIR AVENUE",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02910",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "212",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2969,8 +2964,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3073,335 +3068,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.443065,
-          41.780994
-        ]
-      },
-      "properties": {
-        "id": 270627737,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "CRANSTON",
-        "name": "CVS Pharmacy in CRANSTON, RI",
-        "state": "RI",
-        "address": "681 RESERVOIR AVENUE",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02910",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "212",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.393116,
-          41.907816
-        ]
-      },
-      "properties": {
-        "id": 270397082,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "CUMBERLAND",
-        "name": "CVS Pharmacy in CUMBERLAND, RI",
-        "state": "RI",
-        "address": "315 BROAD ST,",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02864",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "728",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.402912,
-          41.946784
-        ]
-      },
-      "properties": {
-        "id": 270778700,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "CUMBERLAND",
-        "name": "CVS Pharmacy in CUMBERLAND, RI",
-        "state": "RI",
-        "address": "2125 DIAMOND HILL ROAD",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02864",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "2506",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3509,8 +3177,117 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.393116,
+          41.907816
+        ]
+      },
+      "properties": {
+        "id": 270397082,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "CUMBERLAND",
+        "name": "CVS Pharmacy in CUMBERLAND, RI",
+        "state": "RI",
+        "address": "315 BROAD ST,",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02864",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "728",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3618,8 +3395,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3712,8 +3489,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3821,8 +3598,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3915,8 +3692,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4024,8 +3801,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4118,8 +3895,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4192,8 +3969,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4291,117 +4068,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.489989,
-          41.859888
-        ]
-      },
-      "properties": {
-        "id": 270532029,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "JOHNSTON",
-        "name": "CVS Pharmacy in JOHNSTON, RI",
-        "state": "RI",
-        "address": "26 PUTNAM PIKE",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02919",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "2238",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4509,8 +4177,117 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.489989,
+          41.859888
+        ]
+      },
+      "properties": {
+        "id": 270532029,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "JOHNSTON",
+        "name": "CVS Pharmacy in JOHNSTON, RI",
+        "state": "RI",
+        "address": "26 PUTNAM PIKE",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02919",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "2238",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4618,8 +4395,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4727,8 +4504,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4836,117 +4613,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.309964,
-          41.483096
-        ]
-      },
-      "properties": {
-        "id": 270779459,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "NEWPORT",
-        "name": "CVS Pharmacy in NEWPORT, RI",
-        "state": "RI",
-        "address": "181 BELLEVUE AVENUE",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02840",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "355",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5054,8 +4722,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5163,8 +4831,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5252,8 +4920,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5361,8 +5029,77 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.414642,
+          41.878992
+        ]
+      },
+      "properties": {
+        "id": 270258638,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "PAWTUCKET",
+        "name": "CVS Pharmacy in PAWTUCKET, RI",
+        "state": "RI",
+        "address": "601 SMITHFIELD AVENUE",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02860",
+        "appointments": [
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "670",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5470,77 +5207,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.414642,
-          41.878992
-        ]
-      },
-      "properties": {
-        "id": 270258638,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "PAWTUCKET",
-        "name": "CVS Pharmacy in PAWTUCKET, RI",
-        "state": "RI",
-        "address": "601 SMITHFIELD AVENUE",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02860",
-        "appointments": [
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "670",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5633,8 +5301,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5742,8 +5410,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5851,117 +5519,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.414459,
-          41.798624
-        ]
-      },
-      "properties": {
-        "id": 270261129,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "PROVIDENCE",
-        "name": "CVS Pharmacy in PROVIDENCE, RI",
-        "state": "RI",
-        "address": "960 BROAD STREET",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02905",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "4796",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6069,8 +5628,97 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4115,
+          41.819459
+        ]
+      },
+      "properties": {
+        "id": 270297303,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "PROVIDENCE",
+        "name": "CVS Pharmacy in PROVIDENCE, RI",
+        "state": "RI",
+        "address": "PROV. PLACE MALL #1010, 39 PROVIDENCE PL",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02903",
+        "appointments": [
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "2049",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6178,206 +5826,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.4115,
-          41.819459
-        ]
-      },
-      "properties": {
-        "id": 270297303,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "PROVIDENCE",
-        "name": "CVS Pharmacy in PROVIDENCE, RI",
-        "state": "RI",
-        "address": "PROV. PLACE MALL #1010, 39 PROVIDENCE PL",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02903",
-        "appointments": [
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "2049",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.450443,
-          41.812286
-        ]
-      },
-      "properties": {
-        "id": 270173970,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "PROVIDENCE",
-        "name": "CVS Pharmacy in PROVIDENCE, RI",
-        "state": "RI",
-        "address": "131 WEBSTER AVENUE",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02909",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "994",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6485,8 +5935,226 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.450443,
+          41.812286
+        ]
+      },
+      "properties": {
+        "id": 270173970,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "PROVIDENCE",
+        "name": "CVS Pharmacy in PROVIDENCE, RI",
+        "state": "RI",
+        "address": "131 WEBSTER AVENUE",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02909",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "994",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.414459,
+          41.798624
+        ]
+      },
+      "properties": {
+        "id": 270261129,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "PROVIDENCE",
+        "name": "CVS Pharmacy in PROVIDENCE, RI",
+        "state": "RI",
+        "address": "960 BROAD STREET",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02905",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "4796",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6594,8 +6262,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6703,8 +6371,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6812,8 +6480,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6921,8 +6589,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7025,8 +6693,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7134,8 +6802,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7243,226 +6911,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.405155,
-          41.755284
-        ]
-      },
-      "properties": {
-        "id": 270249800,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "WARWICK",
-        "name": "CVS Pharmacy in WARWICK, RI",
-        "state": "RI",
-        "address": "767 WARWICK AVENUE",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02888",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "642",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.398134,
-          41.712131
-        ]
-      },
-      "properties": {
-        "id": 270763780,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "WARWICK",
-        "name": "CVS Pharmacy in WARWICK, RI",
-        "state": "RI",
-        "address": "2400 WARWICK AVE, MEADOWBROOK PLAZA",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02889",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "733",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7570,117 +7020,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.478735,
-          41.72493
-        ]
-      },
-      "properties": {
-        "id": 270670314,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "WARWICK",
-        "name": "CVS Pharmacy in WARWICK, RI",
-        "state": "RI",
-        "address": "400 BALD HILL RD, WARWICK MALL",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "02886",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "17487",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7788,8 +7129,226 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.478735,
+          41.72493
+        ]
+      },
+      "properties": {
+        "id": 270670314,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "WARWICK",
+        "name": "CVS Pharmacy in WARWICK, RI",
+        "state": "RI",
+        "address": "400 BALD HILL RD, WARWICK MALL",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02886",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "17487",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.405155,
+          41.755284
+        ]
+      },
+      "properties": {
+        "id": 270249800,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "WARWICK",
+        "name": "CVS Pharmacy in WARWICK, RI",
+        "state": "RI",
+        "address": "767 WARWICK AVENUE",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02888",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "642",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7897,8 +7456,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8001,8 +7560,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8110,8 +7669,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8219,8 +7778,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8328,8 +7887,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8437,8 +7996,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8546,8 +8105,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8595,8 +8154,444 @@
           "jj": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:00:20.545+00:00",
-        "appointments_last_modified": "2021-06-16T22:00:20.545+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:18.405+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:18.405+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.450921,
+          41.751866
+        ]
+      },
+      "properties": {
+        "id": 282144186,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "CRANSTON",
+        "name": "CVS Pharmacy in CRANSTON, RI",
+        "state": "RI",
+        "address": "1188 PONTIAC AVENUE",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02920",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "469",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.402912,
+          41.946784
+        ]
+      },
+      "properties": {
+        "id": 270778700,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "CUMBERLAND",
+        "name": "CVS Pharmacy in CUMBERLAND, RI",
+        "state": "RI",
+        "address": "2125 DIAMOND HILL ROAD",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02864",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "2506",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.309964,
+          41.483096
+        ]
+      },
+      "properties": {
+        "id": 270779459,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "NEWPORT",
+        "name": "CVS Pharmacy in NEWPORT, RI",
+        "state": "RI",
+        "address": "181 BELLEVUE AVENUE",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02840",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "355",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.398134,
+          41.712131
+        ]
+      },
+      "properties": {
+        "id": 270763780,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "WARWICK",
+        "name": "CVS Pharmacy in WARWICK, RI",
+        "state": "RI",
+        "address": "2400 WARWICK AVE, MEADOWBROOK PLAZA",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "02889",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "733",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8646,8 +8641,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:58:10.886+00:00",
-        "appointments_last_modified": "2021-06-16T21:58:10.886+00:00",
+        "appointments_last_fetched": "2021-06-16T22:09:55.57+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:55.57+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8697,8 +8692,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:58:10.886+00:00",
-        "appointments_last_modified": "2021-06-16T21:58:10.886+00:00",
+        "appointments_last_fetched": "2021-06-16T22:09:55.57+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:55.57+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8746,55 +8741,8 @@
           "jj": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:58:10.886+00:00",
-        "appointments_last_modified": "2021-06-16T21:58:10.886+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.414275,
-          41.752742
-        ]
-      },
-      "properties": {
-        "id": 772026,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Warwick",
-        "name": "Warwick Store",
-        "state": "RI",
-        "address": "840 Post Rd",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "02888",
-        "appointments": [
-          {
-            "time": "2021-06-17T10:20:00.000-04:00",
-            "type": "Pfizer",
-            "vaccine_types": [
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2373",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T21:58:10.886+00:00",
-        "appointments_last_modified": "2021-06-16T21:58:10.886+00:00",
+        "appointments_last_fetched": "2021-06-16T22:09:55.57+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:55.57+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8840,8 +8788,55 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T21:58:10.886+00:00",
-        "appointments_last_modified": "2021-06-16T21:58:10.886+00:00",
+        "appointments_last_fetched": "2021-06-16T22:09:55.57+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:55.57+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.414275,
+          41.752742
+        ]
+      },
+      "properties": {
+        "id": 772026,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Warwick",
+        "name": "Warwick Store",
+        "state": "RI",
+        "address": "840 Post Rd",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "02888",
+        "appointments": [
+          {
+            "time": "2021-06-17T10:20:00.000-04:00",
+            "type": "Pfizer",
+            "vaccine_types": [
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2373",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:09:55.57+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:55.57+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }

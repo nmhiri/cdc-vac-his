@@ -40,8 +40,8 @@
         "status": "active",
         "provider_id": "costco",
         "location_count": 2,
-        "appointments_last_fetched": "2021-06-16T22:03:50.758+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:50.758+00:00"
+        "appointments_last_fetched": "2021-06-16T22:11:50.523+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:50.523+00:00"
       },
       {
         "id": 19,
@@ -51,8 +51,8 @@
         "status": "active",
         "provider_id": "cvs",
         "location_count": 6,
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00"
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
       },
       {
         "id": 96517,
@@ -73,8 +73,8 @@
         "status": "active",
         "provider_id": "thrifty_white",
         "location_count": 31,
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00"
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00"
       },
       {
         "id": 47,
@@ -100,86 +100,10 @@
       }
     ],
     "provider_brand_count": 6,
-    "appointments_last_fetched": "2021-06-16T22:03:50.758+00:00",
-    "appointments_last_modified": "2021-06-16T22:03:50.758+00:00"
+    "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+    "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
   },
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -100.771,
-          46.865
-        ]
-      },
-      "properties": {
-        "id": 170708708,
-        "url": "https://www.costco.com/covid-vaccine.html",
-        "city": "BISMARCK",
-        "name": "Bismarck",
-        "state": "ND",
-        "address": "1325 57TH AVE NE",
-        "provider": "costco",
-        "time_zone": "America/Chicago",
-        "postal_code": "58503",
-        "appointments": [],
-        "provider_brand": "costco",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 139709,
-        "provider_brand_name": "Costco",
-        "provider_location_id": "1380",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:50.758+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:50.758+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.887,
-          46.844
-        ]
-      },
-      "properties": {
-        "id": 170708705,
-        "url": "https://www.costco.com/covid-vaccine.html",
-        "city": "WEST FARGO",
-        "name": "West Fargo ND",
-        "state": "ND",
-        "address": "750 23RD AVE EAST",
-        "provider": "costco",
-        "time_zone": "America/Chicago",
-        "postal_code": "58078",
-        "appointments": [],
-        "provider_brand": "costco",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 139709,
-        "provider_brand_name": "Costco",
-        "provider_location_id": "1119",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:48.599+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:48.599+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -208,8 +132,8 @@
         "provider_location_id": "066",
         "appointments_available": false,
         "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -246,8 +170,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -284,8 +208,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -322,8 +246,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -360,8 +284,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -398,8 +322,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -436,8 +360,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -474,8 +398,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -512,8 +436,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -550,8 +474,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -588,8 +512,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -622,8 +546,8 @@
         "provider_location_id": "057",
         "appointments_available": false,
         "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -656,8 +580,8 @@
         "provider_location_id": "062",
         "appointments_available": false,
         "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -690,8 +614,8 @@
         "provider_location_id": "058",
         "appointments_available": false,
         "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -728,8 +652,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -766,8 +690,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -804,8 +728,84 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.771,
+          46.865
+        ]
+      },
+      "properties": {
+        "id": 170708708,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "BISMARCK",
+        "name": "Bismarck",
+        "state": "ND",
+        "address": "1325 57TH AVE NE",
+        "provider": "costco",
+        "time_zone": "America/Chicago",
+        "postal_code": "58503",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "1380",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:50.523+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:50.523+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.887,
+          46.844
+        ]
+      },
+      "properties": {
+        "id": 170708705,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "WEST FARGO",
+        "name": "West Fargo ND",
+        "state": "ND",
+        "address": "750 23RD AVE EAST",
+        "provider": "costco",
+        "time_zone": "America/Chicago",
+        "postal_code": "58078",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "1119",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:48.393+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:48.393+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -985,40 +985,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.865768,
-          46.864665
-        ]
-      },
-      "properties": {
-        "id": 784444,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Fargo",
-        "name": "Fargo Supercenter",
-        "state": "ND",
-        "address": "4731 13th Ave S",
-        "provider": "walmart",
-        "time_zone": "America/Chicago",
-        "postal_code": "58103",
-        "appointments": null,
-        "provider_brand": "walmart",
-        "carries_vaccine": false,
-        "appointment_types": null,
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1581",
-        "appointments_available": null,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": null,
-        "appointments_last_modified": null,
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -96.8420367,
           46.8014852
         ]
@@ -1053,27 +1019,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.113369,
-          47.930327
+          -96.865768,
+          46.864665
         ]
       },
       "properties": {
-        "id": 784448,
+        "id": 784444,
         "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Grand Forks",
-        "name": "Grand Forks Supercenter",
+        "city": "Fargo",
+        "name": "Fargo Supercenter",
         "state": "ND",
-        "address": "5755 Gateway Dr",
+        "address": "4731 13th Ave S",
         "provider": "walmart",
         "time_zone": "America/Chicago",
-        "postal_code": "58203",
+        "postal_code": "58103",
         "appointments": null,
         "provider_brand": "walmart",
         "carries_vaccine": false,
         "appointment_types": null,
         "provider_brand_id": 70,
         "provider_brand_name": "Walmart",
-        "provider_location_id": "5806",
+        "provider_location_id": "1581",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": null,
@@ -1108,6 +1074,40 @@
         "provider_brand_id": 70,
         "provider_brand_name": "Walmart",
         "provider_location_id": "1545",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.113369,
+          47.930327
+        ]
+      },
+      "properties": {
+        "id": 784448,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Grand Forks",
+        "name": "Grand Forks Supercenter",
+        "state": "ND",
+        "address": "5755 Gateway Dr",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "58203",
+        "appointments": null,
+        "provider_brand": "walmart",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "5806",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": null,
@@ -1431,40 +1431,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.4459308,
-          48.8271309
-        ]
-      },
-      "properties": {
-        "id": 141745942,
-        "url": "https://www.healthmartcovidvaccine.com/",
-        "city": "BOTTINEAU",
-        "name": "BOTTINEAU PHARMACY",
-        "state": "ND",
-        "address": "505 MAIN STREET",
-        "provider": "health_mart",
-        "time_zone": null,
-        "postal_code": "58318",
-        "appointments": null,
-        "provider_brand": "health_mart",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 96517,
-        "provider_brand_name": "Health Mart",
-        "provider_location_id": "9036",
-        "appointments_available": null,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
-        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -100.4491351,
           48.8292694
         ]
@@ -1486,6 +1452,40 @@
         "provider_brand_id": 96517,
         "provider_brand_name": "Health Mart",
         "provider_location_id": "6912",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4459308,
+          48.8271309
+        ]
+      },
+      "properties": {
+        "id": 141745942,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "BOTTINEAU",
+        "name": "BOTTINEAU PHARMACY",
+        "state": "ND",
+        "address": "505 MAIN STREET",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "58318",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "9036",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
@@ -1805,27 +1805,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8252449,
-          46.8040471
+          -96.8462562,
+          46.8589499
         ]
       },
       "properties": {
-        "id": 141567919,
+        "id": 141567913,
         "url": "https://www.healthmartcovidvaccine.com/",
         "city": "FARGO",
-        "name": "PROSPERITY HEALTH PHARMAC",
+        "name": "WEST ACRES PHARMACY",
         "state": "ND",
-        "address": "5180 PROSPERITY WAY # 106",
+        "address": "3902 13TH AVE S",
         "provider": "health_mart",
         "time_zone": null,
-        "postal_code": "58104",
+        "postal_code": "58103",
         "appointments": null,
         "provider_brand": "health_mart",
         "carries_vaccine": null,
         "appointment_types": null,
         "provider_brand_id": 96517,
         "provider_brand_name": "Health Mart",
-        "provider_location_id": "20387",
+        "provider_location_id": "18314",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
@@ -1907,27 +1907,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8462562,
-          46.8589499
+          -96.8252449,
+          46.8040471
         ]
       },
       "properties": {
-        "id": 141567913,
+        "id": 141567919,
         "url": "https://www.healthmartcovidvaccine.com/",
         "city": "FARGO",
-        "name": "WEST ACRES PHARMACY",
+        "name": "PROSPERITY HEALTH PHARMAC",
         "state": "ND",
-        "address": "3902 13TH AVE S",
+        "address": "5180 PROSPERITY WAY # 106",
         "provider": "health_mart",
         "time_zone": null,
-        "postal_code": "58103",
+        "postal_code": "58104",
         "appointments": null,
         "provider_brand": "health_mart",
         "carries_vaccine": null,
         "appointment_types": null,
         "provider_brand_id": 96517,
         "provider_brand_name": "Health Mart",
-        "provider_location_id": "18314",
+        "provider_location_id": "20387",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
@@ -2587,115 +2587,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.771407,
-          46.844695
-        ]
-      },
-      "properties": {
-        "id": 270258694,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "BISMARCK",
-        "name": "CVS Pharmacy in BISMARCK, ND",
-        "state": "ND",
-        "address": "1225 E. CALGARY AVE, STATE STREET AND E. CALGARY AVE",
-        "provider": "cvs",
-        "time_zone": "America/Chicago",
-        "postal_code": "58503",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "8614",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -100.787187,
           46.800444
         ]
@@ -2794,8 +2685,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2805,20 +2696,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.800205,
-          46.906328
+          -100.771407,
+          46.844695
         ]
       },
       "properties": {
-        "id": 270151857,
+        "id": 270258694,
         "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "FARGO",
-        "name": "CVS Pharmacy in FARGO, ND",
+        "city": "BISMARCK",
+        "name": "CVS Pharmacy in BISMARCK, ND",
         "state": "ND",
-        "address": "1321 19TH AVE NORTH",
+        "address": "1225 E. CALGARY AVE, STATE STREET AND E. CALGARY AVE",
         "provider": "cvs",
         "time_zone": "America/Chicago",
-        "postal_code": "58102",
+        "postal_code": "58503",
         "appointments": [
           {
             "date": "2021-06-17",
@@ -2861,6 +2752,11 @@
             "appointment_types": []
           },
           {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
             "date": "2021-06-26",
             "vaccine_types": [],
             "appointment_types": []
@@ -2893,13 +2789,13 @@
         },
         "provider_brand_id": 19,
         "provider_brand_name": "CVS",
-        "provider_location_id": "8613",
+        "provider_location_id": "8614",
         "appointments_available": true,
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3007,8 +2903,112 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.800205,
+          46.906328
+        ]
+      },
+      "properties": {
+        "id": 270151857,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "FARGO",
+        "name": "CVS Pharmacy in FARGO, ND",
+        "state": "ND",
+        "address": "1321 19TH AVE NORTH",
+        "provider": "cvs",
+        "time_zone": "America/Chicago",
+        "postal_code": "58102",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "8613",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3116,8 +3116,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3225,8 +3225,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3296,8 +3296,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:46.788+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:46.788+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:18.936+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:18.936+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4199,8 +4199,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:36.786+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:36.786+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:09.15+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:09.15+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4438,8 +4438,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:33.116+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:33.116+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:05.49+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:05.49+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4661,8 +4661,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:28.218+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:28.218+00:00",
+        "appointments_last_fetched": "2021-06-16T22:12:00.598+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:00.598+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4732,8 +4732,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:25.772+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:25.772+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:58.158+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:58.158+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4758,14 +4758,6 @@
         "time_zone": "America/North_Dakota/New_Salem",
         "postal_code": "58554",
         "appointments": [
-          {
-            "time": "2021-06-17T14:00:00.000-05:00",
-            "type": "Pfizer",
-            "vaccine_types": [
-              "pfizer"
-            ],
-            "appointment_types": []
-          },
           {
             "time": "2021-06-18T14:30:00.000-05:00",
             "type": "Moderna",
@@ -4820,8 +4812,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:20.889+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:20.889+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:54.482+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:54.482+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4907,8 +4899,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:18.439+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:18.439+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:52.022+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:52.022+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5170,8 +5162,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:15.983+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:15.983+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:49.583+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:49.583+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5273,8 +5265,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:14.766+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:14.766+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:48.361+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:48.361+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5393,8 +5385,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:12.328+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:12.328+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:45.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:45.926+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5472,8 +5464,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:11.089+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:11.089+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:44.703+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:44.703+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5519,8 +5511,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:09.862+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:09.862+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:43.486+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:43.486+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5958,8 +5950,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:07.424+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:07.424+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:41.03+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:41.03+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6670,8 +6662,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:01:58.873+00:00",
-        "appointments_last_modified": "2021-06-16T22:01:58.873+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:32.451+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:32.451+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }

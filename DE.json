@@ -62,8 +62,8 @@
         "status": "active",
         "provider_id": "costco",
         "location_count": 1,
-        "appointments_last_fetched": "2021-06-16T22:03:16.996+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:16.996+00:00"
+        "appointments_last_fetched": "2021-06-16T22:11:18.105+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:18.105+00:00"
       },
       {
         "id": 19,
@@ -73,8 +73,8 @@
         "status": "active",
         "provider_id": "cvs",
         "location_count": 20,
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00"
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00"
       },
       {
         "id": 34,
@@ -84,8 +84,8 @@
         "status": "active",
         "provider_id": "kroger",
         "location_count": 1,
-        "appointments_last_fetched": "2021-06-16T22:03:04.914+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.914+00:00"
+        "appointments_last_fetched": "2021-06-16T22:09:53.181+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:53.181+00:00"
       },
       {
         "id": 96517,
@@ -106,8 +106,8 @@
         "status": "active",
         "provider_id": "rite_aid",
         "location_count": 38,
-        "appointments_last_fetched": "2021-06-16T22:02:48.127+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:48.127+00:00"
+        "appointments_last_fetched": "2021-06-16T22:12:09.343+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:09.343+00:00"
       },
       {
         "id": 5,
@@ -150,13 +150,13 @@
         "status": "active",
         "provider_id": "walmart",
         "location_count": 9,
-        "appointments_last_fetched": "2021-06-16T22:02:11.305+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:11.305+00:00"
+        "appointments_last_fetched": "2021-06-16T22:07:53.637+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:53.637+00:00"
       }
     ],
     "provider_brand_count": 11,
-    "appointments_last_fetched": "2021-06-16T22:03:16.996+00:00",
-    "appointments_last_modified": "2021-06-16T22:03:16.996+00:00"
+    "appointments_last_fetched": "2021-06-16T22:12:09.343+00:00",
+    "appointments_last_modified": "2021-06-16T22:12:09.343+00:00"
   },
   "features": [
     {
@@ -191,8 +191,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:16.996+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:16.996+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:18.105+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:18.105+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -229,8 +229,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.914+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.914+00:00",
+        "appointments_last_fetched": "2021-06-16T22:09:53.181+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:53.181+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -392,20 +392,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.48478565,
-          39.82278381
+          -75.56192594,
+          39.75809745
         ]
       },
       "properties": {
-        "id": 2713408,
+        "id": 2713392,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "WILMINGTON",
         "name": "Walgreen Drug Store",
         "state": "DE",
-        "address": "1601 NAAMANS RD",
+        "address": "1A TROLLEY SQ",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "19810",
+        "postal_code": "19806",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -414,7 +414,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "12695",
+        "provider_location_id": "11014",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
@@ -430,20 +430,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.49663987,
-          39.77219304
+          -75.54727498,
+          39.81186032
         ]
       },
       "properties": {
-        "id": 2713384,
+        "id": 2713412,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "WILMINGTON",
         "name": "Walgreen Drug Store",
         "state": "DE",
-        "address": "802 PHILADELPHIA PIKE",
+        "address": "4201 CONCORD PIKE",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "19809",
+        "postal_code": "19803",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -452,7 +452,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "11049",
+        "provider_location_id": "11002",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -468,20 +468,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.58949157,
-          39.75353707
+          -75.50701298,
+          39.80447876
         ]
       },
       "properties": {
-        "id": 2713395,
+        "id": 2713403,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "WILMINGTON",
         "name": "Walgreen Drug Store",
         "state": "DE",
-        "address": "3301 LANCASTER PIKE",
+        "address": "305 BRANMAR PLAZA",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "19805",
+        "postal_code": "19810",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -490,48 +490,10 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "11010",
+        "provider_location_id": "21314",
         "appointments_available": null,
         "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:59:33.945+00:00",
-        "appointments_last_modified": "2021-06-16T20:59:33.945+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.66684719,
-          39.73230501
-        ]
-      },
-      "properties": {
-        "id": 2713401,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "WILMINGTON",
-        "name": "Walgreen Drug Store",
-        "state": "DE",
-        "address": "1323 MCKENNANS CHURCH RD",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "19808",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "11005",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
+          "jj": true
         },
         "appointments_last_fetched": "2021-06-16T20:59:33.945+00:00",
         "appointments_last_modified": "2021-06-16T20:59:33.945+00:00",
@@ -620,120 +582,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.56192594,
-          39.75809745
-        ]
-      },
-      "properties": {
-        "id": 2713392,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "WILMINGTON",
-        "name": "Walgreen Drug Store",
-        "state": "DE",
-        "address": "1A TROLLEY SQ",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "19806",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "11014",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:59:33.945+00:00",
-        "appointments_last_modified": "2021-06-16T20:59:33.945+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.50701298,
-          39.80447876
-        ]
-      },
-      "properties": {
-        "id": 2713403,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "WILMINGTON",
-        "name": "Walgreen Drug Store",
-        "state": "DE",
-        "address": "305 BRANMAR PLAZA",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "19810",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "21314",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "jj": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:59:33.945+00:00",
-        "appointments_last_modified": "2021-06-16T20:59:33.945+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.54727498,
-          39.81186032
-        ]
-      },
-      "properties": {
-        "id": 2713412,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "WILMINGTON",
-        "name": "Walgreen Drug Store",
-        "state": "DE",
-        "address": "4201 CONCORD PIKE",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "19803",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "11002",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:59:33.945+00:00",
-        "appointments_last_modified": "2021-06-16T20:59:33.945+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.54869774,
           39.74457758
         ]
@@ -772,6 +620,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.47837104,
+          39.78414326
+        ]
+      },
+      "properties": {
+        "id": 2713388,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WILMINGTON",
+        "name": "Walgreen Drug Store",
+        "state": "DE",
+        "address": "1508 PHILADELPHIA PIKE",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "19809",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11032",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:59:33.945+00:00",
+        "appointments_last_modified": "2021-06-16T20:59:33.945+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.69118245,
           39.73468687
         ]
@@ -795,6 +681,82 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "11024",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:59:33.945+00:00",
+        "appointments_last_modified": "2021-06-16T20:59:33.945+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.49663987,
+          39.77219304
+        ]
+      },
+      "properties": {
+        "id": 2713384,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WILMINGTON",
+        "name": "Walgreen Drug Store",
+        "state": "DE",
+        "address": "802 PHILADELPHIA PIKE",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "19809",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11049",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:59:33.945+00:00",
+        "appointments_last_modified": "2021-06-16T20:59:33.945+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48478565,
+          39.82278381
+        ]
+      },
+      "properties": {
+        "id": 2713408,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WILMINGTON",
+        "name": "Walgreen Drug Store",
+        "state": "DE",
+        "address": "1601 NAAMANS RD",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "19810",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "12695",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
@@ -848,20 +810,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.47837104,
-          39.78414326
+          -75.66684719,
+          39.73230501
         ]
       },
       "properties": {
-        "id": 2713388,
+        "id": 2713401,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "WILMINGTON",
         "name": "Walgreen Drug Store",
         "state": "DE",
-        "address": "1508 PHILADELPHIA PIKE",
+        "address": "1323 MCKENNANS CHURCH RD",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "19809",
+        "postal_code": "19808",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -870,7 +832,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "11032",
+        "provider_location_id": "11005",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
@@ -886,20 +848,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.68480859,
-          39.7079812
+          -75.58949157,
+          39.75353707
         ]
       },
       "properties": {
-        "id": 2713398,
+        "id": 2713395,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "NEWARK",
+        "city": "WILMINGTON",
         "name": "Walgreen Drug Store",
         "state": "DE",
-        "address": "2651 KIRKWOOD HWY",
+        "address": "3301 LANCASTER PIKE",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "19711",
+        "postal_code": "19805",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -908,51 +870,13 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "11133",
+        "provider_location_id": "11010",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T20:59:29.432+00:00",
-        "appointments_last_modified": "2021-06-16T20:59:29.432+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.73902215,
-          39.71574933
-        ]
-      },
-      "properties": {
-        "id": 2713413,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "NEWARK",
-        "name": "Walgreen Drug Store",
-        "state": "DE",
-        "address": "372 POSSUM PARK RD",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "19711",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "11045",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:59:29.432+00:00",
-        "appointments_last_modified": "2021-06-16T20:59:29.432+00:00",
+        "appointments_last_fetched": "2021-06-16T20:59:33.945+00:00",
+        "appointments_last_modified": "2021-06-16T20:59:33.945+00:00",
         "appointments_available_all_doses": null,
         "appointments_available_2nd_dose_only": null
       }
@@ -1038,17 +962,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.74832565,
-          39.68358651
+          -75.68480859,
+          39.7079812
         ]
       },
       "properties": {
-        "id": 2713404,
+        "id": 2713398,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "NEWARK",
         "name": "Walgreen Drug Store",
         "state": "DE",
-        "address": "124 E MAIN ST",
+        "address": "2651 KIRKWOOD HWY",
         "provider": "walgreens",
         "time_zone": "America/New_York",
         "postal_code": "19711",
@@ -1060,10 +984,10 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "11008",
+        "provider_location_id": "11133",
         "appointments_available": null,
         "appointment_vaccine_types": {
-          "pfizer": true
+          "moderna": true
         },
         "appointments_last_fetched": "2021-06-16T20:59:29.432+00:00",
         "appointments_last_modified": "2021-06-16T20:59:29.432+00:00",
@@ -1076,20 +1000,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.7257384,
-          39.6643221
+          -75.73902215,
+          39.71574933
         ]
       },
       "properties": {
-        "id": 2713391,
+        "id": 2713413,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "NEWARK",
         "name": "Walgreen Drug Store",
         "state": "DE",
-        "address": "19 MARROWS RD",
+        "address": "372 POSSUM PARK RD",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "19713",
+        "postal_code": "19711",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -1098,7 +1022,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "11066",
+        "provider_location_id": "11045",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
@@ -1152,6 +1076,82 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.7257384,
+          39.6643221
+        ]
+      },
+      "properties": {
+        "id": 2713391,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "NEWARK",
+        "name": "Walgreen Drug Store",
+        "state": "DE",
+        "address": "19 MARROWS RD",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "19713",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11066",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:59:29.432+00:00",
+        "appointments_last_modified": "2021-06-16T20:59:29.432+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.74832565,
+          39.68358651
+        ]
+      },
+      "properties": {
+        "id": 2713404,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "NEWARK",
+        "name": "Walgreen Drug Store",
+        "state": "DE",
+        "address": "124 E MAIN ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "19711",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11008",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:59:29.432+00:00",
+        "appointments_last_modified": "2021-06-16T20:59:29.432+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.64981435,
           39.7108609
         ]
@@ -1181,44 +1181,6 @@
         },
         "appointments_last_fetched": "2021-06-16T20:59:29.432+00:00",
         "appointments_last_modified": "2021-06-16T20:59:29.432+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.71309041,
-          39.60644415
-        ]
-      },
-      "properties": {
-        "id": 2713369,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "BEAR",
-        "name": "Walgreen Drug Store",
-        "state": "DE",
-        "address": "128 FOX HUNT DR",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "19701",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "11022",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T19:16:39.434+00:00",
-        "appointments_last_modified": "2021-06-16T19:16:39.434+00:00",
         "appointments_available_all_doses": null,
         "appointments_available_2nd_dose_only": null
       }
@@ -1266,6 +1228,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.71309041,
+          39.60644415
+        ]
+      },
+      "properties": {
+        "id": 2713369,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BEAR",
+        "name": "Walgreen Drug Store",
+        "state": "DE",
+        "address": "128 FOX HUNT DR",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "19701",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11022",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:16:39.434+00:00",
+        "appointments_last_modified": "2021-06-16T19:16:39.434+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.515377,
           39.17112
         ]
@@ -1292,44 +1292,6 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T19:16:39.434+00:00",
-        "appointments_last_modified": "2021-06-16T19:16:39.434+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.73124102,
-          39.44812141
-        ]
-      },
-      "properties": {
-        "id": 2713347,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "MIDDLETOWN",
-        "name": "Walgreen Drug Store",
-        "state": "DE",
-        "address": "700 S RIDGE AVE",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "19709",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "12462",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
         },
         "appointments_last_fetched": "2021-06-16T19:16:39.434+00:00",
         "appointments_last_modified": "2021-06-16T19:16:39.434+00:00",
@@ -1418,6 +1380,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.73124102,
+          39.44812141
+        ]
+      },
+      "properties": {
+        "id": 2713347,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "MIDDLETOWN",
+        "name": "Walgreen Drug Store",
+        "state": "DE",
+        "address": "700 S RIDGE AVE",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "19709",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "12462",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:16:39.434+00:00",
+        "appointments_last_modified": "2021-06-16T19:16:39.434+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.64912336,
           39.49383893
         ]
@@ -1441,6 +1441,44 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "11075",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:16:39.434+00:00",
+        "appointments_last_modified": "2021-06-16T19:16:39.434+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.75876107,
+          39.60388786
+        ]
+      },
+      "properties": {
+        "id": 2713376,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "NEWARK",
+        "name": "Walgreen Drug Store",
+        "state": "DE",
+        "address": "2719 PULASKI HWY",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "19702",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11048",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
@@ -1482,44 +1520,6 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "jj": true
-        },
-        "appointments_last_fetched": "2021-06-16T19:16:39.434+00:00",
-        "appointments_last_modified": "2021-06-16T19:16:39.434+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.75876107,
-          39.60388786
-        ]
-      },
-      "properties": {
-        "id": 2713376,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "NEWARK",
-        "name": "Walgreen Drug Store",
-        "state": "DE",
-        "address": "2719 PULASKI HWY",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "19702",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "11048",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
         },
         "appointments_last_fetched": "2021-06-16T19:16:39.434+00:00",
         "appointments_last_modified": "2021-06-16T19:16:39.434+00:00",
@@ -2140,44 +2140,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.19591977,
-          38.62615582
-        ]
-      },
-      "properties": {
-        "id": 2713363,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "MILLSBORO",
-        "name": "Walgreen Drug Store",
-        "state": "DE",
-        "address": "26191 JOHN J WILLIAMS HWY",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "19966",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "11031",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T19:11:50.802+00:00",
-        "appointments_last_modified": "2021-06-16T19:11:50.802+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.29510571,
           38.5843364
         ]
@@ -2201,6 +2163,44 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "11026",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:11:50.802+00:00",
+        "appointments_last_modified": "2021-06-16T19:11:50.802+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19591977,
+          38.62615582
+        ]
+      },
+      "properties": {
+        "id": 2713363,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "MILLSBORO",
+        "name": "Walgreen Drug Store",
+        "state": "DE",
+        "address": "26191 JOHN J WILLIAMS HWY",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "19966",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11031",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -2444,44 +2444,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.56844207,
-          39.66337723
-        ]
-      },
-      "properties": {
-        "id": 2713362,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "NEW CASTLE",
-        "name": "Walgreen Drug Store",
-        "state": "DE",
-        "address": "740 FERRY CUT OFF ST",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "19720",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "11034",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T18:51:29.845+00:00",
-        "appointments_last_modified": "2021-06-16T18:51:29.845+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.58287666,
           39.6900534
         ]
@@ -2520,20 +2482,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.57585824,
-          39.73336965
+          -75.56844207,
+          39.66337723
         ]
       },
       "properties": {
-        "id": 2713380,
+        "id": 2713362,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "WILMINGTON",
+        "city": "NEW CASTLE",
         "name": "Walgreen Drug Store",
         "state": "DE",
-        "address": "1900 MARYLAND AVE",
+        "address": "740 FERRY CUT OFF ST",
         "provider": "walgreens",
         "time_zone": "America/New_York",
-        "postal_code": "19805",
+        "postal_code": "19720",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -2542,7 +2504,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "11011",
+        "provider_location_id": "11034",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
@@ -2584,6 +2546,44 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:51:29.845+00:00",
+        "appointments_last_modified": "2021-06-16T18:51:29.845+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57585824,
+          39.73336965
+        ]
+      },
+      "properties": {
+        "id": 2713380,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WILMINGTON",
+        "name": "Walgreen Drug Store",
+        "state": "DE",
+        "address": "1900 MARYLAND AVE",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "19805",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11011",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
         },
         "appointments_last_fetched": "2021-06-16T18:51:29.845+00:00",
         "appointments_last_modified": "2021-06-16T18:51:29.845+00:00",
@@ -3126,44 +3126,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.7777655,
-          39.6679771
-        ]
-      },
-      "properties": {
-        "id": 1045699,
-        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-        "city": "Newark",
-        "name": "Acme 0806",
-        "state": "DE",
-        "address": "100 Suburban Drive",
-        "provider": "albertsons",
-        "time_zone": "America/New_York",
-        "postal_code": "19711",
-        "appointments": null,
-        "provider_brand": "acme",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 9,
-        "provider_brand_name": "Acme",
-        "provider_location_id": "1600098828525",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
-        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.7377023,
           39.6827429
         ]
@@ -3190,6 +3152,44 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7777655,
+          39.6679771
+        ]
+      },
+      "properties": {
+        "id": 1045699,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Newark",
+        "name": "Acme 0806",
+        "state": "DE",
+        "address": "100 Suburban Drive",
+        "provider": "albertsons",
+        "time_zone": "America/New_York",
+        "postal_code": "19711",
+        "appointments": null,
+        "provider_brand": "acme",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 9,
+        "provider_brand_name": "Acme",
+        "provider_location_id": "1600098828525",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
         },
         "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
         "appointments_last_modified": "2021-05-21T19:03:33+00:00",
@@ -3426,6 +3426,82 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.7464,
+          39.6029
+        ]
+      },
+      "properties": {
+        "id": 7365677,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Newark",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "400 Peoples Plaza",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19702",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "1751",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:12:09.343+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:09.343+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1072,
+          38.5483
+        ]
+      },
+      "properties": {
+        "id": 7365661,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Millville",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "36729 Old Mill Road",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19967",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "4919",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:12:08.121+00:00",
+        "appointments_last_modified": "2021-06-16T22:12:08.121+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.686825,
           39.623094
         ]
@@ -3499,8 +3575,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3608,8 +3684,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3717,8 +3793,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3826,8 +3902,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3935,8 +4011,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4044,8 +4120,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4153,8 +4229,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4262,8 +4338,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4371,112 +4447,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.727275,
-          39.663073
-        ]
-      },
-      "properties": {
-        "id": 270548329,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "NEWARK",
-        "name": "CVS Pharmacy in NEWARK, DE",
-        "state": "DE",
-        "address": "366 E. CHESTNUT HILL RD.",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "19713",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "10103",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4584,8 +4556,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4693,8 +4665,112 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.727275,
+          39.663073
+        ]
+      },
+      "properties": {
+        "id": 270548329,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "NEWARK",
+        "name": "CVS Pharmacy in NEWARK, DE",
+        "state": "DE",
+        "address": "366 E. CHESTNUT HILL RD.",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "19713",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10103",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4802,8 +4878,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4911,8 +4987,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5020,8 +5096,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5129,117 +5205,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.651452,
-          39.711452
-        ]
-      },
-      "properties": {
-        "id": 270534583,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "WILMINGTON",
-        "name": "CVS Pharmacy in WILMINGTON, DE",
-        "state": "DE",
-        "address": "1605 TELEGRAPH RD.",
-        "provider": "cvs",
-        "time_zone": "America/New_York",
-        "postal_code": "19804",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "3038",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5307,8 +5274,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5416,8 +5383,117 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.651452,
+          39.711452
+        ]
+      },
+      "properties": {
+        "id": 270534583,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "WILMINGTON",
+        "name": "CVS Pharmacy in WILMINGTON, DE",
+        "state": "DE",
+        "address": "1605 TELEGRAPH RD.",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "19804",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "3038",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5525,84 +5601,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
-        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.7464,
-          39.6029
-        ]
-      },
-      "properties": {
-        "id": 7365677,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Newark",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "400 Peoples Plaza",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19702",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "1751",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:48.127+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:48.127+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.1072,
-          38.5483
-        ]
-      },
-      "properties": {
-        "id": 7365661,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Millville",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "36729 Old Mill Road",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19967",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "4919",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:47.256+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:47.256+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5640,8 +5640,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:36.428+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:36.428+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:55.418+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:55.418+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5678,8 +5678,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:24.521+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:24.521+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:41.751+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:41.751+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5716,8 +5716,469 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:11.803+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:11.803+00:00",
+        "appointments_last_fetched": "2021-06-16T22:11:29.672+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:29.672+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19473,
+          38.63514
+        ]
+      },
+      "properties": {
+        "id": 7362847,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Millsboro",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "24892 John J Williams Hwy",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19966",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "4916",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:20.797+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:20.797+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1313,
+          38.7296
+        ]
+      },
+      "properties": {
+        "id": 7362846,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Rehoboth Beach",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "18898 Rehoboth Mall Blvd",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19971",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "11193",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:17.571+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:17.571+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5587,
+          39.7434
+        ]
+      },
+      "properties": {
+        "id": 7483991,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Wilmington",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "800 West 4th Street",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19801",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "1658",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:11:03.47+00:00",
+        "appointments_last_modified": "2021-06-16T22:11:03.47+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.232,
+          38.4582
+        ]
+      },
+      "properties": {
+        "id": 7351280,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Selbyville",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "38169 Dupont Boulevard",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19975",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "4910",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:10:56.386+00:00",
+        "appointments_last_modified": "2021-06-16T22:10:56.386+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5051,
+          39.8012
+        ]
+      },
+      "properties": {
+        "id": 7483989,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Wilmington",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "1718 Marsh Road",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19810",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "839",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:10:43.101+00:00",
+        "appointments_last_modified": "2021-06-16T22:10:43.101+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.567,
+          38.9251
+        ]
+      },
+      "properties": {
+        "id": 7365032,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Harrington",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "17069 South Dupont Highway",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19952",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "4924",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:10:36.604+00:00",
+        "appointments_last_modified": "2021-06-16T22:10:36.604+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7255,
+          39.6621
+        ]
+      },
+      "properties": {
+        "id": 7365678,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Newark",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "25 Chestnut Hill Plaza",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19713",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "11182",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:10:30.353+00:00",
+        "appointments_last_modified": "2021-06-16T22:10:30.353+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6915,
+          39.7412
+        ]
+      },
+      "properties": {
+        "id": 7483993,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Wilmington",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "4718 Limestone Road",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19808",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "11187",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:10:30.15+00:00",
+        "appointments_last_modified": "2021-06-16T22:10:30.15+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5866,
+          39.6748
+        ]
+      },
+      "properties": {
+        "id": 7362840,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "New Castle",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "501 East Basin Road",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19720",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "11183",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:10:18.883+00:00",
+        "appointments_last_modified": "2021-06-16T22:10:18.883+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5385,
+          39.1127
+        ]
+      },
+      "properties": {
+        "id": 7350450,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Camden",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "3004 South Dupont Highway",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19934",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "11190",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:10:10.821+00:00",
+        "appointments_last_modified": "2021-06-16T22:10:10.821+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2955,
+          38.5855
+        ]
+      },
+      "properties": {
+        "id": 7365662,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Millsboro",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "28511 Dupont Blvd",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19966",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "11192",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:09:43.096+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:43.096+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.554,
+          39.1602
+        ]
+      },
+      "properties": {
+        "id": 7350452,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Dover",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "41 Greentree Drive",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19904",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "3756",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:09:13.878+00:00",
+        "appointments_last_modified": "2021-06-16T22:09:13.878+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5767,8 +6228,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:11.305+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:11.305+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:53.637+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:53.637+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5818,110 +6279,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:11.305+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:11.305+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.404416,
-          38.702618
-        ]
-      },
-      "properties": {
-        "id": 774168,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Georgetown",
-        "name": "Georgetown Supercenter",
-        "state": "DE",
-        "address": "4 College Park Ln",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "19947",
-        "appointments": [
-          {
-            "time": "2021-06-17T10:40:00.000-04:00",
-            "type": "Pfizer, Moderna, Johnson & Johnson",
-            "vaccine_types": [
-              "jj",
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2791",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:11.305+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:11.305+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.737929,
-          39.446328
-        ]
-      },
-      "properties": {
-        "id": 773003,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Middletown",
-        "name": "Middletown Supercenter",
-        "state": "DE",
-        "address": "705 Middletown Warwick Rd",
-        "provider": "walmart",
-        "time_zone": "America/New_York",
-        "postal_code": "19709",
-        "appointments": [
-          {
-            "time": "2021-06-17T09:40:00.000-04:00",
-            "type": "Pfizer, Moderna, Johnson & Johnson",
-            "vaccine_types": [
-              "jj",
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "3802",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:11.305+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:11.305+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:53.637+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:53.637+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5969,8 +6328,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:11.305+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:11.305+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:53.637+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:53.637+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6020,8 +6379,59 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:11.305+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:11.305+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:53.637+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:53.637+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.404416,
+          38.702618
+        ]
+      },
+      "properties": {
+        "id": 774168,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Georgetown",
+        "name": "Georgetown Supercenter",
+        "state": "DE",
+        "address": "4 College Park Ln",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "19947",
+        "appointments": [
+          {
+            "time": "2021-06-17T10:40:00.000-04:00",
+            "type": "Pfizer, Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2791",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:07:53.236+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:53.236+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6069,8 +6479,135 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:11.305+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:11.305+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:53.236+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:53.236+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4394,
+          38.9205
+        ]
+      },
+      "properties": {
+        "id": 7365034,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Milford",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "677 North Dupont Blvd",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19963",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "3749",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:07:51.799+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:51.799+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5559,
+          39.6897
+        ]
+      },
+      "properties": {
+        "id": 7362838,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "New Castle",
+        "name": "Rite Aid",
+        "state": "DE",
+        "address": "2034 New Castle Avenue",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "19720",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "172",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:07:50.575+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:50.575+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.737929,
+          39.446328
+        ]
+      },
+      "properties": {
+        "id": 773003,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Middletown",
+        "name": "Middletown Supercenter",
+        "state": "DE",
+        "address": "705 Middletown Warwick Rd",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "19709",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:40:00.000-04:00",
+            "type": "Pfizer, Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "3802",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:07:50.45+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:50.45+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6120,8 +6657,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:07.722+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:07.722+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:50.45+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:50.45+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6171,545 +6708,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:02:07.722+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:07.722+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.19473,
-          38.63514
-        ]
-      },
-      "properties": {
-        "id": 7362847,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Millsboro",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "24892 John J Williams Hwy",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19966",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "4916",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:02:02.012+00:00",
-        "appointments_last_modified": "2021-06-16T22:02:02.012+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.1313,
-          38.7296
-        ]
-      },
-      "properties": {
-        "id": 7362846,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Rehoboth Beach",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "18898 Rehoboth Mall Blvd",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19971",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "11193",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:01:58.933+00:00",
-        "appointments_last_modified": "2021-06-16T22:01:58.933+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.5587,
-          39.7434
-        ]
-      },
-      "properties": {
-        "id": 7483991,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Wilmington",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "800 West 4th Street",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19801",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "1658",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:01:44.218+00:00",
-        "appointments_last_modified": "2021-06-16T22:01:44.218+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.232,
-          38.4582
-        ]
-      },
-      "properties": {
-        "id": 7351280,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Selbyville",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "38169 Dupont Boulevard",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19975",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "4910",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:01:37.735+00:00",
-        "appointments_last_modified": "2021-06-16T22:01:37.735+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.5051,
-          39.8012
-        ]
-      },
-      "properties": {
-        "id": 7483989,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Wilmington",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "1718 Marsh Road",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19810",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "839",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:01:22.235+00:00",
-        "appointments_last_modified": "2021-06-16T22:01:22.235+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.567,
-          38.9251
-        ]
-      },
-      "properties": {
-        "id": 7365032,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Harrington",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "17069 South Dupont Highway",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19952",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "4924",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:01:15.923+00:00",
-        "appointments_last_modified": "2021-06-16T22:01:15.923+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.7255,
-          39.6621
-        ]
-      },
-      "properties": {
-        "id": 7365678,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Newark",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "25 Chestnut Hill Plaza",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19713",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "11182",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:01:09.479+00:00",
-        "appointments_last_modified": "2021-06-16T22:01:09.479+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.6915,
-          39.7412
-        ]
-      },
-      "properties": {
-        "id": 7483993,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Wilmington",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "4718 Limestone Road",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19808",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "11187",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:01:09.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:01:09.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.5866,
-          39.6748
-        ]
-      },
-      "properties": {
-        "id": 7362840,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "New Castle",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "501 East Basin Road",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19720",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "11183",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:00:57.994+00:00",
-        "appointments_last_modified": "2021-06-16T22:00:57.994+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.5385,
-          39.1127
-        ]
-      },
-      "properties": {
-        "id": 7350450,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Camden",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "3004 South Dupont Highway",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19934",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "11190",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:00:49.492+00:00",
-        "appointments_last_modified": "2021-06-16T22:00:49.492+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.2955,
-          38.5855
-        ]
-      },
-      "properties": {
-        "id": 7365662,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Millsboro",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "28511 Dupont Blvd",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19966",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "11192",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:00:11.238+00:00",
-        "appointments_last_modified": "2021-06-16T22:00:11.238+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.554,
-          39.1602
-        ]
-      },
-      "properties": {
-        "id": 7350452,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Dover",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "41 Greentree Drive",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19904",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "3756",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T21:59:36.212+00:00",
-        "appointments_last_modified": "2021-06-16T21:59:36.212+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.4394,
-          38.9205
-        ]
-      },
-      "properties": {
-        "id": 7365034,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "Milford",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "677 North Dupont Blvd",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19963",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "3749",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T21:58:04.393+00:00",
-        "appointments_last_modified": "2021-06-16T21:58:04.393+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.5559,
-          39.6897
-        ]
-      },
-      "properties": {
-        "id": 7362838,
-        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-        "city": "New Castle",
-        "name": "Rite Aid",
-        "state": "DE",
-        "address": "2034 New Castle Avenue",
-        "provider": "rite_aid",
-        "time_zone": "America/New_York",
-        "postal_code": "19720",
-        "appointments": [],
-        "provider_brand": "rite_aid",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 40,
-        "provider_brand_name": "Rite Aid",
-        "provider_location_id": "172",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true
-        },
-        "appointments_last_fetched": "2021-06-16T21:58:03.122+00:00",
-        "appointments_last_modified": "2021-06-16T21:58:03.122+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:50.45+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:50.45+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6746,8 +6746,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:57:44.868+00:00",
-        "appointments_last_modified": "2021-06-16T21:57:44.868+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:32.885+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:32.885+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6785,8 +6785,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:57:34.054+00:00",
-        "appointments_last_modified": "2021-06-16T21:57:34.054+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:22.997+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:22.997+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6823,8 +6823,8 @@
         "appointment_vaccine_types": {
           "jj": true
         },
-        "appointments_last_fetched": "2021-06-16T21:57:29.454+00:00",
-        "appointments_last_modified": "2021-06-16T21:57:29.454+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:18.568+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:18.568+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6861,8 +6861,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:57:26.803+00:00",
-        "appointments_last_modified": "2021-06-16T21:57:26.803+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:15.997+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:15.997+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6899,8 +6899,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:57:22.462+00:00",
-        "appointments_last_modified": "2021-06-16T21:57:22.462+00:00",
+        "appointments_last_fetched": "2021-06-16T22:07:12.381+00:00",
+        "appointments_last_modified": "2021-06-16T22:07:12.381+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6937,8 +6937,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:56:34.594+00:00",
-        "appointments_last_modified": "2021-06-16T21:56:34.594+00:00",
+        "appointments_last_fetched": "2021-06-16T22:06:29.305+00:00",
+        "appointments_last_modified": "2021-06-16T22:06:29.305+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6975,8 +6975,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:56:24.079+00:00",
-        "appointments_last_modified": "2021-06-16T21:56:24.079+00:00",
+        "appointments_last_fetched": "2021-06-16T22:06:19.176+00:00",
+        "appointments_last_modified": "2021-06-16T22:06:19.176+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7013,8 +7013,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:56:17.494+00:00",
-        "appointments_last_modified": "2021-06-16T21:56:17.494+00:00",
+        "appointments_last_fetched": "2021-06-16T22:06:12.168+00:00",
+        "appointments_last_modified": "2021-06-16T22:06:12.168+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7051,8 +7051,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:56:16.994+00:00",
-        "appointments_last_modified": "2021-06-16T21:56:16.994+00:00",
+        "appointments_last_fetched": "2021-06-16T22:06:11.25+00:00",
+        "appointments_last_modified": "2021-06-16T22:06:11.25+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7089,8 +7089,8 @@
         "appointment_vaccine_types": {
           "jj": true
         },
-        "appointments_last_fetched": "2021-06-16T21:56:04.922+00:00",
-        "appointments_last_modified": "2021-06-16T21:56:04.922+00:00",
+        "appointments_last_fetched": "2021-06-16T22:05:56.911+00:00",
+        "appointments_last_modified": "2021-06-16T22:05:56.911+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7127,8 +7127,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T21:56:02.45+00:00",
-        "appointments_last_modified": "2021-06-16T21:56:02.45+00:00",
+        "appointments_last_fetched": "2021-06-16T22:05:55.036+00:00",
+        "appointments_last_modified": "2021-06-16T22:05:55.036+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7165,8 +7165,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:55:51.778+00:00",
-        "appointments_last_modified": "2021-06-16T21:55:51.778+00:00",
+        "appointments_last_fetched": "2021-06-16T22:05:44.269+00:00",
+        "appointments_last_modified": "2021-06-16T22:05:44.269+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7203,8 +7203,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:55:40.313+00:00",
-        "appointments_last_modified": "2021-06-16T21:55:40.313+00:00",
+        "appointments_last_fetched": "2021-06-16T22:05:32.513+00:00",
+        "appointments_last_modified": "2021-06-16T22:05:32.513+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7241,8 +7241,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:55:37.81+00:00",
-        "appointments_last_modified": "2021-06-16T21:55:37.81+00:00",
+        "appointments_last_fetched": "2021-06-16T22:05:30.442+00:00",
+        "appointments_last_modified": "2021-06-16T22:05:30.442+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7279,8 +7279,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:55:29.857+00:00",
-        "appointments_last_modified": "2021-06-16T21:55:29.857+00:00",
+        "appointments_last_fetched": "2021-06-16T22:05:22.312+00:00",
+        "appointments_last_modified": "2021-06-16T22:05:22.312+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7317,8 +7317,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:55:22.684+00:00",
-        "appointments_last_modified": "2021-06-16T21:55:22.684+00:00",
+        "appointments_last_fetched": "2021-06-16T22:05:15.901+00:00",
+        "appointments_last_modified": "2021-06-16T22:05:15.901+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7355,8 +7355,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:55:05.048+00:00",
-        "appointments_last_modified": "2021-06-16T21:55:05.048+00:00",
+        "appointments_last_fetched": "2021-06-16T22:04:57.439+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:57.439+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7393,8 +7393,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T21:54:39.289+00:00",
-        "appointments_last_modified": "2021-06-16T21:54:39.289+00:00",
+        "appointments_last_fetched": "2021-06-16T22:04:31.199+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:31.199+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7432,8 +7432,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T21:54:25.646+00:00",
-        "appointments_last_modified": "2021-06-16T21:54:25.646+00:00",
+        "appointments_last_fetched": "2021-06-16T22:04:17.309+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:17.309+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
