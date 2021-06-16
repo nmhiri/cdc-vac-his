@@ -1,4 +1,4 @@
-: Scrape latest data
+name: Scrape latest data
 
 on:
   push:
@@ -16,7 +16,8 @@ jobs:
         fetch-depth: 0
     - name: Fetch latest data
       run: |-
-        curl https://apis.evax.tn/evax-stat/evax-stat 
+        curl https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=vaccination_data | jq . > states.json
+        curl https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=vaccination_county_condensed_data | jq . > counties.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
@@ -25,4 +26,3 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
-   
