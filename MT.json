@@ -1,0 +1,5587 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "code": "MT",
+    "name": "Montana",
+    "store_count": 100,
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -116.051140898,
+            44.358328342
+          ],
+          [
+            -116.051140898,
+            49.00154597
+          ],
+          [
+            -104.041363198,
+            49.00154597
+          ],
+          [
+            -104.041363198,
+            44.358328342
+          ],
+          [
+            -116.051140898,
+            44.358328342
+          ]
+        ]
+      ]
+    },
+    "provider_brands": [
+      {
+        "id": 12,
+        "key": "albertsons",
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "name": "Albertsons",
+        "status": "inactive",
+        "provider_id": "albertsons",
+        "location_count": 22,
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00"
+      },
+      {
+        "id": 139709,
+        "key": "costco",
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "name": "Costco",
+        "status": "active",
+        "provider_id": "costco",
+        "location_count": 5,
+        "appointments_last_fetched": "2021-06-16T22:03:24.396+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:24.396+00:00"
+      },
+      {
+        "id": 19,
+        "key": "cvs",
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "name": "CVS",
+        "status": "active",
+        "provider_id": "cvs",
+        "location_count": 14,
+        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00"
+      },
+      {
+        "id": 96517,
+        "key": "health_mart",
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "name": "Health Mart",
+        "status": "inactive",
+        "provider_id": "health_mart",
+        "location_count": 18,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00"
+      },
+      {
+        "id": 5,
+        "key": "safeway",
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "name": "Safeway",
+        "status": "inactive",
+        "provider_id": "albertsons",
+        "location_count": 7,
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00"
+      },
+      {
+        "id": 41,
+        "key": "sams_club",
+        "url": "https://www.samsclub.com/pharmacy/immunization/form?imzType=covid",
+        "name": "Sam's Club",
+        "status": "inactive",
+        "provider_id": "sams_club",
+        "location_count": 2,
+        "appointments_last_fetched": "2021-02-26T19:53:13.547+00:00",
+        "appointments_last_modified": "2021-02-26T19:53:13.547+00:00"
+      },
+      {
+        "id": 21,
+        "key": "smiths",
+        "url": "https://www.smithsfoodanddrug.com/rx/covid-eligibility",
+        "name": "Smith's",
+        "status": "active",
+        "provider_id": "kroger",
+        "location_count": 4,
+        "appointments_last_fetched": "2021-06-16T22:03:12.575+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:12.575+00:00"
+      },
+      {
+        "id": 42,
+        "key": "thrifty_white",
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "name": "Thrifty White",
+        "status": "active",
+        "provider_id": "thrifty_white",
+        "location_count": 1,
+        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00"
+      },
+      {
+        "id": 47,
+        "key": "walgreens",
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "name": "Walgreens",
+        "status": "inactive",
+        "provider_id": "walgreens",
+        "location_count": 13,
+        "appointments_last_fetched": "2021-06-16T20:43:49.665+00:00",
+        "appointments_last_modified": "2021-06-16T20:43:49.665+00:00"
+      },
+      {
+        "id": 70,
+        "key": "walmart",
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "name": "Walmart",
+        "status": "active",
+        "provider_id": "walmart",
+        "location_count": 14,
+        "appointments_last_fetched": "2021-06-16T22:03:10.651+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:10.651+00:00"
+      }
+    ],
+    "provider_brand_count": 10,
+    "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
+    "appointments_last_modified": "2021-06-16T22:04:08.278+00:00"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.15296,
+          47.71404
+        ]
+      },
+      "properties": {
+        "id": 10893734,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Sidney",
+        "name": "White Drug",
+        "state": "MT",
+        "address": "402 East Main",
+        "provider": "thrifty_white",
+        "time_zone": "America/Denver",
+        "postal_code": "59270",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "025",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.039,
+          46.895
+        ]
+      },
+      "properties": {
+        "id": 170709089,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "MISSOULA",
+        "name": "Missoula",
+        "state": "MT",
+        "address": "3220 N RESERVE ST",
+        "provider": "costco",
+        "time_zone": "America/Denver",
+        "postal_code": "59808",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "67",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:24.396+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:24.396+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.569,
+          45.755
+        ]
+      },
+      "properties": {
+        "id": 170708876,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "BILLINGS",
+        "name": "Billings",
+        "state": "MT",
+        "address": "2290 KING AVE W",
+        "provider": "costco",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "69",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:01.587+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:01.587+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.006,
+          46.617
+        ]
+      },
+      "properties": {
+        "id": 170709018,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "HELENA",
+        "name": "Helena",
+        "state": "MT",
+        "address": "2195 E CUSTER AVE",
+        "provider": "costco",
+        "time_zone": "America/Denver",
+        "postal_code": "59602",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "633",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:02:51.51+00:00",
+        "appointments_last_modified": "2021-06-16T22:02:51.51+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.331,
+          48.235
+        ]
+      },
+      "properties": {
+        "id": 170709090,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "KALISPELL",
+        "name": "Kalispell",
+        "state": "MT",
+        "address": "2330 US HIGHWAY 93 N",
+        "provider": "costco",
+        "time_zone": "America/Denver",
+        "postal_code": "59901",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "745",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:02:47.735+00:00",
+        "appointments_last_modified": "2021-06-16T22:02:47.735+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.071,
+          45.713
+        ]
+      },
+      "properties": {
+        "id": 170709015,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "BOZEMAN",
+        "name": "Bozeman",
+        "state": "MT",
+        "address": "2505 CATRON ST",
+        "provider": "costco",
+        "time_zone": "America/Denver",
+        "postal_code": "59718",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "96",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:02:41.711+00:00",
+        "appointments_last_modified": "2021-06-16T22:02:41.711+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.31578043,
+          48.20160929
+        ]
+      },
+      "properties": {
+        "id": 2725505,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "KALISPELL",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "40 W IDAHO ST",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59901",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "9242",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:43:49.665+00:00",
+        "appointments_last_modified": "2021-06-16T20:43:49.665+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.12297253,
+          47.68872931
+        ]
+      },
+      "properties": {
+        "id": 2725519,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "POLSON",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "40770 MT HIGHWAY 35",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59860",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "16084",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:43:49.665+00:00",
+        "appointments_last_modified": "2021-06-16T20:43:49.665+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.33422794,
+          48.40022886
+        ]
+      },
+      "properties": {
+        "id": 2725506,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WHITEFISH",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "700 E 13TH ST",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59937",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "12347",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:43:49.665+00:00",
+        "appointments_last_modified": "2021-06-16T20:43:49.665+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.30937601,
+          47.51879031
+        ]
+      },
+      "properties": {
+        "id": 2725507,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "GREAT FALLS",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "1213 3RD ST NW",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59404",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "10859",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:54:26.449+00:00",
+        "appointments_last_modified": "2021-06-16T19:54:26.449+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.26721799,
+          47.49460549
+        ]
+      },
+      "properties": {
+        "id": 2725508,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "GREAT FALLS",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "2301 10TH AVE S",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59405",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "10083",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:54:26.449+00:00",
+        "appointments_last_modified": "2021-06-16T19:54:26.449+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.55082412,
+          45.78381558
+        ]
+      },
+      "properties": {
+        "id": 2724907,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BILLINGS",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "1330 GRAND AVE",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "12155",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:08:37.865+00:00",
+        "appointments_last_modified": "2021-06-16T19:08:37.865+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.47172933,
+          45.82781218
+        ]
+      },
+      "properties": {
+        "id": 2724906,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BILLINGS",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "1602 MAIN ST",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59105",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "10652",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:08:37.865+00:00",
+        "appointments_last_modified": "2021-06-16T19:08:37.865+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.59992404,
+          45.78446379
+        ]
+      },
+      "properties": {
+        "id": 2724908,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BILLINGS",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "3333 GRAND AVE",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11503",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T19:08:37.865+00:00",
+        "appointments_last_modified": "2021-06-16T19:08:37.865+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.15744618,
+          46.25535801
+        ]
+      },
+      "properties": {
+        "id": 2725511,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "HAMILTON",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "901 N 1ST ST",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59840",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11891",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:48:40.792+00:00",
+        "appointments_last_modified": "2021-06-16T18:48:40.792+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0136297,
+          46.85108682
+        ]
+      },
+      "properties": {
+        "id": 2725512,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "MISSOULA",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "2100 BROOKS ST",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59801",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "10726",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:48:40.792+00:00",
+        "appointments_last_modified": "2021-06-16T18:48:40.792+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.039636,
+          46.888622
+        ]
+      },
+      "properties": {
+        "id": 2725518,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "MISSOULA",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "2527 N RESERVE ST",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59808",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "9351",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:48:40.792+00:00",
+        "appointments_last_modified": "2021-06-16T18:48:40.792+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5084904,
+          45.98582176
+        ]
+      },
+      "properties": {
+        "id": 2725510,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BUTTE",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "2611 HARRISON AVE",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59701",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "13818",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:46:28.791+00:00",
+        "appointments_last_modified": "2021-06-16T18:46:28.791+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.02119234,
+          46.5901863
+        ]
+      },
+      "properties": {
+        "id": 2725509,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "HELENA",
+        "name": "Walgreen Drug Store",
+        "state": "MT",
+        "address": "1150 11TH AVE",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "59601",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "10084",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:46:28.791+00:00",
+        "appointments_last_modified": "2021-06-16T18:46:28.791+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2758565,
+          46.3677447
+        ]
+      },
+      "properties": {
+        "id": 141568960,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Baker",
+        "name": "Baker Drug Health Mart Pharmacy",
+        "state": "MT",
+        "address": "103 S. MAIN",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59313",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "5109",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1840125,
+          45.7739968
+        ]
+      },
+      "properties": {
+        "id": 141570350,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Belgrade",
+        "name": "Lee & Health Mart Pharmacy",
+        "state": "MT",
+        "address": "205 WEST MADISON AVE",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59714",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "2987",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6118433,
+          45.7847087
+        ]
+      },
+      "properties": {
+        "id": 141568534,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "BILLINGS",
+        "name": "Pharm406",
+        "state": "MT",
+        "address": "1410 38TH ST W",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59102",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "21443",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0461361,
+          45.6886459
+        ]
+      },
+      "properties": {
+        "id": 141570345,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Bozeman",
+        "name": "Price Rite Health Mart Pharmacy",
+        "state": "MT",
+        "address": "910 N 7th Street",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59715",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "3466",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1836358,
+          47.8124862
+        ]
+      },
+      "properties": {
+        "id": 141753781,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "CHOTEAU",
+        "name": "Choteau Drug, Inc",
+        "state": "MT",
+        "address": "102 MAIN AVE N",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59422",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "16649",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5485564,
+          45.8879126
+        ]
+      },
+      "properties": {
+        "id": 141751872,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "EKALAKA",
+        "name": "Dahl Memorial Healthcare Community Pharmacy",
+        "state": "MT",
+        "address": "215 SANDY ST",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59324",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "19515",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.980692,
+          47.6144279
+        ]
+      },
+      "properties": {
+        "id": 141569034,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Fairfield",
+        "name": "Fairfield Drug Health Mart Pharmacy",
+        "state": "MT",
+        "address": "407 CENTRAL, PO BOX 247",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59436",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "5733",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.677905,
+          46.2660301
+        ]
+      },
+      "properties": {
+        "id": 141751802,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Forsyth",
+        "name": "Yellowstone Health Mart Pharmacy",
+        "state": "MT",
+        "address": "1025 Main Street",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59327",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "4006",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6342016,
+          48.1897545
+        ]
+      },
+      "properties": {
+        "id": 141751187,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Glasgow",
+        "name": "Western drug Health Mart",
+        "state": "MT",
+        "address": "537-539 2ND AVE SOUTH",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59230",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "6782",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.301256,
+          47.505207
+        ]
+      },
+      "properties": {
+        "id": 141569033,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "GREAT FALLS",
+        "name": "Public Drug Health Mart",
+        "state": "MT",
+        "address": "324 CENTRAL AVENUE",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59401",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7042",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0211085,
+          46.8669893
+        ]
+      },
+      "properties": {
+        "id": 141755904,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Missoula",
+        "name": "Savmor Health Mart Pharmacy",
+        "state": "MT",
+        "address": "1610 S. 3rd West Suite 100",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59801",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "3589",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0158109,
+          46.8711139
+        ]
+      },
+      "properties": {
+        "id": 141755898,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "MISSOULA",
+        "name": "406 CLINIC PHARMACY",
+        "state": "MT",
+        "address": "1315 WYOMING ST STE B",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59801",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "11900",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8872268,
+          47.4652377
+        ]
+      },
+      "properties": {
+        "id": 141571185,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Plains",
+        "name": "Plains Drug Mart",
+        "state": "MT",
+        "address": "214 RAILROAD STREET",
+        "provider": "health_mart",
+        "time_zone": "America/Denver",
+        "postal_code": "59859",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "6180",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1191944,
+          47.5959116
+        ]
+      },
+      "properties": {
+        "id": 141756026,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Ronan",
+        "name": "Family Health Mart Pharmacy",
+        "state": "MT",
+        "address": "225 HWY 93 South",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59864",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "2581",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.096195,
+          47.519886
+        ]
+      },
+      "properties": {
+        "id": 141571192,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "RONAN",
+        "name": "R & R HEALTH CARE SOLUTIONS",
+        "state": "MT",
+        "address": "63802 US HIGHWAY 93 STEB",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59864",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "8457",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4747413,
+          47.1619371
+        ]
+      },
+      "properties": {
+        "id": 141756044,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "SEELEY LAKE",
+        "name": "SEELEY SWAN PHARMACY",
+        "state": "MT",
+        "address": "3027 mt hwy 83 n",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59868",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "3613",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.352418,
+          47.5955262
+        ]
+      },
+      "properties": {
+        "id": 141756127,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "THOMPSON FALLS",
+        "name": "Thompson Falls Family PharmacyThompson Falls Famil",
+        "state": "MT",
+        "address": "1221 MAIN ST",
+        "provider": "health_mart",
+        "time_zone": "America/Denver",
+        "postal_code": "59873",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "19592",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8923533,
+          46.5481534
+        ]
+      },
+      "properties": {
+        "id": 141755431,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "WHITE SULPHUR SPRING",
+        "name": "Castle Mtn Health Mart Pharmacy",
+        "state": "MT",
+        "address": "4271 US HWY 12 E",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "59645",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "5682",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1893214,
+          45.7718018
+        ]
+      },
+      "properties": {
+        "id": 1046440,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Belgrade",
+        "name": "Albertsons 0009",
+        "state": "MT",
+        "address": "6999 Jackrabbit Lane",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59714",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104519839",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5306787,
+          45.7706254
+        ]
+      },
+      "properties": {
+        "id": 1046452,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Billings",
+        "name": "Albertsons 0047",
+        "state": "MT",
+        "address": "511 Central",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104672607",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4756115,
+          45.8101753
+        ]
+      },
+      "properties": {
+        "id": 1046489,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Billings",
+        "name": "Albertsons 1227",
+        "state": "MT",
+        "address": "670 Main",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59105",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600105135906",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5948754,
+          45.785364
+        ]
+      },
+      "properties": {
+        "id": 1046502,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Billings",
+        "name": "Albertsons 4041",
+        "state": "MT",
+        "address": "3137 Grand Ave",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600105293056",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5105524,
+          45.7878601
+        ]
+      },
+      "properties": {
+        "id": 1046500,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Billings",
+        "name": "Albertsons 4025",
+        "state": "MT",
+        "address": "611 N 27th St",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59101",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600105268705",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5774718,
+          45.7681381
+        ]
+      },
+      "properties": {
+        "id": 1046485,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Billings",
+        "name": "Albertsons 0630",
+        "state": "MT",
+        "address": "2334 Central Ave",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600105087658",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5493801,
+          45.782812
+        ]
+      },
+      "properties": {
+        "id": 1046448,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Billings",
+        "name": "Albertsons 0038",
+        "state": "MT",
+        "address": "1212 Grand Ave.",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104621761",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0623911,
+          45.6802388
+        ]
+      },
+      "properties": {
+        "id": 1046613,
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "city": "Bozeman",
+        "name": "Safeway 2999",
+        "state": "MT",
+        "address": "1735 W. Main Street",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59715",
+        "appointments": null,
+        "provider_brand": "safeway",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 5,
+        "provider_brand_name": "Safeway",
+        "provider_location_id": "1600107250027",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0805615,
+          45.6751434
+        ]
+      },
+      "properties": {
+        "id": 1046439,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Bozeman",
+        "name": "Albertsons 0006",
+        "state": "MT",
+        "address": "University Mall - 200 S. 23rd",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59718",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104506996",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3407313,
+          48.6405255
+        ]
+      },
+      "properties": {
+        "id": 1046445,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Cut Bank",
+        "name": "Albertsons 0033",
+        "state": "MT",
+        "address": "501 W Main",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59427",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104583182",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7364857,
+          46.4031735
+        ]
+      },
+      "properties": {
+        "id": 1046540,
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "city": "Deer Lodge",
+        "name": "Safeway 1158",
+        "state": "MT",
+        "address": "201 N Main St",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59722",
+        "appointments": null,
+        "provider_brand": "safeway",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 5,
+        "provider_brand_name": "Safeway",
+        "provider_location_id": "1600106341551",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6302468,
+          45.2238428
+        ]
+      },
+      "properties": {
+        "id": 1046561,
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "city": "Dillon",
+        "name": "Safeway 1581",
+        "state": "MT",
+        "address": "570 North Montana Street",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59725",
+        "appointments": null,
+        "provider_brand": "safeway",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 5,
+        "provider_brand_name": "Safeway",
+        "provider_location_id": "1600106598857",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7299692,
+          47.1084866
+        ]
+      },
+      "properties": {
+        "id": 1046499,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Glendive",
+        "name": "Albertsons 4023",
+        "state": "MT",
+        "address": "307 N Harmon",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59330",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600105256737",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3135281,
+          47.5201944
+        ]
+      },
+      "properties": {
+        "id": 1046446,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Great Falls",
+        "name": "Albertsons 0035",
+        "state": "MT",
+        "address": "1414 3rd St N W",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59404",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104595914",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2715386,
+          47.4930474
+        ]
+      },
+      "properties": {
+        "id": 1046447,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Great Falls",
+        "name": "Albertsons 0037",
+        "state": "MT",
+        "address": "2250 10th Ave S",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59405",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104608780",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1609343,
+          46.2630105
+        ]
+      },
+      "properties": {
+        "id": 1046501,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Hamilton",
+        "name": "Albertsons 4040",
+        "state": "MT",
+        "address": "1313 N 1st St",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59840",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600105280765",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0203848,
+          46.5906449
+        ]
+      },
+      "properties": {
+        "id": 1046551,
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "city": "Helena",
+        "name": "Safeway 1486",
+        "state": "MT",
+        "address": "611 North Montana Street",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59601",
+        "appointments": null,
+        "provider_brand": "safeway",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 5,
+        "provider_brand_name": "Safeway",
+        "provider_location_id": "1600106476743",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0208387,
+          46.6187227
+        ]
+      },
+      "properties": {
+        "id": 1046498,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Helena",
+        "name": "Albertsons 4008",
+        "state": "MT",
+        "address": "3151 N. Montana",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59601",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600105243488",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.331373,
+          48.1995995
+        ]
+      },
+      "properties": {
+        "id": 1046441,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Kalispell",
+        "name": "Albertsons 0018",
+        "state": "MT",
+        "address": "900 W Idaho",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59901",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104532659",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4249751,
+          47.0653342
+        ]
+      },
+      "properties": {
+        "id": 1046442,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Lewistown",
+        "name": "Albertsons 0019",
+        "state": "MT",
+        "address": "117 W Janeaux St",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59457",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104545439",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5481489,
+          45.6703786
+        ]
+      },
+      "properties": {
+        "id": 1046450,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Livingston",
+        "name": "Albertsons 0042",
+        "state": "MT",
+        "address": "2120 Park St. South",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59047",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104647083",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5085678,
+          45.9877174
+        ]
+      },
+      "properties": {
+        "id": 1046614,
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "city": "Massachusetts Ave., Butte",
+        "name": "Safeway 3279",
+        "state": "MT",
+        "address": "2500 Block",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59701",
+        "appointments": null,
+        "provider_brand": "safeway",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 5,
+        "provider_brand_name": "Safeway",
+        "provider_location_id": "1600107261977",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8267141,
+          46.4032667
+        ]
+      },
+      "properties": {
+        "id": 1046449,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Miles City",
+        "name": "Albertsons 0039",
+        "state": "MT",
+        "address": "519 S Haynes",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59301",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104634337",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0201199,
+          46.8511114
+        ]
+      },
+      "properties": {
+        "id": 1046443,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Missoula",
+        "name": "Albertsons 0020",
+        "state": "MT",
+        "address": "2205 Oxford St",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59801",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104558132",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.983737,
+          46.8676556
+        ]
+      },
+      "properties": {
+        "id": 1046444,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Missoula",
+        "name": "Albertsons 0024",
+        "state": "MT",
+        "address": "1003 E Broadway St.",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59802",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104570366",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0396026,
+          46.8855932
+        ]
+      },
+      "properties": {
+        "id": 1046451,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Missoula",
+        "name": "Albertsons 0043",
+        "state": "MT",
+        "address": "2230 N Reserve St",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59808",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600104659754",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0174519,
+          46.8355071
+        ]
+      },
+      "properties": {
+        "id": 1046488,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Missoula",
+        "name": "Albertsons 1010",
+        "state": "MT",
+        "address": "3800 Russell St",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59801",
+        "appointments": null,
+        "provider_brand": "albertsons",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 12,
+        "provider_brand_name": "Albertsons",
+        "provider_location_id": "1600105123723",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1253921,
+          47.6884722
+        ]
+      },
+      "properties": {
+        "id": 1046567,
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "city": "POLSON",
+        "name": "Safeway 1646",
+        "state": "MT",
+        "address": "40774 MT HIGHWAY 35",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59860",
+        "appointments": null,
+        "provider_brand": "safeway",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 5,
+        "provider_brand_name": "Safeway",
+        "provider_location_id": "1600106672277",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3391603,
+          48.3991887
+        ]
+      },
+      "properties": {
+        "id": 1046584,
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "city": "Whitefish",
+        "name": "Safeway 2106",
+        "state": "MT",
+        "address": "6580 Highway 93 South",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "59937",
+        "appointments": null,
+        "provider_brand": "safeway",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 5,
+        "provider_brand_name": "Safeway",
+        "provider_location_id": "1600106883819",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.526959,
+          45.753949
+        ]
+      },
+      "properties": {
+        "id": 343,
+        "url": "https://www.samsclub.com/pharmacy/immunization/form?imzType=covid",
+        "city": "Billings",
+        "name": "Billings Sam's Club",
+        "state": "MT",
+        "address": "4420 King Ave East",
+        "provider": "sams_club",
+        "time_zone": "America/Denver",
+        "postal_code": "59101",
+        "appointments": null,
+        "provider_brand": "sams_club",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 41,
+        "provider_brand_name": "Sam's Club",
+        "provider_location_id": "4805",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-02-26T19:53:13.547+00:00",
+        "appointments_last_modified": "2021-02-26T19:53:13.547+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.321819,
+          47.517599
+        ]
+      },
+      "properties": {
+        "id": 431,
+        "url": "https://www.samsclub.com/pharmacy/immunization/form?imzType=covid",
+        "city": "Great Falls",
+        "name": "Great Falls Sam's Club",
+        "state": "MT",
+        "address": "401 N.W.Byp.",
+        "provider": "sams_club",
+        "time_zone": "America/Denver",
+        "postal_code": "59404",
+        "appointments": null,
+        "provider_brand": "sams_club",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 41,
+        "provider_brand_name": "Sam's Club",
+        "provider_location_id": "6379",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-02-26T13:51:33.041+00:00",
+        "appointments_last_modified": "2021-02-26T13:51:33.041+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.934863,
+          46.126786
+        ]
+      },
+      "properties": {
+        "id": 270151498,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "ANACONDA",
+        "name": "CVS Pharmacy in ANACONDA, MT",
+        "state": "MT",
+        "address": "1300 E. PARK AVE.",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59711",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "8618",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.27229,
+          47.494779
+        ]
+      },
+      "properties": {
+        "id": 270138067,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "GREAT FALLS",
+        "name": "CVS Pharmacy in GREAT FALLS, MT",
+        "state": "MT",
+        "address": "2001 10TH AVENUE SOUTH",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59405",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "8624",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.18026019999999,
+          48.374485
+        ]
+      },
+      "properties": {
+        "id": 9611970,
+        "url": "https://www.smithsfoodanddrug.com/rx/covid-eligibility",
+        "city": "Columbia Falls",
+        "name": "419 NUCLEUS AVE., COLUMBIA FALLS, MT",
+        "state": "MT",
+        "address": "419 Nucleus Ave",
+        "provider": "kroger",
+        "time_zone": "America/Denver",
+        "postal_code": "59912",
+        "appointments": [
+          {
+            "time": "2021-06-16T16:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "smiths",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 21,
+        "provider_brand_name": "Smith's",
+        "provider_location_id": "70600168",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:12.575+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:12.575+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3094,
+          48.2017405
+        ]
+      },
+      "properties": {
+        "id": 9611969,
+        "url": "https://www.smithsfoodanddrug.com/rx/covid-eligibility",
+        "city": "Kalispell",
+        "name": "195 3RD AVE. EAST N., KALLISPELL, MT",
+        "state": "MT",
+        "address": "195 3Rd Avenue East N",
+        "provider": "kroger",
+        "time_zone": "America/Denver",
+        "postal_code": "59901",
+        "appointments": [
+          {
+            "time": "2021-06-16T16:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T11:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T12:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T12:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T12:45:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T14:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T14:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T14:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T14:45:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T15:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T15:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T15:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T11:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T11:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T12:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T12:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T12:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T12:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T14:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T14:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T14:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T14:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T15:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T15:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T15:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T15:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T16:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T16:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T16:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T09:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T09:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T09:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T11:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T11:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T12:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T12:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T12:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T12:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T14:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T14:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T14:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T14:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T15:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T15:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T15:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "smiths",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 21,
+        "provider_brand_name": "Smith's",
+        "provider_location_id": "70600172",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:12.575+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:12.575+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.296587,
+          47.52661
+        ]
+      },
+      "properties": {
+        "id": 785736,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Great Falls",
+        "name": "Great Falls Supercenter",
+        "state": "MT",
+        "address": "701 Smelter Ave Ne",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59404",
+        "appointments": [
+          {
+            "time": "2021-06-17T10:00:00.000-06:00",
+            "type": "Moderna",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2455",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:10.651+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:10.651+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.218821,
+          47.491452
+        ]
+      },
+      "properties": {
+        "id": 785737,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Great Falls",
+        "name": "Great Falls Supercenter",
+        "state": "MT",
+        "address": "5320 10th Ave S",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59405",
+        "appointments": [
+          {
+            "time": "2021-06-17T10:20:00.000-06:00",
+            "type": "Moderna",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "7199",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:10.651+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:10.651+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.549319,
+          45.784819
+        ]
+      },
+      "properties": {
+        "id": 270416544,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BILLINGS",
+        "name": "CVS Pharmacy in BILLINGS, MT",
+        "state": "MT",
+        "address": "1311 GRAND AVE.",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "5301",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.473568,
+          45.806991
+        ]
+      },
+      "properties": {
+        "id": 270761620,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BILLINGS",
+        "name": "CVS Pharmacy in BILLINGS, MT",
+        "state": "MT",
+        "address": "425 EAST MAIN ST.",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59105",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "5302",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.582739,
+          45.770809
+        ]
+      },
+      "properties": {
+        "id": 270599254,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BILLINGS",
+        "name": "CVS Pharmacy in BILLINGS, MT",
+        "state": "MT",
+        "address": "2601 CENTRAL AVE",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "16037",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.577204,
+          45.783732
+        ]
+      },
+      "properties": {
+        "id": 270257569,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BILLINGS",
+        "name": "CVS Pharmacy in BILLINGS, MT",
+        "state": "MT",
+        "address": "2402 GRAND AVE.",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "8623",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.531149,
+          45.770245
+        ]
+      },
+      "properties": {
+        "id": 270478371,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BILLINGS",
+        "name": "CVS Pharmacy in BILLINGS, MT",
+        "state": "MT",
+        "address": "617 CENTRAL ST.",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "8944",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.063133,
+          45.680493
+        ]
+      },
+      "properties": {
+        "id": 270283490,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BOZEMAN",
+        "name": "CVS Pharmacy in BOZEMAN, MT",
+        "state": "MT",
+        "address": "115 NORTH 19TH AVE.",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59718",
+        "appointments": [
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "8621",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.52172,
+          46.002514
+        ]
+      },
+      "properties": {
+        "id": 270399682,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BUTTE",
+        "name": "CVS Pharmacy in BUTTE, MT",
+        "state": "MT",
+        "address": "1275 HARRISON ST.",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59701",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "8627",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.019245,
+          46.590002
+        ]
+      },
+      "properties": {
+        "id": 270261188,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HELENA",
+        "name": "CVS Pharmacy in HELENA, MT",
+        "state": "MT",
+        "address": "603 N. MONTANA",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59601",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "8617",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.02004,
+          46.615975
+        ]
+      },
+      "properties": {
+        "id": 270517162,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HELENA",
+        "name": "CVS Pharmacy in HELENA, MT",
+        "state": "MT",
+        "address": "3095 N. MONTANA AVE.",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59601",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "4278",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.767444,
+          45.665838
+        ]
+      },
+      "properties": {
+        "id": 270467844,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "LAUREL",
+        "name": "CVS Pharmacy in LAUREL, MT",
+        "state": "MT",
+        "address": "307 SE 4TH ST.",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59044",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "5305",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.03684,
+          46.888084
+        ]
+      },
+      "properties": {
+        "id": 270607665,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "MISSOULA",
+        "name": "CVS Pharmacy in MISSOULA, MT",
+        "state": "MT",
+        "address": "2420 N RESERVE ST",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59808",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "16320",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.012019,
+          46.852017
+        ]
+      },
+      "properties": {
+        "id": 270371035,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "MISSOULA",
+        "name": "CVS Pharmacy in MISSOULA, MT",
+        "state": "MT",
+        "address": "1902 BROOKS ST",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "59801",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "8622",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0599448,
+          45.6944818
+        ]
+      },
+      "properties": {
+        "id": 9611967,
+        "url": "https://www.smithsfoodanddrug.com/rx/covid-eligibility",
+        "city": "Bozeman",
+        "name": "Bridger Peaks",
+        "state": "MT",
+        "address": "1400 N 19Th Ave",
+        "provider": "kroger",
+        "time_zone": "America/Denver",
+        "postal_code": "59718",
+        "appointments": [
+          {
+            "time": "2021-06-16T16:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "smiths",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 21,
+        "provider_brand_name": "Smith's",
+        "provider_location_id": "70600170",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:01.497+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:01.497+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.57945,
+          45.758042
+        ]
+      },
+      "properties": {
+        "id": 785312,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Billings",
+        "name": "Billings Supercenter",
+        "state": "MT",
+        "address": "2525 King Ave W",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59102",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:40:00.000-06:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1956",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:01.049+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:01.049+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.467332,
+          45.82902
+        ]
+      },
+      "properties": {
+        "id": 785313,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Billings",
+        "name": "Billings Supercenter",
+        "state": "MT",
+        "address": "1649 Main St",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59105",
+        "appointments": [
+          {
+            "time": "2021-06-17T10:00:00.000-06:00",
+            "type": "Pfizer, Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2923",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:01.049+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:01.049+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7591,
+          45.667525
+        ]
+      },
+      "properties": {
+        "id": 785311,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Laurel",
+        "name": "Laurel Supercenter",
+        "state": "MT",
+        "address": "101 Bernhardt Rd",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59044",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:40:00.000-06:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "4412",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:01.049+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:01.049+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3411345,
+          47.4847247
+        ]
+      },
+      "properties": {
+        "id": 9611968,
+        "url": "https://www.smithsfoodanddrug.com/rx/covid-eligibility",
+        "city": "Great Falls",
+        "name": "Great Falls Marketplace",
+        "state": "MT",
+        "address": "1601 Market Place Dr",
+        "provider": "kroger",
+        "time_zone": "America/Denver",
+        "postal_code": "59404",
+        "appointments": [
+          {
+            "time": "2021-06-16T16:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T09:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T09:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "smiths",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 21,
+        "provider_brand_name": "Smith's",
+        "provider_location_id": "70600166",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:02:59.77+00:00",
+        "appointments_last_modified": "2021-06-16T22:02:59.77+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.32617,
+          48.23175
+        ]
+      },
+      "properties": {
+        "id": 786353,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Kalispell",
+        "name": "Kalispell Supercenter",
+        "state": "MT",
+        "address": "170 Hutton Ranch Rd",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59901",
+        "appointments": [
+          {
+            "time": "2021-06-16T18:00:00.000-06:00",
+            "type": "Moderna",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2259",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:01:32.884+00:00",
+        "appointments_last_modified": "2021-06-16T22:01:32.884+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1206899,
+          47.6843052
+        ]
+      },
+      "properties": {
+        "id": 786163,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Polson",
+        "name": "Polson Supercenter",
+        "state": "MT",
+        "address": "36318 Memory Ln",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59860",
+        "appointments": [
+          {
+            "time": "2021-06-17T10:00:00.000-06:00",
+            "type": "Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2607",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:01:32.884+00:00",
+        "appointments_last_modified": "2021-06-16T22:01:32.884+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.042147,
+          45.694689
+        ]
+      },
+      "properties": {
+        "id": 785734,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Bozeman",
+        "name": "Bozeman Supercenter",
+        "state": "MT",
+        "address": "1500 N 7th Ave",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59715",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:40:00.000-06:00",
+            "type": "Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2084",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:01:32.684+00:00",
+        "appointments_last_modified": "2021-06-16T22:01:32.684+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.818621,
+          46.403585
+        ]
+      },
+      "properties": {
+        "id": 785735,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Miles City",
+        "name": "Miles City Supercenter",
+        "state": "MT",
+        "address": "3205 Stower St",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59301",
+        "appointments": [
+          {
+            "time": "2021-06-17T10:40:00.000-06:00",
+            "type": "Moderna",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2608",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:01:30.541+00:00",
+        "appointments_last_modified": "2021-06-16T22:01:30.541+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.737138,
+          48.554783
+        ]
+      },
+      "properties": {
+        "id": 786158,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Havre",
+        "name": "Havre Supercenter",
+        "state": "MT",
+        "address": "3510 Us Highway 2 W",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59501",
+        "appointments": [
+          {
+            "time": "2021-06-16T18:00:00.000-06:00",
+            "type": "Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "4247",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:01:05.82+00:00",
+        "appointments_last_modified": "2021-06-16T22:01:05.82+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.042028,
+          46.883599
+        ]
+      },
+      "properties": {
+        "id": 786161,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Missoula",
+        "name": "Missoula Supercenter",
+        "state": "MT",
+        "address": "3555 Mullan Rd",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59808",
+        "appointments": [
+          {
+            "time": "2021-06-17T10:00:00.000-06:00",
+            "type": "Pfizer, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "3259",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T21:59:47.837+00:00",
+        "appointments_last_modified": "2021-06-16T21:59:47.837+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.047098,
+          46.831571
+        ]
+      },
+      "properties": {
+        "id": 786162,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Missoula",
+        "name": "Missoula Supercenter",
+        "state": "MT",
+        "address": "4000 Us-93 Bus",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59804",
+        "appointments": [
+          {
+            "time": "2021-06-17T10:00:00.000-06:00",
+            "type": "Pfizer, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2147",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T21:59:47.837+00:00",
+        "appointments_last_modified": "2021-06-16T21:59:47.837+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.510563,
+          45.963776
+        ]
+      },
+      "properties": {
+        "id": 786160,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Butte",
+        "name": "Butte Supercenter",
+        "state": "MT",
+        "address": "3901 Harrison Ave",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59701",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:00:00.000-06:00",
+            "type": "Pfizer",
+            "vaccine_types": [
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1901",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T21:59:28.262+00:00",
+        "appointments_last_modified": "2021-06-16T21:59:28.262+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.990661,
+          46.593512
+        ]
+      },
+      "properties": {
+        "id": 786159,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Helena",
+        "name": "Helena Supercenter",
+        "state": "MT",
+        "address": "2750 Prospect Ave",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "59601",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:00:00.000-06:00",
+            "type": "Pfizer, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1872",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T21:59:28.262+00:00",
+        "appointments_last_modified": "2021-06-16T21:59:28.262+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    }
+  ]
+}

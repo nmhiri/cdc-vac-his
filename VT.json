@@ -1,0 +1,3227 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "code": "VT",
+    "name": "Vermont",
+    "store_count": 67,
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.439042614,
+            42.72697399
+          ],
+          [
+            -73.439042614,
+            45.015509006
+          ],
+          [
+            -71.49364527,
+            45.015509006
+          ],
+          [
+            -71.49364527,
+            42.72697399
+          ],
+          [
+            -73.439042614,
+            42.72697399
+          ]
+        ]
+      ]
+    },
+    "provider_brands": [
+      {
+        "id": 139709,
+        "key": "costco",
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "name": "Costco",
+        "status": "active",
+        "provider_id": "costco",
+        "location_count": 1,
+        "appointments_last_fetched": "2021-06-16T22:03:49.3+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.3+00:00"
+      },
+      {
+        "id": 19,
+        "key": "cvs",
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "name": "CVS",
+        "status": "active",
+        "provider_id": "cvs",
+        "location_count": 9,
+        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00"
+      },
+      {
+        "id": 96517,
+        "key": "health_mart",
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "name": "Health Mart",
+        "status": "inactive",
+        "provider_id": "health_mart",
+        "location_count": 3,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00"
+      },
+      {
+        "id": 99378,
+        "key": "price_chopper_market_32",
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "name": "Market 32",
+        "status": "active",
+        "provider_id": "price_chopper",
+        "location_count": 1,
+        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00"
+      },
+      {
+        "id": 99377,
+        "key": "price_chopper",
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "name": "Price Chopper",
+        "status": "active",
+        "provider_id": "price_chopper",
+        "location_count": 4,
+        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00"
+      },
+      {
+        "id": 40,
+        "key": "rite_aid",
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "name": "Rite Aid",
+        "status": "unknown",
+        "provider_id": "rite_aid",
+        "location_count": 6,
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null
+      },
+      {
+        "id": 16,
+        "key": "shaws",
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "name": "Shaw's",
+        "status": "inactive",
+        "provider_id": "albertsons",
+        "location_count": 5,
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00"
+      },
+      {
+        "id": 47,
+        "key": "walgreens",
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "name": "Walgreens",
+        "status": "inactive",
+        "provider_id": "walgreens",
+        "location_count": 32,
+        "appointments_last_fetched": "2021-06-16T20:57:41.65+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:41.65+00:00"
+      },
+      {
+        "id": 70,
+        "key": "walmart",
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "name": "Walmart",
+        "status": "unknown",
+        "provider_id": "walmart",
+        "location_count": 6,
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null
+      }
+    ],
+    "provider_brand_count": 9,
+    "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
+    "appointments_last_modified": "2021-06-16T22:04:09.779+00:00"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.212396,
+          42.89864
+        ]
+      },
+      "properties": {
+        "id": 143472161,
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "city": "Bennington",
+        "name": "Price Chopper",
+        "state": "VT",
+        "address": "214 Northside Drive",
+        "provider": "price_chopper",
+        "time_zone": "America/New_York",
+        "postal_code": "05201",
+        "appointments": [],
+        "provider_brand": "price_chopper",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 99377,
+        "provider_brand_name": "Price Chopper",
+        "provider_location_id": "171",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.210731,
+          44.450124
+        ]
+      },
+      "properties": {
+        "id": 143471836,
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "city": "Burlington",
+        "name": "Market32",
+        "state": "VT",
+        "address": "595 Shelburne Rd",
+        "provider": "price_chopper",
+        "time_zone": "America/New_York",
+        "postal_code": "05401",
+        "appointments": [],
+        "provider_brand": "price_chopper_market_32",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 99378,
+        "provider_brand_name": "Market 32",
+        "provider_location_id": "165",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.066248,
+          44.511655
+        ]
+      },
+      "properties": {
+        "id": 143472162,
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "city": "Essex Junction",
+        "name": "Price Chopper",
+        "state": "VT",
+        "address": "90 Center Road",
+        "provider": "price_chopper",
+        "time_zone": "America/New_York",
+        "postal_code": "05452",
+        "appointments": [],
+        "provider_brand": "price_chopper",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 99377,
+        "provider_brand_name": "Price Chopper",
+        "provider_location_id": "192",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.978458,
+          43.603904
+        ]
+      },
+      "properties": {
+        "id": 143472167,
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "city": "Rutland",
+        "name": "Price Chopper",
+        "state": "VT",
+        "address": "38 Rutland Shopping Plaza",
+        "provider": "price_chopper",
+        "time_zone": "America/New_York",
+        "postal_code": "05701",
+        "appointments": [],
+        "provider_brand": "price_chopper",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 99377,
+        "provider_brand_name": "Price Chopper",
+        "provider_location_id": "131",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.083781,
+          44.835821
+        ]
+      },
+      "properties": {
+        "id": 143472163,
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "city": "St Albans",
+        "name": "Price Chopper",
+        "state": "VT",
+        "address": "170 Swanton Rd,  Rte 7",
+        "provider": "price_chopper",
+        "time_zone": "America/New_York",
+        "postal_code": "05478",
+        "appointments": [],
+        "provider_brand": "price_chopper",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 99377,
+        "provider_brand_name": "Price Chopper",
+        "provider_location_id": "127",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:04:09.779+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:09.779+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.177,
+          44.506
+        ]
+      },
+      "properties": {
+        "id": 170686578,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "COLCHESTER",
+        "name": "Colchester",
+        "state": "VT",
+        "address": "218 LOWER MOUNTAIN VIEW DR",
+        "provider": "costco",
+        "time_zone": "America/New_York",
+        "postal_code": "05446",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "314",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.3+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.3+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.210877,
+          42.897885
+        ]
+      },
+      "properties": {
+        "id": 771981,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Bennington",
+        "name": "Bennington Supercenter",
+        "state": "VT",
+        "address": "210 Northside Dr",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "05201",
+        "appointments": null,
+        "provider_brand": "walmart",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2289",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5656662,
+          44.2161046
+        ]
+      },
+      "properties": {
+        "id": 772919,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Berlin",
+        "name": "Berlin Supercenter",
+        "state": "VT",
+        "address": "282 Berlin Mall Rd",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "05602",
+        "appointments": [],
+        "provider_brand": "walmart",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2682",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6003,
+          43.8235
+        ]
+      },
+      "properties": {
+        "id": 7350420,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Bethel",
+        "name": "Rite Aid",
+        "state": "VT",
+        "address": "1823 Vermont Route 107 #2",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "05032",
+        "appointments": null,
+        "provider_brand": "rite_aid",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "10308",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5629,
+          42.846
+        ]
+      },
+      "properties": {
+        "id": 7349782,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Brattleboro",
+        "name": "Rite Aid",
+        "state": "VT",
+        "address": "499 Canal St. Unit #3",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "05301",
+        "appointments": null,
+        "provider_brand": "rite_aid",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "10315",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.171052,
+          44.949783
+        ]
+      },
+      "properties": {
+        "id": 772473,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Derby",
+        "name": "Derby Supercenter",
+        "state": "VT",
+        "address": "115 Seymour Drive",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "05829",
+        "appointments": null,
+        "provider_brand": "walmart",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "4156",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6987,
+          43.3961
+        ]
+      },
+      "properties": {
+        "id": 7350421,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Ludlow",
+        "name": "Rite Aid",
+        "state": "VT",
+        "address": "213 Main Street",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "05149",
+        "appointments": null,
+        "provider_brand": "rite_aid",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "10312",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6655,
+          43.9244
+        ]
+      },
+      "properties": {
+        "id": 7350419,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Randolph",
+        "name": "Rite Aid",
+        "state": "VT",
+        "address": "12 North Main Street",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "05060",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "10309",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9805387,
+          43.60535
+        ]
+      },
+      "properties": {
+        "id": 772918,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Rutland",
+        "name": "Rutland Store",
+        "state": "VT",
+        "address": "90 Shopping Plaza Rd",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "05701",
+        "appointments": null,
+        "provider_brand": "walmart",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2530",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0897182,
+          44.841719
+        ]
+      },
+      "properties": {
+        "id": 772926,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Saint Albans",
+        "name": "Saint Albans Store",
+        "state": "VT",
+        "address": "700 Tuckers Way",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "05478",
+        "appointments": null,
+        "provider_brand": "walmart",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2332",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.491,
+          43.3039
+        ]
+      },
+      "properties": {
+        "id": 7362149,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Springfield",
+        "name": "Rite Aid",
+        "state": "VT",
+        "address": "55 Springfield Plaza Road",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "05156",
+        "appointments": [],
+        "provider_brand": "rite_aid",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "10313",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.122127,
+          44.441633
+        ]
+      },
+      "properties": {
+        "id": 772924,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Williston",
+        "name": "Williston Store",
+        "state": "VT",
+        "address": "863 Harvest Ln",
+        "provider": "walmart",
+        "time_zone": "America/New_York",
+        "postal_code": "05495",
+        "appointments": null,
+        "provider_brand": "walmart",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2224",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3857,
+          43.4814
+        ]
+      },
+      "properties": {
+        "id": 7349810,
+        "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+        "city": "Windsor",
+        "name": "Rite Aid",
+        "state": "VT",
+        "address": "52 Main St",
+        "provider": "rite_aid",
+        "time_zone": "America/New_York",
+        "postal_code": "05089",
+        "appointments": null,
+        "provider_brand": "rite_aid",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 40,
+        "provider_brand_name": "Rite Aid",
+        "provider_location_id": "10310",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.50606485,
+          44.20152258
+        ]
+      },
+      "properties": {
+        "id": 2712087,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BARRE",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "355 NORTH MAIN STREET",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05641",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17518",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:41.65+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:41.65+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.80657982,
+          44.90562365
+        ]
+      },
+      "properties": {
+        "id": 2712069,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "ENOSBURG FALLS",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "221 MAIN ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05450",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "19346",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:41.65+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:41.65+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.37229955,
+          44.51325647
+        ]
+      },
+      "properties": {
+        "id": 2711397,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "HARDWICK",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "82 VT ROUTE 15 W",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05843",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17185",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:41.65+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:41.65+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0003834,
+          44.52571585
+        ]
+      },
+      "properties": {
+        "id": 2711389,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "LYNDONVILLE",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "412 BROAD STREET",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05851",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17625",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:41.65+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:41.65+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.11913724,
+          44.62524756
+        ]
+      },
+      "properties": {
+        "id": 2712072,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "MILTON",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "201 US ROUTE 7 S",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05468",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17747",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:41.65+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:41.65+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.57608741,
+          44.25900009
+        ]
+      },
+      "properties": {
+        "id": 2712083,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "MONTPELIER",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "29 MAIN ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05602",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17596",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:41.65+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:41.65+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.59825496,
+          44.56109341
+        ]
+      },
+      "properties": {
+        "id": 2712070,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "MORRISVILLE",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "48 CONGRESS ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05661",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "18977",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:41.65+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:41.65+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.20558752,
+          44.93975152
+        ]
+      },
+      "properties": {
+        "id": 2712075,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "NEWPORT",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "59 WATERFRONT PLAZA",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05855",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17713",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:41.65+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:41.65+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08165313,
+          44.81533247
+        ]
+      },
+      "properties": {
+        "id": 2712071,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "ST. ALBANS",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "133 N MAIN ST, STE 23",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05478",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "19795",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:41.65+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:41.65+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.01515215,
+          44.41985886
+        ]
+      },
+      "properties": {
+        "id": 2711390,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "ST. JOHNSBURY",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "502 RAILROAD ST.",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05819",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "18090",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:41.65+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:41.65+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.44820616,
+          43.13614898
+        ]
+      },
+      "properties": {
+        "id": 2704958,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BELLOWS FALLS",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "112 ROCKINGHAM ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05101",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "19233",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1979825,
+          42.88133297
+        ]
+      },
+      "properties": {
+        "id": 2704997,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BENNINGTON",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "194 NORTH STREET",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05201",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17631",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08810943,
+          43.79761321
+        ]
+      },
+      "properties": {
+        "id": 2712089,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BRANDON",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "1 UNION ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05733",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "18265",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.565058,
+          42.838732
+        ]
+      },
+      "properties": {
+        "id": 2704913,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BRATTLEBORO",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "476 CANAL ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05301",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "7270",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.56077054,
+          42.87992616
+        ]
+      },
+      "properties": {
+        "id": 2704915,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BRATTLEBORO",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "896 PUTNEY RD",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05301",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "18418",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.07789811,
+          44.13365972
+        ]
+      },
+      "properties": {
+        "id": 2712088,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BRISTOL",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "1 PRINCE LN",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05443",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "18043",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21159631,
+          44.47946772
+        ]
+      },
+      "properties": {
+        "id": 2712080,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BURLINGTON",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "158 CHERRY ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05401",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "19449",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.20786988,
+          44.45072145
+        ]
+      },
+      "properties": {
+        "id": 2712082,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BURLINGTON",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "514 FARRELL ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05401",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "11526",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.27613466,
+          43.60200219
+        ]
+      },
+      "properties": {
+        "id": 2712092,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "FAIR HAVEN",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "621 ROUTE 22A N",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05743",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "18354",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05507102,
+          43.17781579
+        ]
+      },
+      "properties": {
+        "id": 2712105,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "MANCHESTER CENTER",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "4993 MAIN ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05255",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "18020",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.15413952,
+          44.00338062
+        ]
+      },
+      "properties": {
+        "id": 2712090,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "MIDDLEBURY",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "263 COURT ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05753",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "18375",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.22506196,
+          44.3792466
+        ]
+      },
+      "properties": {
+        "id": 2712084,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SHELBURNE",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "30 SHELBURNE SHOPPING PARK",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05482",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "18325",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17162809,
+          44.46585364
+        ]
+      },
+      "properties": {
+        "id": 2712079,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SOUTH BURLINGTON",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "39 HINESBURG ROAD",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05403",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17447",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.04398763,
+          43.59377149
+        ]
+      },
+      "properties": {
+        "id": 2712093,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WEST RUTLAND",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "294 MAIN ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05777",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "18278",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.10353261,
+          44.44678904
+        ]
+      },
+      "properties": {
+        "id": 2712076,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WILLISTON",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "108 CORNERSTONE DR",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05495",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17475",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.86156784,
+          42.86493559
+        ]
+      },
+      "properties": {
+        "id": 2704934,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WILMINGTON",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "107 E MAIN ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05363",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17379",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.97131029,
+          43.61044324
+        ]
+      },
+      "properties": {
+        "id": 2712094,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "RUTLAND",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "10 WOODSTOCK AVE",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05701",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "1756",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:21.032+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:21.032+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.24123921,
+          44.50487616
+        ]
+      },
+      "properties": {
+        "id": 2712081,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BURLINGTON",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "1024 NORTH AVE",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05408",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "19570",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:16.874+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:16.874+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.24738425,
+          44.5376608
+        ]
+      },
+      "properties": {
+        "id": 2712078,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "COLCHESTER",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "1184 PRIM RD",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05446",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17183",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:16.874+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:16.874+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.11905653,
+          44.49457548
+        ]
+      },
+      "properties": {
+        "id": 2712073,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "ESSEX JUNCTION",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "75 PEARL ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05452",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17749",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:16.874+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:16.874+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13689035,
+          44.50467946
+        ]
+      },
+      "properties": {
+        "id": 2712074,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "ESSEX JUNCTION",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "9 SUSIE WILSON ROAD",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05452",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17471",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:16.874+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:16.874+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.18407723,
+          44.49826922
+        ]
+      },
+      "properties": {
+        "id": 2712077,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WINOOSKI",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "321 MAIN ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05404",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "17485",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:16.874+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:16.874+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.656422,
+          44.148938
+        ]
+      },
+      "properties": {
+        "id": 141672892,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Northfield",
+        "name": "Northfield Health Mart Pharmacy",
+        "state": "VT",
+        "address": "14 Depot Square",
+        "provider": "health_mart",
+        "time_zone": "America/New_York",
+        "postal_code": "05663",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "3284",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.125954,
+          44.9190822
+        ]
+      },
+      "properties": {
+        "id": 141533871,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "SWANTON",
+        "name": "SWANTON REXALL PHARMACY",
+        "state": "VT",
+        "address": "44 MERCHANTS ROW",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "05488",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "3730",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.318755,
+          43.652234
+        ]
+      },
+      "properties": {
+        "id": 141670415,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "WHITE RIVER JUNCTION",
+        "name": "Corner Drug Health Mart Pharmacy",
+        "state": "VT",
+        "address": "213 MAPLE ST",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "05001",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "4849",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5753027,
+          44.2112472
+        ]
+      },
+      "properties": {
+        "id": 1046355,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Berlin Corners",
+        "name": "Shaws 0616",
+        "state": "VT",
+        "address": "160 Paine Turnpike North",
+        "provider": "albertsons",
+        "time_zone": "America/New_York",
+        "postal_code": "05602",
+        "appointments": null,
+        "provider_brand": "shaws",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 16,
+        "provider_brand_name": "Shaw's",
+        "provider_location_id": "1600102915266",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1832423,
+          44.5091138
+        ]
+      },
+      "properties": {
+        "id": 1046354,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Colchester",
+        "name": "Shaws 0615",
+        "state": "VT",
+        "address": "66 Mountain View",
+        "provider": "albertsons",
+        "time_zone": "America/New_York",
+        "postal_code": "05446",
+        "appointments": null,
+        "provider_brand": "shaws",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 16,
+        "provider_brand_name": "Shaw's",
+        "provider_location_id": "1600102903205",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2098759,
+          44.4494904
+        ]
+      },
+      "properties": {
+        "id": 1046349,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "South Burlington",
+        "name": "Shaws 0117",
+        "state": "VT",
+        "address": "570 Shelburn Road",
+        "provider": "albertsons",
+        "time_zone": "America/New_York",
+        "postal_code": "05401",
+        "appointments": null,
+        "provider_brand": "shaws",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 16,
+        "provider_brand_name": "Shaw's",
+        "provider_location_id": "1600102842341",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7460186,
+          44.3477265
+        ]
+      },
+      "properties": {
+        "id": 1046362,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Waterbury",
+        "name": "Shaws 0649",
+        "state": "VT",
+        "address": "820 Waterbury Stowe Rd",
+        "provider": "albertsons",
+        "time_zone": "America/New_York",
+        "postal_code": "05676",
+        "appointments": null,
+        "provider_brand": "shaws",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 16,
+        "provider_brand_name": "Shaw's",
+        "provider_location_id": "1600103000565",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1104842,
+          44.4468585
+        ]
+      },
+      "properties": {
+        "id": 1046372,
+        "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+        "city": "Williston",
+        "name": "Shaws 2518",
+        "state": "VT",
+        "address": "71 Boxwood Street",
+        "provider": "albertsons",
+        "time_zone": "America/New_York",
+        "postal_code": "05495",
+        "appointments": null,
+        "provider_brand": "shaws",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 16,
+        "provider_brand_name": "Shaw's",
+        "provider_location_id": "1600103122515",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.202233,
+          42.895372
+        ]
+      },
+      "properties": {
+        "id": 270149460,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BENNINGTON",
+        "name": "CVS Pharmacy in BENNINGTON, VT",
+        "state": "VT",
+        "address": "8 KOCHER DR.",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "05201",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "337",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.973472,
+          43.610301
+        ]
+      },
+      "properties": {
+        "id": 270176674,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "RUTLAND",
+        "name": "CVS Pharmacy in RUTLAND, VT",
+        "state": "VT",
+        "address": "31-33 MAIN STREET",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "05701",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "673",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.55278,
+          44.231797
+        ]
+      },
+      "properties": {
+        "id": 282138800,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BARRE",
+        "name": "CVS Pharmacy in BARRE, VT",
+        "state": "VT",
+        "address": "1634 US ROUTE 302",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "05641",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10127",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.212964,
+          44.479496
+        ]
+      },
+      "properties": {
+        "id": 270660160,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BURLINGTON",
+        "name": "CVS Pharmacy in BURLINGTON, VT",
+        "state": "VT",
+        "address": "35 CHURCH ST",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "05401",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "11037",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.181594,
+          44.50703
+        ]
+      },
+      "properties": {
+        "id": 282139729,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "COLCHESTER",
+        "name": "CVS Pharmacy in COLCHESTER, VT",
+        "state": "VT",
+        "address": "69 MOUNTAIN VIEW DR.",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "05446",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10216",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.079138,
+          44.509319
+        ]
+      },
+      "properties": {
+        "id": 270492651,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "ESSEX",
+        "name": "CVS Pharmacy in ESSEX, VT",
+        "state": "VT",
+        "address": "7 ESSEX WAY",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "05452",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "1052",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.594622,
+          44.576812
+        ]
+      },
+      "properties": {
+        "id": 270598973,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "MORRISVILLE",
+        "name": "CVS Pharmacy in MORRISVILLE, VT",
+        "state": "VT",
+        "address": "13 VERMONT 15 EAST",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "05661",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10197",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.182004,
+          44.468763
+        ]
+      },
+      "properties": {
+        "id": 270641504,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "SOUTH BURLINGTON",
+        "name": "CVS Pharmacy in SOUTH BURLINGTON, VT",
+        "state": "VT",
+        "address": "1 DORSET STREET",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "05403",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10690",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.111562,
+          44.446844
+        ]
+      },
+      "properties": {
+        "id": 270534571,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "WILLISTON",
+        "name": "CVS Pharmacy in WILLISTON, VT",
+        "state": "VT",
+        "address": "49 WRIGHT AVENUE",
+        "provider": "cvs",
+        "time_zone": "America/New_York",
+        "postal_code": "05495",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "7103",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:04.993+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:04.993+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    }
+  ]
+}

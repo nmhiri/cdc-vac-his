@@ -1,0 +1,3550 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "code": "SD",
+    "name": "South Dakota",
+    "store_count": 83,
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -104.059309668,
+            42.484719157
+          ],
+          [
+            -104.059309668,
+            45.945011591
+          ],
+          [
+            -96.435649227,
+            45.945011591
+          ],
+          [
+            -96.435649227,
+            42.484719157
+          ],
+          [
+            -104.059309668,
+            42.484719157
+          ]
+        ]
+      ]
+    },
+    "provider_brands": [
+      {
+        "id": 139709,
+        "key": "costco",
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "name": "Costco",
+        "status": "active",
+        "provider_id": "costco",
+        "location_count": 1,
+        "appointments_last_fetched": "2021-06-16T22:02:43.73+00:00",
+        "appointments_last_modified": "2021-06-16T22:02:43.73+00:00"
+      },
+      {
+        "id": 19,
+        "key": "cvs",
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "name": "CVS",
+        "status": "active",
+        "provider_id": "cvs",
+        "location_count": 3,
+        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00"
+      },
+      {
+        "id": 96517,
+        "key": "health_mart",
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "name": "Health Mart",
+        "status": "inactive",
+        "provider_id": "health_mart",
+        "location_count": 32,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00"
+      },
+      {
+        "id": 1338,
+        "key": "hyvee",
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "name": "Hy-Vee",
+        "status": "active",
+        "provider_id": "hyvee",
+        "location_count": 11,
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00"
+      },
+      {
+        "id": 5,
+        "key": "safeway",
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "name": "Safeway",
+        "status": "inactive",
+        "provider_id": "albertsons",
+        "location_count": 3,
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00"
+      },
+      {
+        "id": 41,
+        "key": "sams_club",
+        "url": "https://www.samsclub.com/pharmacy/immunization/form?imzType=covid",
+        "name": "Sam's Club",
+        "status": "inactive",
+        "provider_id": "sams_club",
+        "location_count": 2,
+        "appointments_last_fetched": "2021-02-27T02:18:30.844+00:00",
+        "appointments_last_modified": "2021-02-27T02:18:30.844+00:00"
+      },
+      {
+        "id": 42,
+        "key": "thrifty_white",
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "name": "Thrifty White",
+        "status": "active",
+        "provider_id": "thrifty_white",
+        "location_count": 1,
+        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00"
+      },
+      {
+        "id": 47,
+        "key": "walgreens",
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "name": "Walgreens",
+        "status": "inactive",
+        "provider_id": "walgreens",
+        "location_count": 14,
+        "appointments_last_fetched": "2021-06-16T20:53:56.778+00:00",
+        "appointments_last_modified": "2021-06-16T20:53:56.778+00:00"
+      },
+      {
+        "id": 70,
+        "key": "walmart",
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "name": "Walmart",
+        "status": "active",
+        "provider_id": "walmart",
+        "location_count": 15,
+        "appointments_last_fetched": "2021-06-16T22:04:25.974+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:25.974+00:00"
+      },
+      {
+        "id": null,
+        "key": null,
+        "url": null,
+        "name": null,
+        "status": "active",
+        "provider_id": null,
+        "location_count": 1,
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00"
+      }
+    ],
+    "provider_brand_count": 9,
+    "appointments_last_fetched": "2021-06-16T22:04:25.974+00:00",
+    "appointments_last_modified": "2021-06-16T22:04:25.974+00:00"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9487,
+          43.6308
+        ]
+      },
+      "properties": {
+        "id": 464879720,
+        "url": null,
+        "city": "Hartford",
+        "name": "Sioux Falls #4 Clinic",
+        "state": "SD",
+        "address": "304 W SW Highway 38, Ste 102",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57033",
+        "appointments": [],
+        "provider_brand": null,
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": null,
+        "provider_brand_name": null,
+        "provider_location_id": "6b76c68c-8b97-43e9-98ea-a2b8232baa39",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.72792,
+          44.37034
+        ]
+      },
+      "properties": {
+        "id": 10893766,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Deadwood",
+        "name": "Thrifty White Drug",
+        "state": "SD",
+        "address": "71 Charles Street",
+        "provider": "thrifty_white",
+        "time_zone": "America/Denver",
+        "postal_code": "57732",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "070",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:03:25.275+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:25.275+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.741,
+          43.512
+        ]
+      },
+      "properties": {
+        "id": 170708689,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "SIOUX FALLS",
+        "name": "Sioux Falls",
+        "state": "SD",
+        "address": "3700 S GRANGE AVE",
+        "provider": "costco",
+        "time_zone": "America/Chicago",
+        "postal_code": "57105",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "1159",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:02:43.73+00:00",
+        "appointments_last_modified": "2021-06-16T22:02:43.73+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.35281239,
+          44.36686958
+        ]
+      },
+      "properties": {
+        "id": 2724899,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "PIERRE",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "100 E SIOUX AVE",
+        "provider": "walgreens",
+        "time_zone": "America/Chicago",
+        "postal_code": "57501",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "10572",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:53:56.778+00:00",
+        "appointments_last_modified": "2021-06-16T20:53:56.778+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.770478,
+          43.515447
+        ]
+      },
+      "properties": {
+        "id": 2724297,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SIOUX FALLS",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "3620 W 41ST ST",
+        "provider": "walgreens",
+        "time_zone": "America/Chicago",
+        "postal_code": "57106",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "5745",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:49:23.389+00:00",
+        "appointments_last_modified": "2021-06-16T18:49:23.389+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.76080137,
+          43.54335839
+        ]
+      },
+      "properties": {
+        "id": 2724295,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SIOUX FALLS",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "2605 W 12TH ST",
+        "provider": "walgreens",
+        "time_zone": "America/Chicago",
+        "postal_code": "57104",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "5243",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:49:23.389+00:00",
+        "appointments_last_modified": "2021-06-16T18:49:23.389+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.81264468,
+          43.51525864
+        ]
+      },
+      "properties": {
+        "id": 2724296,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SIOUX FALLS",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "7120 W 41ST ST",
+        "provider": "walgreens",
+        "time_zone": "America/Chicago",
+        "postal_code": "57106",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "10729",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:49:23.389+00:00",
+        "appointments_last_modified": "2021-06-16T18:49:23.389+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.67090868,
+          43.52975008
+        ]
+      },
+      "properties": {
+        "id": 2724299,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SIOUX FALLS",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "1720 S SYCAMORE AVE",
+        "provider": "walgreens",
+        "time_zone": "America/Chicago",
+        "postal_code": "57110",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "1975",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:49:23.389+00:00",
+        "appointments_last_modified": "2021-06-16T18:49:23.389+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.73078278,
+          43.52903847
+        ]
+      },
+      "properties": {
+        "id": 2724298,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SIOUX FALLS",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "1806 S MINNESOTA AVE",
+        "provider": "walgreens",
+        "time_zone": "America/Chicago",
+        "postal_code": "57105",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "5514",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:49:23.389+00:00",
+        "appointments_last_modified": "2021-06-16T18:49:23.389+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.70718729,
+          43.49973684
+        ]
+      },
+      "properties": {
+        "id": 2724300,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SIOUX FALLS",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "4900 S CLIFF AVE",
+        "provider": "walgreens",
+        "time_zone": "America/Chicago",
+        "postal_code": "57108",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "5242",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:49:23.389+00:00",
+        "appointments_last_modified": "2021-06-16T18:49:23.389+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.39675759,
+          42.89040205
+        ]
+      },
+      "properties": {
+        "id": 2724301,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "YANKTON",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "2020 BROADWAY AVE",
+        "provider": "walgreens",
+        "time_zone": "America/Chicago",
+        "postal_code": "57078",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "9806",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "jj": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:49:23.389+00:00",
+        "appointments_last_modified": "2021-06-16T18:49:23.389+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1101463,
+          44.89050655
+        ]
+      },
+      "properties": {
+        "id": 2724302,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WATERTOWN",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "421 9TH AVE SE",
+        "provider": "walgreens",
+        "time_zone": "America/Chicago",
+        "postal_code": "57201",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "10007",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:39:10.567+00:00",
+        "appointments_last_modified": "2021-06-16T18:39:10.567+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.018716,
+          43.702067
+        ]
+      },
+      "properties": {
+        "id": 2724627,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "MITCHELL",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "901 S BURR ST",
+        "provider": "walgreens",
+        "time_zone": "America/Chicago",
+        "postal_code": "57301",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "10347",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:36:28.88+00:00",
+        "appointments_last_modified": "2021-06-16T18:36:28.88+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.25151167,
+          44.08135875
+        ]
+      },
+      "properties": {
+        "id": 2724902,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "RAPID CITY",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "540 MOUNTAIN VIEW RD",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "57702",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "5643",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:21:54.471+00:00",
+        "appointments_last_modified": "2021-06-16T18:21:54.471+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.20213218,
+          44.09610477
+        ]
+      },
+      "properties": {
+        "id": 2724900,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "RAPID CITY",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "1125 N LACROSSE ST",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "57701",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "9512",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:21:54.471+00:00",
+        "appointments_last_modified": "2021-06-16T18:21:54.471+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.232108,
+          44.067324
+        ]
+      },
+      "properties": {
+        "id": 2724901,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "RAPID CITY",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "1902 MOUNT RUSHMORE RD",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "57701",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "10656",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:21:54.471+00:00",
+        "appointments_last_modified": "2021-06-16T18:21:54.471+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.85931524,
+          44.49907291
+        ]
+      },
+      "properties": {
+        "id": 2725504,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SPEARFISH",
+        "name": "Walgreen Drug Store",
+        "state": "SD",
+        "address": "1430 NORTH AVE",
+        "provider": "walgreens",
+        "time_zone": "America/Denver",
+        "postal_code": "57783",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "12906",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:21:54.471+00:00",
+        "appointments_last_modified": "2021-06-16T18:21:54.471+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4756347,
+          45.4586567
+        ]
+      },
+      "properties": {
+        "id": 141567784,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "ABERDEEN",
+        "name": "JONES DRUG",
+        "state": "SD",
+        "address": "816 6TH AVE SE, STE 1",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57401",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "4065",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4574203,
+          45.4602506
+        ]
+      },
+      "properties": {
+        "id": 141567786,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "ABERDEEN",
+        "name": "Plaza Pharmacy",
+        "state": "SD",
+        "address": "2201 6th Ave SE Suite 23",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57401",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7535",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4757979,
+          45.4642025
+        ]
+      },
+      "properties": {
+        "id": 141742266,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "ABERDEEN",
+        "name": "DT Pharmacy",
+        "state": "SD",
+        "address": "815 1ST AVE SE STE 202",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57401",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7533",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4451548,
+          45.4632108
+        ]
+      },
+      "properties": {
+        "id": 141567787,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "ABERDEEN",
+        "name": "United Clinic Pharmacy",
+        "state": "SD",
+        "address": "3015 3rd Ave SE Suite 110",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57401",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7541",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4784051,
+          45.4592613
+        ]
+      },
+      "properties": {
+        "id": 141567785,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "ABERDEEN",
+        "name": "Kessler's Pharmacy",
+        "state": "SD",
+        "address": "621 6TH AVE SE",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57401",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "9518",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4785359,
+          45.4638147
+        ]
+      },
+      "properties": {
+        "id": 141742272,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "ABERDEEN",
+        "name": "State Street Pharmacy",
+        "state": "SD",
+        "address": "105 SO STATE ST, STE 111",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57401",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7540",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.654753,
+          45.4529051
+        ]
+      },
+      "properties": {
+        "id": 141567807,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "BOWDLE",
+        "name": "TURNER DRUG HEALTH MART",
+        "state": "SD",
+        "address": "3033 MAIN",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57428",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "6937",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2941225,
+          43.1821097
+        ]
+      },
+      "properties": {
+        "id": 141742861,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "BURKE",
+        "name": "BURKE COMMUNITY PHARMACY",
+        "state": "SD",
+        "address": "814 JACKSON STREET POB 35",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57523",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7918",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5997609,
+          43.7667473
+        ]
+      },
+      "properties": {
+        "id": 141587497,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "CUSTER",
+        "name": "CARSON DRUG",
+        "state": "SD",
+        "address": "521 MOUNT RUSHMORE ROAD",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57730",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7112",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4949015,
+          42.5059744
+        ]
+      },
+      "properties": {
+        "id": 141731232,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Dakota Dunes",
+        "name": "Dunes Family Health Mart Pharmacy",
+        "state": "SD",
+        "address": "101 Tower Road Ste 130",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57049",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "2501",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2348004,
+          44.996955
+        ]
+      },
+      "properties": {
+        "id": 141567847,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "EAGLE BUTTE",
+        "name": "COMMUNITY PHARMACIES INC",
+        "state": "SD",
+        "address": "123 MAIN STREET",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57625",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7815",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6145207,
+          45.7669587
+        ]
+      },
+      "properties": {
+        "id": 141568325,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "EUREKA",
+        "name": "Dosch Family Pharmacy",
+        "state": "SD",
+        "address": "712 7TH ST PO BOX 707",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57437",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7789",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0384284,
+          45.0193806
+        ]
+      },
+      "properties": {
+        "id": 141743108,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "FAITH",
+        "name": "COMMUNITY PHARMACIES INC",
+        "state": "SD",
+        "address": "100 MAIN STREET",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57626",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7790",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9556053,
+          45.0115462
+        ]
+      },
+      "properties": {
+        "id": 141567806,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "GETTYSBURG",
+        "name": "Vilas",
+        "state": "SD",
+        "address": "103 E COMMERCIAL AVE",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57442",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "22067",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1015716,
+          45.4570928
+        ]
+      },
+      "properties": {
+        "id": 141567788,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "GROTON",
+        "name": "Lori's Health Mart Pharmacy",
+        "state": "SD",
+        "address": "1205 NORTH 1ST STREET",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57445",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7178",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4398562,
+          44.5194736
+        ]
+      },
+      "properties": {
+        "id": 141742051,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "HIGHMORE",
+        "name": "Vilas",
+        "state": "SD",
+        "address": "120 COMMERCIAL AVE",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57345",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "22062",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0307777,
+          45.43862
+        ]
+      },
+      "properties": {
+        "id": 141742513,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "IPSWICH",
+        "name": "EUREKA PHARMACY AND GIFT SHOPPE INC",
+        "state": "SD",
+        "address": "401 5TH AVENUE",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57451",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7846",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7780084,
+          44.3514834
+        ]
+      },
+      "properties": {
+        "id": 141587498,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "LEAD",
+        "name": "Vilas Pharmacy",
+        "state": "SD",
+        "address": "95 E MAIN ST",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57754",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "9257",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1594047,
+          45.9419105
+        ]
+      },
+      "properties": {
+        "id": 141742942,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Lemmon",
+        "name": "Smith Drug Health Mart Pharmacy",
+        "state": "SD",
+        "address": "301 Main Street",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57638",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "4785",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7367999,
+          43.1751383
+        ]
+      },
+      "properties": {
+        "id": 141742882,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "MARTIN",
+        "name": "MARTIN DRUG AND MERCANTILE",
+        "state": "SD",
+        "address": "304 MAIN ST",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57551",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "8530",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.988434,
+          44.5183148
+        ]
+      },
+      "properties": {
+        "id": 141742071,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "MILLER",
+        "name": "MILLER REXALL DRUG",
+        "state": "SD",
+        "address": "209 N. BROADWAY",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57362",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7919",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.658546,
+          43.3069119
+        ]
+      },
+      "properties": {
+        "id": 141742873,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "MISSION",
+        "name": "MISSION COMMUNITY PHARMACY",
+        "state": "SD",
+        "address": "161 S MAIN STREET",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57555",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7884",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9866504,
+          43.394628
+        ]
+      },
+      "properties": {
+        "id": 141741972,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "PARKSTON",
+        "name": "PARKSTON DRUG & GIFT HEALTH MART",
+        "state": "SD",
+        "address": "112 WEST MAIN PO BOX 430",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57366",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "6927",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6640689,
+          44.0391042
+        ]
+      },
+      "properties": {
+        "id": 141742862,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "PHILIP",
+        "name": "DAKOTA COUNTRY PHARMACY",
+        "state": "SD",
+        "address": "130 S CENTER",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57567",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7976",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3440106,
+          44.3610928
+        ]
+      },
+      "properties": {
+        "id": 141742581,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "PIERRE",
+        "name": "Avera St. Mary's",
+        "state": "SD",
+        "address": "100 MAC LANE STE 101",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57501",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "17283",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0587686,
+          43.9122655
+        ]
+      },
+      "properties": {
+        "id": 141567811,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "PRESHO",
+        "name": "PRESHO COMMUNITY PHARMACY",
+        "state": "SD",
+        "address": "116 NORTH MAIN ST, STE #2",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57568",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "7904",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.201246,
+          44.066849
+        ]
+      },
+      "properties": {
+        "id": 141743496,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Rapid City",
+        "name": "Boyds Drug Mart East",
+        "state": "SD",
+        "address": "909 E ST PATRICK ST",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57701",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "2190",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.253686,
+          44.080681
+        ]
+      },
+      "properties": {
+        "id": 141743504,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Rapid City",
+        "name": "Boyds Drug Mart West",
+        "state": "SD",
+        "address": "655 Mountain View Rd.",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57702",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "2191",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2322822,
+          44.059626
+        ]
+      },
+      "properties": {
+        "id": 141743511,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Rapid City",
+        "name": "Boyds Drug Rx Express",
+        "state": "SD",
+        "address": "2650 Mt. Rushmore Rd",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57701",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "2192",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8670019,
+          42.9912329
+        ]
+      },
+      "properties": {
+        "id": 141741823,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "TYNDALL",
+        "name": "Bon Homme Health Mart Pharmacy",
+        "state": "SD",
+        "address": "410 W. 16TH AVE",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57066",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "6873",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5203129,
+          45.332324
+        ]
+      },
+      "properties": {
+        "id": 141741897,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Webster",
+        "name": "Cornwell Drug Health Mart",
+        "state": "SD",
+        "address": "701 MAIN",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57274",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "6798",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7466486,
+          43.5692541
+        ]
+      },
+      "properties": {
+        "id": 141742863,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "WHITE RIVER",
+        "name": "White River Community Pharmacy",
+        "state": "SD",
+        "address": "309 EAST 4TH ST",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "57579",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "17541",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2330096,
+          44.0649487
+        ]
+      },
+      "properties": {
+        "id": 1046518,
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "city": "Rapid City",
+        "name": "Safeway 0581",
+        "state": "SD",
+        "address": "2120 Mount Rushmore Rd",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "57701",
+        "appointments": null,
+        "provider_brand": "safeway",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 5,
+        "provider_brand_name": "Safeway",
+        "provider_location_id": "1600106051079",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2532636,
+          44.0799461
+        ]
+      },
+      "properties": {
+        "id": 1046557,
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "city": "Rapid City",
+        "name": "Safeway 1554",
+        "state": "SD",
+        "address": "730 Mountain View Road",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "57702",
+        "appointments": null,
+        "provider_brand": "safeway",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 5,
+        "provider_brand_name": "Safeway",
+        "provider_location_id": "1600106549385",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.860846,
+          44.5002451
+        ]
+      },
+      "properties": {
+        "id": 1046519,
+        "url": "https://www.safeway.com/pharmacy/covid-19.html",
+        "city": "Spearfish",
+        "name": "Safeway 0583",
+        "state": "SD",
+        "address": "1606 North Avenue",
+        "provider": "albertsons",
+        "time_zone": "America/Denver",
+        "postal_code": "57783",
+        "appointments": null,
+        "provider_brand": "safeway",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 5,
+        "provider_brand_name": "Safeway",
+        "provider_location_id": "1600106063224",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-05-21T19:03:54.302+00:00",
+        "appointments_last_modified": "2021-05-21T19:03:33+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.194131,
+          44.101134
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "url": "https://www.samsclub.com/pharmacy/immunization/form?imzType=covid",
+        "city": "Rapid City",
+        "name": "Rapid City Sam's Club",
+        "state": "SD",
+        "address": "925 Eglin Street",
+        "provider": "sams_club",
+        "time_zone": "America/Denver",
+        "postal_code": "57701",
+        "appointments": null,
+        "provider_brand": "sams_club",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 41,
+        "provider_brand_name": "Sam's Club",
+        "provider_location_id": "6565",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-02-27T02:18:30.844+00:00",
+        "appointments_last_modified": "2021-02-27T02:18:30.844+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.77269,
+          43.519275
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "url": "https://www.samsclub.com/pharmacy/immunization/form?imzType=covid",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls Sam's Club",
+        "state": "SD",
+        "address": "3201 S. Louise Ave.",
+        "provider": "sams_club",
+        "time_zone": "America/Chicago",
+        "postal_code": "57106",
+        "appointments": null,
+        "provider_brand": "sams_club",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 41,
+        "provider_brand_name": "Sam's Club",
+        "provider_location_id": "8165",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-02-26T23:22:51.628+00:00",
+        "appointments_last_modified": "2021-02-26T23:22:51.628+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.936202,
+          42.791693
+        ]
+      },
+      "properties": {
+        "id": 784449,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Vermillion",
+        "name": "Vermillion Supercenter",
+        "state": "SD",
+        "address": "1207 Princeton Ave",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57069",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-05:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "3734",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:04:25.974+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:25.974+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.188739,
+          44.098615
+        ]
+      },
+      "properties": {
+        "id": 270623487,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "RAPID CITY",
+        "name": "CVS Pharmacy in RAPID CITY, SD",
+        "state": "SD",
+        "address": "1415 EGLIN ST",
+        "provider": "cvs",
+        "time_zone": "America/Denver",
+        "postal_code": "57701",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "17510",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.655509,
+          43.538529
+        ]
+      },
+      "properties": {
+        "id": 270627740,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "SIOUX FALLS",
+        "name": "CVS Pharmacy in SIOUX FALLS, SD",
+        "state": "SD",
+        "address": "1021 S HIGHLINE PL",
+        "provider": "cvs",
+        "time_zone": "America/Chicago",
+        "postal_code": "57110",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "17566",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.768716,
+          43.512153
+        ]
+      },
+      "properties": {
+        "id": 270610044,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "SIOUX FALLS",
+        "name": "CVS Pharmacy in SIOUX FALLS, SD",
+        "state": "SD",
+        "address": "3600 S LOUISE AVE",
+        "provider": "cvs",
+        "time_zone": "America/Chicago",
+        "postal_code": "57106",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "16018",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:04:08.278+00:00",
+        "appointments_last_modified": "2021-06-16T22:04:08.278+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.768406,
+          44.296632
+        ]
+      },
+      "properties": {
+        "id": 14422434,
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "city": "Brookings",
+        "name": "Brookings",
+        "state": "SD",
+        "address": "790 22nd Ave S",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57006",
+        "appointments": [],
+        "provider_brand": "hyvee",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 1338,
+        "provider_brand_name": "Hy-Vee",
+        "provider_location_id": "b21e8067-75f2-47b5-babc-76e223b4dee6",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.70864,
+          43.49901
+        ]
+      },
+      "properties": {
+        "id": 14422378,
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls #6",
+        "state": "SD",
+        "address": "1231 E 57th St",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57108",
+        "appointments": [],
+        "provider_brand": "hyvee",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 1338,
+        "provider_brand_name": "Hy-Vee",
+        "provider_location_id": "6235b5b2-ab47-4f82-b6a7-5ffefe1a0a50",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.773022,
+          43.508313
+        ]
+      },
+      "properties": {
+        "id": 14422377,
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls #2",
+        "state": "SD",
+        "address": "4101 S Louise Ave",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57106",
+        "appointments": [],
+        "provider_brand": "hyvee",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 1338,
+        "provider_brand_name": "Hy-Vee",
+        "provider_location_id": "2d7bbdf8-0449-4210-a723-a5866233634c",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.789673,
+          43.527765
+        ]
+      },
+      "properties": {
+        "id": 14422380,
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls #4",
+        "state": "SD",
+        "address": "1900 S Marion Rd",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57106",
+        "appointments": [],
+        "provider_brand": "hyvee",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 1338,
+        "provider_brand_name": "Hy-Vee",
+        "provider_location_id": "3d703d21-11b9-4838-be1c-8ca3d331ccc2",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.729034,
+          43.517496
+        ]
+      },
+      "properties": {
+        "id": 14422382,
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls #3",
+        "state": "SD",
+        "address": "3000 S Minnesota Ave",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57105",
+        "appointments": [],
+        "provider_brand": "hyvee",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 1338,
+        "provider_brand_name": "Hy-Vee",
+        "provider_location_id": "67ba9a7b-b33c-403c-a534-bcffa3ecbdfa",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.688569,
+          43.547649
+        ]
+      },
+      "properties": {
+        "id": 14422385,
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls #5",
+        "state": "SD",
+        "address": "3020 E 10th St",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57103",
+        "appointments": [],
+        "provider_brand": "hyvee",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 1338,
+        "provider_brand_name": "Hy-Vee",
+        "provider_location_id": "3492201c-ba7c-42c3-894c-56ea1bb3ce7b",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6725,
+          43.5307
+        ]
+      },
+      "properties": {
+        "id": 14422384,
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls #1",
+        "state": "SD",
+        "address": "1601 S Sycamore Ave",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57110",
+        "appointments": [],
+        "provider_brand": "hyvee",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 1338,
+        "provider_brand_name": "Hy-Vee",
+        "provider_location_id": "23342492-dc0e-4641-9ef8-63ea3171204d",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.762052,
+          43.546656
+        ]
+      },
+      "properties": {
+        "id": 14422383,
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls #7",
+        "state": "SD",
+        "address": "2700 W 10th St",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57104",
+        "appointments": [],
+        "provider_brand": "hyvee",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 1338,
+        "provider_brand_name": "Hy-Vee",
+        "provider_location_id": "74f928a2-6050-417b-908b-15b7f0291d8b",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.94054,
+          42.78778
+        ]
+      },
+      "properties": {
+        "id": 14422344,
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "city": "Vermillion",
+        "name": "Vermillion",
+        "state": "SD",
+        "address": "525 W Cherry St",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57069",
+        "appointments": [],
+        "provider_brand": "hyvee",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 1338,
+        "provider_brand_name": "Hy-Vee",
+        "provider_location_id": "2f39da3c-50da-49aa-8025-99508aca1ef0",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.09524,
+          44.88992
+        ]
+      },
+      "properties": {
+        "id": 14422457,
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "city": "Watertown",
+        "name": "Watertown",
+        "state": "SD",
+        "address": "1320 9th Ave SE",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57201",
+        "appointments": [],
+        "provider_brand": "hyvee",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 1338,
+        "provider_brand_name": "Hy-Vee",
+        "provider_location_id": "8858f26f-b7fa-49f0-9ef4-3cbde19fe86d",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.397021,
+          42.891551
+        ]
+      },
+      "properties": {
+        "id": 14422342,
+        "url": "https://www.hy-vee.com/my-pharmacy/covid-vaccine-consent",
+        "city": "Yankton",
+        "name": "Yankton",
+        "state": "SD",
+        "address": "2100 Broadway",
+        "provider": "hyvee",
+        "time_zone": "America/Chicago",
+        "postal_code": "57078",
+        "appointments": [],
+        "provider_brand": "hyvee",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 1338,
+        "provider_brand_name": "Hy-Vee",
+        "provider_location_id": "7946e43d-b9c6-4d5e-91b6-4510e2836dd0",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:49.331+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:49.331+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.729903,
+          43.47335
+        ]
+      },
+      "properties": {
+        "id": 784450,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls Supercenter",
+        "state": "SD",
+        "address": "7821 S Minnesota Ave",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57108",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-05:00",
+            "type": "Pfizer",
+            "vaccine_types": [
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2443",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:01.597+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:01.597+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.773461,
+          43.516817
+        ]
+      },
+      "properties": {
+        "id": 784451,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls Supercenter",
+        "state": "SD",
+        "address": "3209 S Louise Ave",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57106",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-05:00",
+            "type": "Pfizer",
+            "vaccine_types": [
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1535",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:01.597+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:01.597+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.658586,
+          43.54115
+        ]
+      },
+      "properties": {
+        "id": 784006,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls Supercenter",
+        "state": "SD",
+        "address": "5521 E Arrowhead Pkwy",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57110",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-05:00",
+            "type": "Pfizer",
+            "vaccine_types": [
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "3237",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:01.597+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:01.597+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.789691,
+          43.603247
+        ]
+      },
+      "properties": {
+        "id": 784453,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Sioux Falls",
+        "name": "Sioux Falls Supercenter",
+        "state": "SD",
+        "address": "5200 W 60th St N",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57107",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-05:00",
+            "type": "Pfizer",
+            "vaccine_types": [
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "4865",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:01.597+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:01.597+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.765997,
+          44.314414
+        ]
+      },
+      "properties": {
+        "id": 784433,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Brookings",
+        "name": "Brookings Supercenter",
+        "state": "SD",
+        "address": "2233 6th St.",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57006",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-05:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1538",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:00.449+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:00.449+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.069827,
+          44.886833
+        ]
+      },
+      "properties": {
+        "id": 784432,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Watertown",
+        "name": "Watertown Supercenter",
+        "state": "SD",
+        "address": "1201 29th St Se",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57201",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-05:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1500",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:03:00.449+00:00",
+        "appointments_last_modified": "2021-06-16T22:03:00.449+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.401127,
+          42.90729
+        ]
+      },
+      "properties": {
+        "id": 784452,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Yankton",
+        "name": "Yankton Supercenter",
+        "state": "SD",
+        "address": "3001 Broadway Ave",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57078",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-05:00",
+            "type": "Pfizer, Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1483",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:01:32.284+00:00",
+        "appointments_last_modified": "2021-06-16T22:01:32.284+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.436532,
+          45.456105
+        ]
+      },
+      "properties": {
+        "id": 784877,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Aberdeen",
+        "name": "Aberdeen Supercenter",
+        "state": "SD",
+        "address": "3820 7th Ave Se",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57401",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-05:00",
+            "type": "Pfizer, Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1520",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:01:27.389+00:00",
+        "appointments_last_modified": "2021-06-16T22:01:27.389+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.217288,
+          44.332969
+        ]
+      },
+      "properties": {
+        "id": 784455,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Huron",
+        "name": "Huron Supercenter",
+        "state": "SD",
+        "address": "2791 Dakota Ave S",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57350",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-05:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "3853",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:01:26.937+00:00",
+        "appointments_last_modified": "2021-06-16T22:01:26.937+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.009732,
+          43.684941
+        ]
+      },
+      "properties": {
+        "id": 784454,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Mitchell",
+        "name": "Mitchell Supercenter",
+        "state": "SD",
+        "address": "1101 E Spruce St",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57301",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:20:00.000-05:00",
+            "type": "Pfizer, Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2990",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:01:26.937+00:00",
+        "appointments_last_modified": "2021-06-16T22:01:26.937+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.311489,
+          44.380285
+        ]
+      },
+      "properties": {
+        "id": 784876,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Pierre",
+        "name": "Pierre Supercenter",
+        "state": "SD",
+        "address": "1730 N Garfield Ave",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "57501",
+        "appointments": [
+          {
+            "time": "2021-06-17T09:40:00.000-05:00",
+            "type": "Pfizer, Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1685",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:00:53.217+00:00",
+        "appointments_last_modified": "2021-06-16T22:00:53.217+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.198186,
+          44.098149
+        ]
+      },
+      "properties": {
+        "id": 784878,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Rapid City",
+        "name": "Rapid City Supercenter",
+        "state": "SD",
+        "address": "1200 N Lacrosse St",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "57701",
+        "appointments": [
+          {
+            "time": "2021-06-16T18:00:00.000-06:00",
+            "type": "Pfizer, Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1604",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T21:59:22.732+00:00",
+        "appointments_last_modified": "2021-06-16T21:59:22.732+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.218178,
+          44.03392
+        ]
+      },
+      "properties": {
+        "id": 784879,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Rapid City",
+        "name": "Rapid City Supercenter",
+        "state": "SD",
+        "address": "100 Stumer Rd",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "57701",
+        "appointments": [
+          {
+            "time": "2021-06-16T18:00:00.000-06:00",
+            "type": "Pfizer, Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "3872",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T21:59:22.732+00:00",
+        "appointments_last_modified": "2021-06-16T21:59:22.732+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.809596,
+          44.478239
+        ]
+      },
+      "properties": {
+        "id": 784880,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Spearfish",
+        "name": "Spearfish Supercenter",
+        "state": "SD",
+        "address": "2825 1st Ave",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "57783",
+        "appointments": [
+          {
+            "time": "2021-06-16T18:20:00.000-06:00",
+            "type": "Pfizer, Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1543",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T21:59:22.732+00:00",
+        "appointments_last_modified": "2021-06-16T21:59:22.732+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    }
+  ]
+}

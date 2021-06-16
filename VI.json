@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "code": "VI",
+    "name": "United States Virgin Islands",
+    "store_count": 1,
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -65.083166198,
+            17.679370591
+          ],
+          [
+            -65.083166198,
+            18.384658597
+          ],
+          [
+            -64.577075745,
+            18.384658597
+          ],
+          [
+            -64.577075745,
+            17.679370591
+          ],
+          [
+            -65.083166198,
+            17.679370591
+          ]
+        ]
+      ]
+    },
+    "provider_brands": [
+      {
+        "id": 47,
+        "key": "walgreens",
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "name": "Walgreens",
+        "status": "inactive",
+        "provider_id": "walgreens",
+        "location_count": 1,
+        "appointments_last_fetched": "2021-06-16T18:41:30.135+00:00",
+        "appointments_last_modified": "2021-06-16T18:41:30.135+00:00"
+      }
+    ],
+    "provider_brand_count": 1,
+    "appointments_last_fetched": "2021-06-16T18:41:30.135+00:00",
+    "appointments_last_modified": "2021-06-16T18:41:30.135+00:00"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.88897053,
+          18.33572556
+        ]
+      },
+      "properties": {
+        "id": 2704886,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "ST THOMAS",
+        "name": "Walgreen Drug Store",
+        "state": "VI",
+        "address": "4030 ANNAS RETREAT",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00802",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "13846",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:41:30.135+00:00",
+        "appointments_last_modified": "2021-06-16T18:41:30.135+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    }
+  ]
+}
