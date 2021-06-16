@@ -40,8 +40,8 @@
         "status": "active",
         "provider_id": "costco",
         "location_count": 2,
-        "appointments_last_fetched": "2021-06-16T22:11:50.523+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:50.523+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:52.665+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:52.665+00:00"
       },
       {
         "id": 19,
@@ -51,8 +51,8 @@
         "status": "active",
         "provider_id": "cvs",
         "location_count": 6,
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00"
       },
       {
         "id": 96517,
@@ -73,8 +73,8 @@
         "status": "active",
         "provider_id": "thrifty_white",
         "location_count": 31,
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00"
       },
       {
         "id": 47,
@@ -100,640 +100,10 @@
       }
     ],
     "provider_brand_count": 6,
-    "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-    "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
+    "appointments_last_fetched": "2021-06-16T22:19:52.665+00:00",
+    "appointments_last_modified": "2021-06-16T22:19:52.665+00:00"
   },
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.37331,
-          46.03445
-        ]
-      },
-      "properties": {
-        "id": 10893735,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Ashley",
-        "name": "White Drug",
-        "state": "ND",
-        "address": "109 W. Main Street",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58413",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "066",
-        "appointments_available": false,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -100.77278,
-          46.79517
-        ]
-      },
-      "properties": {
-        "id": 10893738,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Bismarck",
-        "name": "Thrifty White Pharmacy",
-        "state": "ND",
-        "address": "1140 E. Bismarck Expressway",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58504",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "083",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -100.78462,
-          46.80559
-        ]
-      },
-      "properties": {
-        "id": 10893736,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Bismarck",
-        "name": "White Drug",
-        "state": "ND",
-        "address": "117 North Fifth Street",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58501",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "005",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.6224,
-          48.79384
-        ]
-      },
-      "properties": {
-        "id": 10893740,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Cavalier",
-        "name": "Thrifty White Pharmacy",
-        "state": "ND",
-        "address": "102 Division Ave S",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58220",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "053",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.86481,
-          48.10549
-        ]
-      },
-      "properties": {
-        "id": 10893742,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Devils Lake",
-        "name": "White Drug",
-        "state": "ND",
-        "address": "425 College Drive South Suite 10",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58301",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "063",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.86156,
-          48.11284
-        ]
-      },
-      "properties": {
-        "id": 10893741,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Devils Lake",
-        "name": "Bell Drug",
-        "state": "ND",
-        "address": "Leevers Foods 323 5 ST NE SUITE 2",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58301",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "047",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.85043,
-          46.83654
-        ]
-      },
-      "properties": {
-        "id": 10893746,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Fargo",
-        "name": "Thrifty White Pharmacy",
-        "state": "ND",
-        "address": "4255 30th Ave S",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58104",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "068",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.42232,
-          48.41252
-        ]
-      },
-      "properties": {
-        "id": 10893747,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Grafton",
-        "name": "Thrifty White Pharmacy",
-        "state": "ND",
-        "address": "737 12th Street West",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58237",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "065",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.06596,
-          47.90758
-        ]
-      },
-      "properties": {
-        "id": 10893749,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Grand Forks",
-        "name": "Thrifty White Pharmacy",
-        "state": "ND",
-        "address": "1395 C South Columbia Road",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58201",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "081",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.63683,
-          46.00106
-        ]
-      },
-      "properties": {
-        "id": 10893750,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Hettinger",
-        "name": "White Drug",
-        "state": "ND",
-        "address": "112 South Main Street",
-        "provider": "thrifty_white",
-        "time_zone": "America/Denver",
-        "postal_code": "58639",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "055",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.70406,
-          46.89862
-        ]
-      },
-      "properties": {
-        "id": 10893751,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Jamestown",
-        "name": "White Drug",
-        "state": "ND",
-        "address": "Plaza Shopping Center 320 10th Street SE",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58401",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "015",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.53013,
-          47.96254
-        ]
-      },
-      "properties": {
-        "id": 10893755,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Maddock",
-        "name": "White Drug",
-        "state": "ND",
-        "address": "108 Central Avenue",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58348",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "057",
-        "appointments_available": false,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.51242,
-          48.7635
-        ]
-      },
-      "properties": {
-        "id": 10893759,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Mohall",
-        "name": "White Drug",
-        "state": "ND",
-        "address": "115 Main Street West",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58761",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "062",
-        "appointments_available": false,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.84488,
-          48.66099
-        ]
-      },
-      "properties": {
-        "id": 10893760,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Rolette",
-        "name": "White Drug",
-        "state": "ND",
-        "address": "208 Main Street",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58366",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "058",
-        "appointments_available": false,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.996,
-          48.3687
-        ]
-      },
-      "properties": {
-        "id": 10893761,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Rugby",
-        "name": "White Drug",
-        "state": "ND",
-        "address": "107 Second Street SE",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58368",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "050",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.003365,
-          46.923515
-        ]
-      },
-      "properties": {
-        "id": 10893762,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Valley City",
-        "name": "Thrifty White Pharmacy",
-        "state": "ND",
-        "address": "120 West Main Street",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58072",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "059",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.6158,
-          46.26138
-        ]
-      },
-      "properties": {
-        "id": 10893763,
-        "url": "https://www.thriftywhite.com/covid19vaccine",
-        "city": "Wahpeton",
-        "name": "Thrifty White Pharmacy",
-        "state": "ND",
-        "address": "387 11th STREET SOUTH  Suite 2",
-        "provider": "thrifty_white",
-        "time_zone": "America/Chicago",
-        "postal_code": "58075",
-        "appointments": [],
-        "provider_brand": "thrifty_white",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 42,
-        "provider_brand_name": "Thrifty White",
-        "provider_location_id": "075",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.517+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.517+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -766,8 +136,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:50.523+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:50.523+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:52.665+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:52.665+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -804,8 +174,638 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:48.393+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:48.393+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:50.191+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:50.191+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.37331,
+          46.03445
+        ]
+      },
+      "properties": {
+        "id": 10893735,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Ashley",
+        "name": "White Drug",
+        "state": "ND",
+        "address": "109 W. Main Street",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58413",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "066",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.78462,
+          46.80559
+        ]
+      },
+      "properties": {
+        "id": 10893736,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Bismarck",
+        "name": "White Drug",
+        "state": "ND",
+        "address": "117 North Fifth Street",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58501",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "005",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.77278,
+          46.79517
+        ]
+      },
+      "properties": {
+        "id": 10893738,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Bismarck",
+        "name": "Thrifty White Pharmacy",
+        "state": "ND",
+        "address": "1140 E. Bismarck Expressway",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58504",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "083",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6224,
+          48.79384
+        ]
+      },
+      "properties": {
+        "id": 10893740,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Cavalier",
+        "name": "Thrifty White Pharmacy",
+        "state": "ND",
+        "address": "102 Division Ave S",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58220",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "053",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.86481,
+          48.10549
+        ]
+      },
+      "properties": {
+        "id": 10893742,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Devils Lake",
+        "name": "White Drug",
+        "state": "ND",
+        "address": "425 College Drive South Suite 10",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58301",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "063",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.86156,
+          48.11284
+        ]
+      },
+      "properties": {
+        "id": 10893741,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Devils Lake",
+        "name": "Bell Drug",
+        "state": "ND",
+        "address": "Leevers Foods 323 5 ST NE SUITE 2",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58301",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "047",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.85043,
+          46.83654
+        ]
+      },
+      "properties": {
+        "id": 10893746,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Fargo",
+        "name": "Thrifty White Pharmacy",
+        "state": "ND",
+        "address": "4255 30th Ave S",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58104",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "068",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.42232,
+          48.41252
+        ]
+      },
+      "properties": {
+        "id": 10893747,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Grafton",
+        "name": "Thrifty White Pharmacy",
+        "state": "ND",
+        "address": "737 12th Street West",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58237",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "065",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.06596,
+          47.90758
+        ]
+      },
+      "properties": {
+        "id": 10893749,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Grand Forks",
+        "name": "Thrifty White Pharmacy",
+        "state": "ND",
+        "address": "1395 C South Columbia Road",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58201",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "081",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.63683,
+          46.00106
+        ]
+      },
+      "properties": {
+        "id": 10893750,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Hettinger",
+        "name": "White Drug",
+        "state": "ND",
+        "address": "112 South Main Street",
+        "provider": "thrifty_white",
+        "time_zone": "America/Denver",
+        "postal_code": "58639",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "055",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.70406,
+          46.89862
+        ]
+      },
+      "properties": {
+        "id": 10893751,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Jamestown",
+        "name": "White Drug",
+        "state": "ND",
+        "address": "Plaza Shopping Center 320 10th Street SE",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58401",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "015",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.53013,
+          47.96254
+        ]
+      },
+      "properties": {
+        "id": 10893755,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Maddock",
+        "name": "White Drug",
+        "state": "ND",
+        "address": "108 Central Avenue",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58348",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "057",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.51242,
+          48.7635
+        ]
+      },
+      "properties": {
+        "id": 10893759,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Mohall",
+        "name": "White Drug",
+        "state": "ND",
+        "address": "115 Main Street West",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58761",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "062",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.84488,
+          48.66099
+        ]
+      },
+      "properties": {
+        "id": 10893760,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Rolette",
+        "name": "White Drug",
+        "state": "ND",
+        "address": "208 Main Street",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58366",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "058",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.996,
+          48.3687
+        ]
+      },
+      "properties": {
+        "id": 10893761,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Rugby",
+        "name": "White Drug",
+        "state": "ND",
+        "address": "107 Second Street SE",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58368",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "050",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.003365,
+          46.923515
+        ]
+      },
+      "properties": {
+        "id": 10893762,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Valley City",
+        "name": "Thrifty White Pharmacy",
+        "state": "ND",
+        "address": "120 West Main Street",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58072",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "059",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6158,
+          46.26138
+        ]
+      },
+      "properties": {
+        "id": 10893763,
+        "url": "https://www.thriftywhite.com/covid19vaccine",
+        "city": "Wahpeton",
+        "name": "Thrifty White Pharmacy",
+        "state": "ND",
+        "address": "387 11th STREET SOUTH  Suite 2",
+        "provider": "thrifty_white",
+        "time_zone": "America/Chicago",
+        "postal_code": "58075",
+        "appointments": [],
+        "provider_brand": "thrifty_white",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 42,
+        "provider_brand_name": "Thrifty White",
+        "provider_location_id": "075",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:18.926+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:18.926+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -1053,40 +1053,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.064722,
-          47.887004
-        ]
-      },
-      "properties": {
-        "id": 784447,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Grand Forks",
-        "name": "Grand Forks Supercenter",
-        "state": "ND",
-        "address": "2551 32nd Ave S",
-        "provider": "walmart",
-        "time_zone": "America/Chicago",
-        "postal_code": "58201",
-        "appointments": null,
-        "provider_brand": "walmart",
-        "carries_vaccine": false,
-        "appointment_types": null,
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1545",
-        "appointments_available": null,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": null,
-        "appointments_last_modified": null,
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -97.113369,
           47.930327
         ]
@@ -1108,6 +1074,40 @@
         "provider_brand_id": 70,
         "provider_brand_name": "Walmart",
         "provider_location_id": "5806",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": null,
+        "appointments_last_modified": null,
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.064722,
+          47.887004
+        ]
+      },
+      "properties": {
+        "id": 784447,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Grand Forks",
+        "name": "Grand Forks Supercenter",
+        "state": "ND",
+        "address": "2551 32nd Ave S",
+        "provider": "walmart",
+        "time_zone": "America/Chicago",
+        "postal_code": "58201",
+        "appointments": null,
+        "provider_brand": "walmart",
+        "carries_vaccine": false,
+        "appointment_types": null,
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1545",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": null,
@@ -1431,40 +1431,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.4491351,
-          48.8292694
-        ]
-      },
-      "properties": {
-        "id": 141745943,
-        "url": "https://www.healthmartcovidvaccine.com/",
-        "city": "BOTTINEAU",
-        "name": "BOTTINEAU CLINIC HEALTH MART PHARMACY",
-        "state": "ND",
-        "address": "314 OHMER STREET",
-        "provider": "health_mart",
-        "time_zone": null,
-        "postal_code": "58318",
-        "appointments": null,
-        "provider_brand": "health_mart",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 96517,
-        "provider_brand_name": "Health Mart",
-        "provider_location_id": "6912",
-        "appointments_available": null,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
-        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -100.4459308,
           48.8271309
         ]
@@ -1486,6 +1452,40 @@
         "provider_brand_id": 96517,
         "provider_brand_name": "Health Mart",
         "provider_location_id": "9036",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4491351,
+          48.8292694
+        ]
+      },
+      "properties": {
+        "id": 141745943,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "BOTTINEAU",
+        "name": "BOTTINEAU CLINIC HEALTH MART PHARMACY",
+        "state": "ND",
+        "address": "314 OHMER STREET",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "58318",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "6912",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
@@ -1771,17 +1771,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.865279,
-          46.8643486
+          -96.8277872,
+          46.831384
         ]
       },
       "properties": {
-        "id": 141567911,
+        "id": 141567916,
         "url": "https://www.healthmartcovidvaccine.com/",
         "city": "FARGO",
-        "name": "Prairie Pharmacy",
+        "name": "DAKOTA CLINIC PHY-32 AVE",
         "state": "ND",
-        "address": "4731 13TH AVE SW",
+        "address": "3000 32ND AVE S",
         "provider": "health_mart",
         "time_zone": null,
         "postal_code": "58103",
@@ -1791,7 +1791,7 @@
         "appointment_types": null,
         "provider_brand_id": 96517,
         "provider_brand_name": "Health Mart",
-        "provider_location_id": "16295",
+        "provider_location_id": "18321",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
@@ -1826,40 +1826,6 @@
         "provider_brand_id": 96517,
         "provider_brand_name": "Health Mart",
         "provider_location_id": "18314",
-        "appointments_available": null,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
-        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.8277872,
-          46.831384
-        ]
-      },
-      "properties": {
-        "id": 141567916,
-        "url": "https://www.healthmartcovidvaccine.com/",
-        "city": "FARGO",
-        "name": "DAKOTA CLINIC PHY-32 AVE",
-        "state": "ND",
-        "address": "3000 32ND AVE S",
-        "provider": "health_mart",
-        "time_zone": null,
-        "postal_code": "58103",
-        "appointments": null,
-        "provider_brand": "health_mart",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 96517,
-        "provider_brand_name": "Health Mart",
-        "provider_location_id": "18321",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
@@ -1941,6 +1907,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -96.865279,
+          46.8643486
+        ]
+      },
+      "properties": {
+        "id": 141567911,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "FARGO",
+        "name": "Prairie Pharmacy",
+        "state": "ND",
+        "address": "4731 13TH AVE SW",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "58103",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "16295",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -101.8301745,
           46.8155689
         ]
@@ -1962,6 +1962,40 @@
         "provider_brand_id": 96517,
         "provider_brand_name": "Health Mart",
         "provider_location_id": "8537",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.045478,
+          47.8779484
+        ]
+      },
+      "properties": {
+        "id": 141565804,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "Grand Forks",
+        "name": "Walls Health Mart Pharmacy",
+        "state": "ND",
+        "address": "4440 SOWASHINGTON ST 101D",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "58201",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "3920",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
@@ -2030,40 +2064,6 @@
         "provider_brand_id": 96517,
         "provider_brand_name": "Health Mart",
         "provider_location_id": "3919",
-        "appointments_available": null,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
-        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.045478,
-          47.8779484
-        ]
-      },
-      "properties": {
-        "id": 141565804,
-        "url": "https://www.healthmartcovidvaccine.com/",
-        "city": "Grand Forks",
-        "name": "Walls Health Mart Pharmacy",
-        "state": "ND",
-        "address": "4440 SOWASHINGTON ST 101D",
-        "provider": "health_mart",
-        "time_zone": null,
-        "postal_code": "58201",
-        "appointments": null,
-        "provider_brand": "health_mart",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 96517,
-        "provider_brand_name": "Health Mart",
-        "provider_location_id": "3920",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
@@ -2485,40 +2485,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8768174,
-          46.8614513
-        ]
-      },
-      "properties": {
-        "id": 141567910,
-        "url": "https://www.healthmartcovidvaccine.com/",
-        "city": "WEST FARGO",
-        "name": "HEALTH CENTER PHARMACY",
-        "state": "ND",
-        "address": "1401 13TH AVE E STE B",
-        "provider": "health_mart",
-        "time_zone": null,
-        "postal_code": "58078",
-        "appointments": null,
-        "provider_brand": "health_mart",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 96517,
-        "provider_brand_name": "Health Mart",
-        "provider_location_id": "18347",
-        "appointments_available": null,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
-        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -96.9079443,
           46.847558
         ]
@@ -2540,6 +2506,40 @@
         "provider_brand_id": 96517,
         "provider_brand_name": "Health Mart",
         "provider_location_id": "19429",
+        "appointments_available": null,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
+        "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8768174,
+          46.8614513
+        ]
+      },
+      "properties": {
+        "id": 141567910,
+        "url": "https://www.healthmartcovidvaccine.com/",
+        "city": "WEST FARGO",
+        "name": "HEALTH CENTER PHARMACY",
+        "state": "ND",
+        "address": "1401 13TH AVE E STE B",
+        "provider": "health_mart",
+        "time_zone": null,
+        "postal_code": "58078",
+        "appointments": null,
+        "provider_brand": "health_mart",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 96517,
+        "provider_brand_name": "Health Mart",
+        "provider_location_id": "18347",
         "appointments_available": null,
         "appointment_vaccine_types": null,
         "appointments_last_fetched": "2021-06-16T08:59:13.106+00:00",
@@ -2580,115 +2580,6 @@
         "appointments_last_modified": "2021-06-16T08:59:13.106+00:00",
         "appointments_available_all_doses": null,
         "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -100.787187,
-          46.800444
-        ]
-      },
-      "properties": {
-        "id": 270436678,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "BISMARCK",
-        "name": "CVS Pharmacy in BISMARCK, ND",
-        "state": "ND",
-        "address": "525 SOUTH 3RD ST.",
-        "provider": "cvs",
-        "time_zone": "America/Chicago",
-        "postal_code": "58504",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "8628",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
       }
     },
     {
@@ -2794,8 +2685,221 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.787187,
+          46.800444
+        ]
+      },
+      "properties": {
+        "id": 270436678,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BISMARCK",
+        "name": "CVS Pharmacy in BISMARCK, ND",
+        "state": "ND",
+        "address": "525 SOUTH 3RD ST.",
+        "provider": "cvs",
+        "time_zone": "America/Chicago",
+        "postal_code": "58504",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "8628",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.800205,
+          46.906328
+        ]
+      },
+      "properties": {
+        "id": 270151857,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "FARGO",
+        "name": "CVS Pharmacy in FARGO, ND",
+        "state": "ND",
+        "address": "1321 19TH AVE NORTH",
+        "provider": "cvs",
+        "time_zone": "America/Chicago",
+        "postal_code": "58102",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "8613",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2903,112 +3007,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.800205,
-          46.906328
-        ]
-      },
-      "properties": {
-        "id": 270151857,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "FARGO",
-        "name": "CVS Pharmacy in FARGO, ND",
-        "state": "ND",
-        "address": "1321 19TH AVE NORTH",
-        "provider": "cvs",
-        "time_zone": "America/Chicago",
-        "postal_code": "58102",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "8613",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3116,8 +3116,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3225,8 +3225,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3296,8 +3296,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:18.936+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:18.936+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:40.463+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:40.463+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4199,8 +4199,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:09.15+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:09.15+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:30.695+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:30.695+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4438,8 +4438,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:05.49+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:05.49+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:27.022+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:27.022+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4661,8 +4661,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:00.598+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:00.598+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:22.114+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:22.114+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4732,8 +4732,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:58.158+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:58.158+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:19.674+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:19.674+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4812,8 +4812,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:54.482+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:54.482+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:16.017+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:16.017+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4899,8 +4899,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:52.022+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:52.022+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:13.585+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:13.585+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5162,8 +5162,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:49.583+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:49.583+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:11.15+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:11.15+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5265,8 +5265,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:48.361+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:48.361+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:09.925+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:09.925+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5291,14 +5291,6 @@
         "time_zone": "America/Chicago",
         "postal_code": "58701",
         "appointments": [
-          {
-            "time": "2021-06-16T17:15:00.000-05:00",
-            "type": "Moderna",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
           {
             "time": "2021-06-16T17:30:00.000-05:00",
             "type": "Moderna",
@@ -5385,8 +5377,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:45.926+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:45.926+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:07.49+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:07.49+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5464,8 +5456,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:44.703+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:44.703+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:06.27+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:06.27+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5511,8 +5503,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:43.486+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:43.486+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:05.046+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:05.046+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5950,8 +5942,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:41.03+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:41.03+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:02.617+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:02.617+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6662,8 +6654,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:32.451+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:32.451+00:00",
+        "appointments_last_fetched": "2021-06-16T22:17:54.071+00:00",
+        "appointments_last_modified": "2021-06-16T22:17:54.071+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }

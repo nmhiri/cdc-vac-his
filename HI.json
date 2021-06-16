@@ -40,8 +40,8 @@
         "status": "active",
         "provider_id": "costco",
         "location_count": 7,
-        "appointments_last_fetched": "2021-06-16T22:12:41.731+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:41.731+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:47.741+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:47.741+00:00"
       },
       {
         "id": 19,
@@ -51,8 +51,8 @@
         "status": "active",
         "provider_id": "cvs",
         "location_count": 69,
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00"
       },
       {
         "id": 96517,
@@ -73,8 +73,8 @@
         "status": "active",
         "provider_id": "kta_super_stores",
         "location_count": 6,
-        "appointments_last_fetched": "2021-06-16T22:12:54.841+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:54.841+00:00"
+        "appointments_last_fetched": "2021-06-16T22:20:11.429+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:11.429+00:00"
       },
       {
         "id": 5,
@@ -117,13 +117,13 @@
         "status": "active",
         "provider_id": "walmart",
         "location_count": 10,
-        "appointments_last_fetched": "2021-06-16T22:12:57.482+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.482+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:08.345+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:08.345+00:00"
       }
     ],
     "provider_brand_count": 8,
-    "appointments_last_fetched": "2021-06-16T22:12:57.482+00:00",
-    "appointments_last_modified": "2021-06-16T22:12:57.482+00:00"
+    "appointments_last_fetched": "2021-06-16T22:20:11.429+00:00",
+    "appointments_last_modified": "2021-06-16T22:20:11.429+00:00"
   },
   "features": [
     {
@@ -158,8 +158,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:54.841+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:54.841+00:00",
+        "appointments_last_fetched": "2021-06-16T22:20:11.429+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:11.429+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -196,160 +196,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:52.634+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:52.634+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.02,
-          19.687
-        ]
-      },
-      "properties": {
-        "id": 170721057,
-        "url": "https://www.costco.com/covid-vaccine.html",
-        "city": "KAILUA KONA",
-        "name": "Kona",
-        "state": "HI",
-        "address": "73-5600 MAIAU ST",
-        "provider": "costco",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96740",
-        "appointments": [],
-        "provider_brand": "costco",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 139709,
-        "provider_brand_name": "Costco",
-        "provider_location_id": "140",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:41.731+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:41.731+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.71,
-          21.284
-        ]
-      },
-      "properties": {
-        "id": 170721054,
-        "url": "https://www.costco.com/covid-vaccine.html",
-        "city": "HONOLULU",
-        "name": "Hawaii Kai",
-        "state": "HI",
-        "address": "333 A KEAHOLE STREET",
-        "provider": "costco",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96825",
-        "appointments": [],
-        "provider_brand": "costco",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 139709,
-        "provider_brand_name": "Costco",
-        "provider_location_id": "120",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:40.435+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:40.435+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.451,
-          20.888
-        ]
-      },
-      "properties": {
-        "id": 170721056,
-        "url": "https://www.costco.com/covid-vaccine.html",
-        "city": "KAHULUI",
-        "name": "Maui",
-        "state": "HI",
-        "address": "540 HALEAKALA HWY",
-        "provider": "costco",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96732",
-        "appointments": [],
-        "provider_brand": "costco",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 139709,
-        "provider_brand_name": "Costco",
-        "provider_location_id": "119",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:20.068+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:20.068+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.878813,
-          21.333404
-        ]
-      },
-      "properties": {
-        "id": 270492047,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "2070 N KING ST, #5",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96819",
-        "appointments": [],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "6928",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:20:09.796+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:09.796+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -386,8 +234,46 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:45.841+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:45.841+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:47.741+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:47.741+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.878813,
+          21.333404
+        ]
+      },
+      "properties": {
+        "id": 270492047,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "2070 N KING ST, #5",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96819",
+        "appointments": [],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "6928",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -424,8 +310,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:36.332+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:36.332+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:38.659+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:38.659+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -462,8 +348,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:18.826+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:18.826+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:20.595+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:20.595+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -500,8 +386,122 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:14.914+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:14.914+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:16.461+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:16.461+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.02,
+          19.687
+        ]
+      },
+      "properties": {
+        "id": 170721057,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "KAILUA KONA",
+        "name": "Kona",
+        "state": "HI",
+        "address": "73-5600 MAIAU ST",
+        "provider": "costco",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96740",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "140",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:44.475+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:44.475+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.71,
+          21.284
+        ]
+      },
+      "properties": {
+        "id": 170721054,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "HONOLULU",
+        "name": "Hawaii Kai",
+        "state": "HI",
+        "address": "333 A KEAHOLE STREET",
+        "provider": "costco",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96825",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "120",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:42.818+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:42.818+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.451,
+          20.888
+        ]
+      },
+      "properties": {
+        "id": 170721056,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "KAHULUI",
+        "name": "Maui",
+        "state": "HI",
+        "address": "540 HALEAKALA HWY",
+        "provider": "costco",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96732",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "119",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:22.071+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:22.071+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -621,6 +621,120 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -157.8456096,
+          21.29511856
+        ]
+      },
+      "properties": {
+        "id": 2737003,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "HONOLULU",
+        "name": "Community Pharmacy",
+        "state": "HI",
+        "address": "615 PIIKOI ST",
+        "provider": "walgreens",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96814",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "16272",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:55:12.511+00:00",
+        "appointments_last_modified": "2021-06-16T18:55:12.511+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.85519162,
+          21.31686277
+        ]
+      },
+      "properties": {
+        "id": 2737001,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "HONOLULU",
+        "name": "Walgreen Drug Store",
+        "state": "HI",
+        "address": "1613 NUUANU",
+        "provider": "walgreens",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96817",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "12742",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:55:12.511+00:00",
+        "appointments_last_modified": "2021-06-16T18:55:12.511+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.70507002,
+          21.27682762
+        ]
+      },
+      "properties": {
+        "id": 2737004,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "HONOLULU",
+        "name": "Walgreen Drug Store",
+        "state": "HI",
+        "address": "7192 KALANIANAOLE HWY",
+        "provider": "walgreens",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96825",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "15079",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T18:55:12.511+00:00",
+        "appointments_last_modified": "2021-06-16T18:55:12.511+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -157.84447958,
           21.30131399
         ]
@@ -685,120 +799,6 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T18:55:12.511+00:00",
-        "appointments_last_modified": "2021-06-16T18:55:12.511+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.85519162,
-          21.31686277
-        ]
-      },
-      "properties": {
-        "id": 2737001,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "HONOLULU",
-        "name": "Walgreen Drug Store",
-        "state": "HI",
-        "address": "1613 NUUANU",
-        "provider": "walgreens",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96817",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "12742",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T18:55:12.511+00:00",
-        "appointments_last_modified": "2021-06-16T18:55:12.511+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.8456096,
-          21.29511856
-        ]
-      },
-      "properties": {
-        "id": 2737003,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "HONOLULU",
-        "name": "Community Pharmacy",
-        "state": "HI",
-        "address": "615 PIIKOI ST",
-        "provider": "walgreens",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96814",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "16272",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T18:55:12.511+00:00",
-        "appointments_last_modified": "2021-06-16T18:55:12.511+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.70507002,
-          21.27682762
-        ]
-      },
-      "properties": {
-        "id": 2737004,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "HONOLULU",
-        "name": "Walgreen Drug Store",
-        "state": "HI",
-        "address": "7192 KALANIANAOLE HWY",
-        "provider": "walgreens",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96825",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "15079",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
         },
         "appointments_last_fetched": "2021-06-16T18:55:12.511+00:00",
         "appointments_last_modified": "2021-06-16T18:55:12.511+00:00",
@@ -1039,44 +1039,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -156.50459274,
-          20.88728943
-        ]
-      },
-      "properties": {
-        "id": 2736996,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "WAILUKU",
-        "name": "Walgreens Pharmacy at Maui Medical Group - Wailuku",
-        "state": "HI",
-        "address": "2180 MAIN ST",
-        "provider": "walgreens",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96793",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "12763",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T12:57:03.353+00:00",
-        "appointments_last_modified": "2021-06-16T12:57:03.353+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -156.49983833,
           20.87131434
         ]
@@ -1103,6 +1065,44 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T12:57:03.353+00:00",
+        "appointments_last_modified": "2021-06-16T12:57:03.353+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.50459274,
+          20.88728943
+        ]
+      },
+      "properties": {
+        "id": 2736996,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "WAILUKU",
+        "name": "Walgreens Pharmacy at Maui Medical Group - Wailuku",
+        "state": "HI",
+        "address": "2180 MAIN ST",
+        "provider": "walgreens",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96793",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "12763",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
         },
         "appointments_last_fetched": "2021-06-16T12:57:03.353+00:00",
         "appointments_last_modified": "2021-06-16T12:57:03.353+00:00",
@@ -1187,20 +1187,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.8430202,
-          21.2926923
+          -157.8379105,
+          21.2853459
         ]
       },
       "properties": {
-        "id": 141602987,
+        "id": 141602988,
         "url": "https://www.healthmartcovidvaccine.com/",
         "city": "HONOLULU",
-        "name": "HAPPY PHARMACY",
+        "name": "Discovery Bay Pharmacy",
         "state": "HI",
-        "address": "1441 KAPIOLANI BLVD # 304",
+        "address": "1778 ALA MOANA BLVD #208",
         "provider": "health_mart",
         "time_zone": "Pacific/Honolulu",
-        "postal_code": "96814",
+        "postal_code": "96815",
         "appointments": null,
         "provider_brand": "health_mart",
         "carries_vaccine": null,
@@ -1209,7 +1209,7 @@
         },
         "provider_brand_id": 96517,
         "provider_brand_name": "Health Mart",
-        "provider_location_id": "17280",
+        "provider_location_id": "17092",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "unknown": true
@@ -1327,20 +1327,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.8379105,
-          21.2853459
+          -157.8430202,
+          21.2926923
         ]
       },
       "properties": {
-        "id": 141602988,
+        "id": 141602987,
         "url": "https://www.healthmartcovidvaccine.com/",
         "city": "HONOLULU",
-        "name": "Discovery Bay Pharmacy",
+        "name": "HAPPY PHARMACY",
         "state": "HI",
-        "address": "1778 ALA MOANA BLVD #208",
+        "address": "1441 KAPIOLANI BLVD # 304",
         "provider": "health_mart",
         "time_zone": "Pacific/Honolulu",
-        "postal_code": "96815",
+        "postal_code": "96814",
         "appointments": null,
         "provider_brand": "health_mart",
         "carries_vaccine": null,
@@ -1349,7 +1349,7 @@
         },
         "provider_brand_id": 96517,
         "provider_brand_name": "Health Mart",
-        "provider_location_id": "17092",
+        "provider_location_id": "17280",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "unknown": true
@@ -2308,104 +2308,6 @@
         "appointments_last_modified": "2021-02-25T15:53:15.927+00:00",
         "appointments_available_all_doses": null,
         "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.99092,
-          19.646268
-        ]
-      },
-      "properties": {
-        "id": 799865,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Kailua Kona",
-        "name": "Kailua Kona Store",
-        "state": "HI",
-        "address": "75-1015 Henry St",
-        "provider": "walmart",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96740",
-        "appointments": [
-          {
-            "time": "2021-06-16T14:20:00.000-10:00",
-            "type": "Moderna, Johnson & Johnson",
-            "vaccine_types": [
-              "jj",
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2321",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.482+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.482+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.061954,
-          19.700194
-        ]
-      },
-      "properties": {
-        "id": 799864,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Hilo",
-        "name": "Hilo Store",
-        "state": "HI",
-        "address": "325 E Makaala St",
-        "provider": "walmart",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96720",
-        "appointments": [
-          {
-            "time": "2021-06-16T14:40:00.000-10:00",
-            "type": "Moderna, Johnson & Johnson",
-            "vaccine_types": [
-              "jj",
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2473",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:57.282+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:57.282+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
       }
     },
     {
@@ -3938,57 +3840,8 @@
           "jj": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:53.533+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:53.533+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.454892,
-          20.87826
-        ]
-      },
-      "properties": {
-        "id": 799866,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Kahului",
-        "name": "Kahului Store",
-        "state": "HI",
-        "address": "101 Pakaula St",
-        "provider": "walmart",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96732",
-        "appointments": [
-          {
-            "time": "2021-06-16T14:40:00.000-10:00",
-            "type": "Moderna, Johnson & Johnson",
-            "vaccine_types": [
-              "jj",
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "3290",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:52.648+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:52.648+00:00",
+        "appointments_last_fetched": "2021-06-16T22:20:10.382+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:10.382+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4154,8 +4007,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:52.644+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:52.644+00:00",
+        "appointments_last_fetched": "2021-06-16T22:20:09.798+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:09.798+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4601,8 +4454,8 @@
         "appointment_vaccine_types": {
           "jj": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:52.266+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:52.266+00:00",
+        "appointments_last_fetched": "2021-06-16T22:20:09.401+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:09.401+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4627,14 +4480,6 @@
         "time_zone": "Pacific/Honolulu",
         "postal_code": "96720",
         "appointments": [
-          {
-            "time": "2021-06-16T12:15:00.000-10:00",
-            "type": "Johnson & Johnson",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
           {
             "time": "2021-06-16T12:30:00.000-10:00",
             "type": "Johnson & Johnson",
@@ -5416,253 +5261,8 @@
         "appointment_vaccine_types": {
           "jj": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:51.578+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:51.578+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.842947,
-          21.294726
-        ]
-      },
-      "properties": {
-        "id": 799863,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Honolulu",
-        "name": "Honolulu Store",
-        "state": "HI",
-        "address": "700 Keeaumoku St",
-        "provider": "walmart",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96814",
-        "appointments": [
-          {
-            "time": "2021-06-16T15:00:00.000-10:00",
-            "type": "Moderna, Johnson & Johnson",
-            "vaccine_types": [
-              "jj",
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "3478",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:20.089+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:20.089+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.862004,
-          21.30976
-        ]
-      },
-      "properties": {
-        "id": 799862,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Honolulu",
-        "name": "Honolulu Store",
-        "state": "HI",
-        "address": "1032 Fort Street Mall",
-        "provider": "walmart",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96813",
-        "appointments": [
-          {
-            "time": "2021-06-16T16:40:00.000-10:00",
-            "type": "Moderna, Johnson & Johnson",
-            "vaccine_types": [
-              "jj",
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "3149",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:20.089+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:20.089+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.075334,
-          21.3419649
-        ]
-      },
-      "properties": {
-        "id": 799858,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Kapolei",
-        "name": "Kapolei Store",
-        "state": "HI",
-        "address": "91-600 Farrington Hwy",
-        "provider": "walmart",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96707",
-        "appointments": [
-          {
-            "time": "2021-06-16T14:40:00.000-10:00",
-            "type": "Moderna, Johnson & Johnson",
-            "vaccine_types": [
-              "jj",
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "3883",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:20.089+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:20.089+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.974452,
-          21.397174
-        ]
-      },
-      "properties": {
-        "id": 799860,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Pearl City",
-        "name": "Pearl City Store",
-        "state": "HI",
-        "address": "1131 Kuala St",
-        "provider": "walmart",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96782",
-        "appointments": [
-          {
-            "time": "2021-06-16T14:40:00.000-10:00",
-            "type": "Moderna, Johnson & Johnson",
-            "vaccine_types": [
-              "jj",
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "5274",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:20.089+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:20.089+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.03459,
-          21.391385
-        ]
-      },
-      "properties": {
-        "id": 799859,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Waipahu",
-        "name": "Waipahu Store",
-        "state": "HI",
-        "address": "94-595 Kupuohi St",
-        "provider": "walmart",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96797",
-        "appointments": [
-          {
-            "time": "2021-06-16T14:40:00.000-10:00",
-            "type": "Moderna, Johnson & Johnson",
-            "vaccine_types": [
-              "jj",
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "2314",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "jj": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:20.089+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:20.089+00:00",
+        "appointments_last_fetched": "2021-06-16T22:20:08.883+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:08.883+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5770,8 +5370,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5869,8 +5469,67 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.014135,
+          21.317061
+        ]
+      },
+      "properties": {
+        "id": 270525913,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "EWA BEACH",
+        "name": "CVS Pharmacy in EWA BEACH, HI",
+        "state": "HI",
+        "address": "91-919 FT  WEAVER RD., SPACE 106",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96706",
+        "appointments": [
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "7356",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5978,67 +5637,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.014135,
-          21.317061
-        ]
-      },
-      "properties": {
-        "id": 270525913,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "EWA BEACH",
-        "name": "CVS Pharmacy in EWA BEACH, HI",
-        "state": "HI",
-        "address": "91-919 FT  WEAVER RD., SPACE 106",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96706",
-        "appointments": [
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "7356",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6146,8 +5746,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6255,8 +5855,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6266,17 +5866,106 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -155.064641,
-          19.695342
+          -155.098139,
+          19.717045
         ]
       },
       "properties": {
-        "id": 270481553,
+        "id": 270490256,
         "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
         "city": "HILO",
         "name": "CVS Pharmacy in HILO, HI",
         "state": "HI",
-        "address": "111 E PUAINAKO ST",
+        "address": "82 PUUHONU PLACE #103",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96720",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "1904",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.096369,
+          19.71396
+        ]
+      },
+      "properties": {
+        "id": 270042877,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HILO",
+        "name": "CVS Pharmacy in HILO, HI",
+        "state": "HI",
+        "address": "670 PONAHAWAI ST STE 213",
         "provider": "cvs",
         "time_zone": "Pacific/Honolulu",
         "postal_code": "96720",
@@ -6293,11 +5982,6 @@
           },
           {
             "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
             "vaccine_types": [],
             "appointment_types": []
           },
@@ -6332,11 +6016,6 @@
             "appointment_types": []
           },
           {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
             "date": "2021-06-27",
             "vaccine_types": [],
             "appointment_types": []
@@ -6359,13 +6038,13 @@
         },
         "provider_brand_id": 19,
         "provider_brand_name": "CVS",
-        "provider_location_id": "9227",
+        "provider_location_id": "2362",
         "appointments_available": true,
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6473,196 +6152,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.096369,
-          19.71396
-        ]
-      },
-      "properties": {
-        "id": 270042877,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HILO",
-        "name": "CVS Pharmacy in HILO, HI",
-        "state": "HI",
-        "address": "670 PONAHAWAI ST STE 213",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96720",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "2362",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.098139,
-          19.717045
-        ]
-      },
-      "properties": {
-        "id": 270490256,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HILO",
-        "name": "CVS Pharmacy in HILO, HI",
-        "state": "HI",
-        "address": "82 PUUHONU PLACE #103",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96720",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "1904",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6770,8 +6261,117 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.064641,
+          19.695342
+        ]
+      },
+      "properties": {
+        "id": 270481553,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HILO",
+        "name": "CVS Pharmacy in HILO, HI",
+        "state": "HI",
+        "address": "111 E PUAINAKO ST",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96720",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "9227",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6869,1240 +6469,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.85569,
-          21.297295
-        ]
-      },
-      "properties": {
-        "id": 270774254,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "988 HALEKAUWILA ST, SUITE C103",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96814",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "10740",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.868074,
-          21.315266
-        ]
-      },
-      "properties": {
-        "id": 270613036,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "500 N NIMITZ HIGHWAY",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96817",
-        "appointments": [
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "10780",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.842,
-          21.289363
-        ]
-      },
-      "properties": {
-        "id": 270623907,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "1450 ALA MOANA BLVD. STE 2401",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96814",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "17720",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.786422,
-          21.274595
-        ]
-      },
-      "properties": {
-        "id": 270492658,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "4211 WAIALAE AVE",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96816",
-        "appointments": [
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "9220",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.868369,
-          21.336227
-        ]
-      },
-      "properties": {
-        "id": 270492046,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "1620 N SCHOOL ST",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96817",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "9653",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.838583,
-          21.297275
-        ]
-      },
-      "properties": {
-        "id": 270044093,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "1481 S. KING STREET, SUITE 111",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96814",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "6889",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.823879,
-          21.293131
-        ]
-      },
-      "properties": {
-        "id": 270472542,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "2470 SOUTH KING ST.",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96826",
-        "appointments": [
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "9954",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.857794,
-          21.323712
-        ]
-      },
-      "properties": {
-        "id": 270488585,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "1748 LILIHA ST.",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96817",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "3040",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.755824,
-          21.277959
-        ]
-      },
-      "properties": {
-        "id": 270568118,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "5156 KALANIANAOLE HWY",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96821",
-        "appointments": [
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "10620",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.847546,
-          21.301616
-        ]
-      },
-      "properties": {
-        "id": 270548328,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "1030 S KING ST",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96814",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "10081",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.842,
-          21.289363
-        ]
-      },
-      "properties": {
-        "id": 270505805,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "1450 ALA MOANA BLVD STE 2004",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96814",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "9206",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.706985,
-          21.284069
-        ]
-      },
-      "properties": {
-        "id": 270232238,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "377 KEAHOLE ST",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96825",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "9185",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.91318,
-          21.344847
-        ]
-      },
-      "properties": {
-        "id": 270501067,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "HONOLULU",
-        "name": "CVS Pharmacy in HONOLULU, HI",
-        "state": "HI",
-        "address": "848 ALA LILIKOI ST",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96818",
-        "appointments": [
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "9955",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8210,8 +6578,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8221,68 +6589,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.857448,
-          21.312899
+          -157.91318,
+          21.344847
         ]
       },
       "properties": {
-        "id": 270512133,
+        "id": 270501067,
         "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
         "city": "HONOLULU",
         "name": "CVS Pharmacy in HONOLULU, HI",
         "state": "HI",
-        "address": "1330 PALI HWY",
+        "address": "848 ALA LILIKOI ST",
         "provider": "cvs",
         "time_zone": "Pacific/Honolulu",
-        "postal_code": "96813",
+        "postal_code": "96818",
         "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
           {
             "date": "2021-06-20",
             "vaccine_types": [],
             "appointment_types": []
           },
           {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
             "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
             "vaccine_types": [],
             "appointment_types": []
           },
@@ -8314,13 +6642,13 @@
         },
         "provider_brand_id": 19,
         "provider_brand_name": "CVS",
-        "provider_location_id": "9228",
+        "provider_location_id": "9955",
         "appointments_available": true,
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8388,8 +6716,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8497,8 +6825,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8508,17 +6836,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.861155,
-          21.309466
+          -157.857448,
+          21.312899
         ]
       },
       "properties": {
-        "id": 270742784,
+        "id": 270512133,
         "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
         "city": "HONOLULU",
         "name": "CVS Pharmacy in HONOLULU, HI",
         "state": "HI",
-        "address": "1088 BISHOP ST, STE 113",
+        "address": "1330 PALI HWY",
         "provider": "cvs",
         "time_zone": "Pacific/Honolulu",
         "postal_code": "96813",
@@ -8601,13 +6929,473 @@
         },
         "provider_brand_id": 19,
         "provider_brand_name": "CVS",
-        "provider_location_id": "9182",
+        "provider_location_id": "9228",
         "appointments_available": true,
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.706985,
+          21.284069
+        ]
+      },
+      "properties": {
+        "id": 270232238,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "377 KEAHOLE ST",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96825",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "9185",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.847546,
+          21.301616
+        ]
+      },
+      "properties": {
+        "id": 270548328,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "1030 S KING ST",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96814",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10081",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.755824,
+          21.277959
+        ]
+      },
+      "properties": {
+        "id": 270568118,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "5156 KALANIANAOLE HWY",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96821",
+        "appointments": [
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10620",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.868074,
+          21.315266
+        ]
+      },
+      "properties": {
+        "id": 270613036,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "500 N NIMITZ HIGHWAY",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96817",
+        "appointments": [
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10780",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.786422,
+          21.274595
+        ]
+      },
+      "properties": {
+        "id": 270492658,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "4211 WAIALAE AVE",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96816",
+        "appointments": [
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "9220",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8715,8 +7503,820 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.85569,
+          21.297295
+        ]
+      },
+      "properties": {
+        "id": 270774254,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "988 HALEKAUWILA ST, SUITE C103",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96814",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10740",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.823879,
+          21.293131
+        ]
+      },
+      "properties": {
+        "id": 270472542,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "2470 SOUTH KING ST.",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96826",
+        "appointments": [
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "9954",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.868369,
+          21.336227
+        ]
+      },
+      "properties": {
+        "id": 270492046,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "1620 N SCHOOL ST",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96817",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "9653",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.857794,
+          21.323712
+        ]
+      },
+      "properties": {
+        "id": 270488585,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "1748 LILIHA ST.",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96817",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "3040",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.838583,
+          21.297275
+        ]
+      },
+      "properties": {
+        "id": 270044093,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "1481 S. KING STREET, SUITE 111",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96814",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "6889",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.861155,
+          21.309466
+        ]
+      },
+      "properties": {
+        "id": 270742784,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "1088 BISHOP ST, STE 113",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96813",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "9182",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.842,
+          21.289363
+        ]
+      },
+      "properties": {
+        "id": 270623907,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "1450 ALA MOANA BLVD. STE 2401",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96814",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "17720",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.842,
+          21.289363
+        ]
+      },
+      "properties": {
+        "id": 270505805,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "HONOLULU",
+        "name": "CVS Pharmacy in HONOLULU, HI",
+        "state": "HI",
+        "address": "1450 ALA MOANA BLVD STE 2004",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96814",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "9206",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8824,8 +8424,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8923,8 +8523,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -9032,8 +8632,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -9131,107 +8731,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.739697,
-          21.39164
-        ]
-      },
-      "properties": {
-        "id": 270676868,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "KAILUA",
-        "name": "CVS Pharmacy in KAILUA, HI",
-        "state": "HI",
-        "address": "345 HAHANI ST",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96734",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "17601",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -9339,8 +8840,107 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.739697,
+          21.39164
+        ]
+      },
+      "properties": {
+        "id": 270676868,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "KAILUA",
+        "name": "CVS Pharmacy in KAILUA, HI",
+        "state": "HI",
+        "address": "345 HAHANI ST",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96734",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "17601",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -9423,97 +9023,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.983449,
-          19.627466
-        ]
-      },
-      "properties": {
-        "id": 270596601,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "KAILUA KONA",
-        "name": "CVS Pharmacy in KAILUA KONA, HI",
-        "state": "HI",
-        "address": "75-5995 KUAKINI HWY, SUITE 513B",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96740",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "10849",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -9621,8 +9132,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -9730,8 +9241,97 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.983449,
+          19.627466
+        ]
+      },
+      "properties": {
+        "id": 270596601,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "KAILUA KONA",
+        "name": "CVS Pharmacy in KAILUA KONA, HI",
+        "state": "HI",
+        "address": "75-5995 KUAKINI HWY, SUITE 513B",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96740",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10849",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -9839,8 +9439,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -9948,8 +9548,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -10057,8 +9657,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -10166,8 +9766,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -10275,8 +9875,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -10384,8 +9984,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -10468,8 +10068,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -10577,8 +10177,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -10686,8 +10286,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -10795,8 +10395,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -10904,226 +10504,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.00112,
-          21.467998
-        ]
-      },
-      "properties": {
-        "id": 270535695,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "MILILANI",
-        "name": "CVS Pharmacy in MILILANI, HI",
-        "state": "HI",
-        "address": "95-1077 AINAMAKUA DR.",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96789",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "4405",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -158.006412,
-          21.453569
-        ]
-      },
-      "properties": {
-        "id": 270196117,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "MILILANI",
-        "name": "CVS Pharmacy in MILILANI, HI",
-        "state": "HI",
-        "address": "95 1249 MEHEULA PKWY STE D",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96789",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "9890",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -11231,8 +10613,226 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.00112,
+          21.467998
+        ]
+      },
+      "properties": {
+        "id": 270535695,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "MILILANI",
+        "name": "CVS Pharmacy in MILILANI, HI",
+        "state": "HI",
+        "address": "95-1077 AINAMAKUA DR.",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96789",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "4405",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.006412,
+          21.453569
+        ]
+      },
+      "properties": {
+        "id": 270196117,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "MILILANI",
+        "name": "CVS Pharmacy in MILILANI, HI",
+        "state": "HI",
+        "address": "95 1249 MEHEULA PKWY STE D",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96789",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "9890",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -11330,8 +10930,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -11439,8 +11039,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -11548,8 +11148,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -11622,8 +11222,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -11731,8 +11331,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -11840,8 +11440,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -11939,8 +11539,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -12048,8 +11648,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -12152,8 +11752,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -12261,8 +11861,107 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.500368,
+          20.88838
+        ]
+      },
+      "properties": {
+        "id": 270490296,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "WAILUKU",
+        "name": "CVS Pharmacy in WAILUKU, HI",
+        "state": "HI",
+        "address": "1900 MAIN ST #4",
+        "provider": "cvs",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96793",
+        "appointments": [
+          {
+            "date": "2021-06-16",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "4496",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -12370,107 +12069,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -156.500368,
-          20.88838
-        ]
-      },
-      "properties": {
-        "id": 270490296,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "WAILUKU",
-        "name": "CVS Pharmacy in WAILUKU, HI",
-        "state": "HI",
-        "address": "1900 MAIN ST #4",
-        "provider": "cvs",
-        "time_zone": "Pacific/Honolulu",
-        "postal_code": "96793",
-        "appointments": [
-          {
-            "date": "2021-06-16",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "4496",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -12578,8 +12178,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:57.329+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:57.329+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -12627,8 +12227,400 @@
           "jj": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:07:25.236+00:00",
-        "appointments_last_modified": "2021-06-16T22:07:25.236+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:08.345+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:08.345+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.061954,
+          19.700194
+        ]
+      },
+      "properties": {
+        "id": 799864,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Hilo",
+        "name": "Hilo Store",
+        "state": "HI",
+        "address": "325 E Makaala St",
+        "provider": "walmart",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96720",
+        "appointments": [
+          {
+            "time": "2021-06-16T14:40:00.000-10:00",
+            "type": "Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2473",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:44.313+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:44.313+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.99092,
+          19.646268
+        ]
+      },
+      "properties": {
+        "id": 799865,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Kailua Kona",
+        "name": "Kailua Kona Store",
+        "state": "HI",
+        "address": "75-1015 Henry St",
+        "provider": "walmart",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96740",
+        "appointments": [
+          {
+            "time": "2021-06-16T14:20:00.000-10:00",
+            "type": "Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2321",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:44.313+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:44.313+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.454892,
+          20.87826
+        ]
+      },
+      "properties": {
+        "id": 799866,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Kahului",
+        "name": "Kahului Store",
+        "state": "HI",
+        "address": "101 Pakaula St",
+        "provider": "walmart",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96732",
+        "appointments": [
+          {
+            "time": "2021-06-16T14:40:00.000-10:00",
+            "type": "Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "3290",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:39.269+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:39.269+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.862004,
+          21.30976
+        ]
+      },
+      "properties": {
+        "id": 799862,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Honolulu",
+        "name": "Honolulu Store",
+        "state": "HI",
+        "address": "1032 Fort Street Mall",
+        "provider": "walmart",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96813",
+        "appointments": [
+          {
+            "time": "2021-06-16T16:40:00.000-10:00",
+            "type": "Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "3149",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:29.025+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:29.025+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.842947,
+          21.294726
+        ]
+      },
+      "properties": {
+        "id": 799863,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Honolulu",
+        "name": "Honolulu Store",
+        "state": "HI",
+        "address": "700 Keeaumoku St",
+        "provider": "walmart",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96814",
+        "appointments": [
+          {
+            "time": "2021-06-16T15:00:00.000-10:00",
+            "type": "Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "3478",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:29.025+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:29.025+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.075334,
+          21.3419649
+        ]
+      },
+      "properties": {
+        "id": 799858,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Kapolei",
+        "name": "Kapolei Store",
+        "state": "HI",
+        "address": "91-600 Farrington Hwy",
+        "provider": "walmart",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96707",
+        "appointments": [
+          {
+            "time": "2021-06-16T14:40:00.000-10:00",
+            "type": "Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "3883",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:29.025+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:29.025+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.974452,
+          21.397174
+        ]
+      },
+      "properties": {
+        "id": 799860,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Pearl City",
+        "name": "Pearl City Store",
+        "state": "HI",
+        "address": "1131 Kuala St",
+        "provider": "walmart",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96782",
+        "appointments": [
+          {
+            "time": "2021-06-16T14:40:00.000-10:00",
+            "type": "Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "5274",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:29.025+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:29.025+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.03459,
+          21.391385
+        ]
+      },
+      "properties": {
+        "id": 799859,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Waipahu",
+        "name": "Waipahu Store",
+        "state": "HI",
+        "address": "94-595 Kupuohi St",
+        "provider": "walmart",
+        "time_zone": "Pacific/Honolulu",
+        "postal_code": "96797",
+        "appointments": [
+          {
+            "time": "2021-06-16T14:40:00.000-10:00",
+            "type": "Moderna, Johnson & Johnson",
+            "vaccine_types": [
+              "jj",
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "2314",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:29.025+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:29.025+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }

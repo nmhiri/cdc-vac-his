@@ -51,8 +51,8 @@
         "status": "active",
         "provider_id": "kroger",
         "location_count": 1,
-        "appointments_last_fetched": "2021-06-16T22:12:55.225+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:55.225+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:35.444+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:35.444+00:00"
       },
       {
         "id": 19,
@@ -62,8 +62,8 @@
         "status": "active",
         "provider_id": "cvs",
         "location_count": 2,
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00"
       },
       {
         "id": 96517,
@@ -84,8 +84,8 @@
         "status": "active",
         "provider_id": "kroger",
         "location_count": 1,
-        "appointments_last_fetched": "2021-06-16T22:09:57.865+00:00",
-        "appointments_last_modified": "2021-06-16T22:09:57.865+00:00"
+        "appointments_last_fetched": "2021-06-16T22:20:10.252+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:10.252+00:00"
       },
       {
         "id": 5,
@@ -117,8 +117,8 @@
         "status": "active",
         "provider_id": "kroger",
         "location_count": 7,
-        "appointments_last_fetched": "2021-06-16T22:13:18.315+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:18.315+00:00"
+        "appointments_last_fetched": "2021-06-16T22:20:11.7+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:11.7+00:00"
       },
       {
         "id": 47,
@@ -139,13 +139,13 @@
         "status": "active",
         "provider_id": "walmart",
         "location_count": 12,
-        "appointments_last_fetched": "2021-06-16T22:13:22.349+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:22.349+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:39.612+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:39.612+00:00"
       }
     ],
     "provider_brand_count": 10,
-    "appointments_last_fetched": "2021-06-16T22:13:22.349+00:00",
-    "appointments_last_modified": "2021-06-16T22:13:22.349+00:00"
+    "appointments_last_fetched": "2021-06-16T22:20:11.7+00:00",
+    "appointments_last_modified": "2021-06-16T22:20:11.7+00:00"
   },
   "features": [
     {
@@ -1757,6 +1757,574 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -110.7956985,
+          43.4587962
+        ]
+      },
+      "properties": {
+        "id": 9613381,
+        "url": "https://www.smithsfoodanddrug.com/rx/covid-eligibility",
+        "city": "Jackson",
+        "name": "JACKSON HOLE",
+        "state": "WY",
+        "address": "1425 S Hwy 89",
+        "provider": "kroger",
+        "time_zone": "America/Denver",
+        "postal_code": "83001",
+        "appointments": [
+          {
+            "time": "2021-06-16T16:45:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T10:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T10:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T11:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T11:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T11:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T12:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T12:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-17T12:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T10:45:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T11:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T11:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T11:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T11:45:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T12:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-18T12:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-21T10:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-21T10:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-21T10:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-21T10:45:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-21T11:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-21T11:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-21T11:45:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-21T12:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-21T12:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-21T12:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-22T10:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-22T10:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-22T10:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-22T10:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-22T11:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-22T11:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-22T11:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-22T11:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-22T12:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-22T12:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-22T12:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T10:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T10:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T10:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T10:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T11:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T11:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T11:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T11:45:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T12:00:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T12:15:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-23T12:30:00.000-06:00",
+            "type": "J&J COVID-19 Vaccine",
+            "vaccine_types": [
+              "jj"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-24T10:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-24T10:45:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-24T11:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-24T11:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-24T11:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-24T11:45:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-24T12:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-24T12:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-24T12:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-25T10:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-25T10:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-25T10:45:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-25T11:00:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-25T11:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-25T11:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-25T11:45:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-25T12:15:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          },
+          {
+            "time": "2021-06-25T12:30:00.000-06:00",
+            "type": "Moderna Dose 1",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "smiths",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 21,
+        "provider_brand_name": "Smith's",
+        "provider_location_id": "70600184",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "jj": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:20:11.7+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:11.7+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.764616,
           41.1613168
         ]
@@ -1772,14 +2340,6 @@
         "time_zone": "America/Denver",
         "postal_code": "82009",
         "appointments": [
-          {
-            "time": "2021-06-16T16:30:00.000-06:00",
-            "type": "Pfizer Dose 1",
-            "vaccine_types": [
-              "pfizer"
-            ],
-            "appointment_types": []
-          },
           {
             "time": "2021-06-16T16:45:00.000-06:00",
             "type": "Pfizer Dose 1",
@@ -2441,57 +3001,8 @@
         "appointment_vaccine_types": {
           "pfizer": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:27.778+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:27.778+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.251197,
-          41.580611
-        ]
-      },
-      "properties": {
-        "id": 794678,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Rock Springs",
-        "name": "Rock Springs Supercenter",
-        "state": "WY",
-        "address": "201 Gateway Blvd",
-        "provider": "walmart",
-        "time_zone": "America/Denver",
-        "postal_code": "82901",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:00:00.000-06:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1461",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:22.349+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:22.349+00:00",
+        "appointments_last_fetched": "2021-06-16T22:20:10.252+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:10.252+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2517,7 +3028,7 @@
         "postal_code": "82501",
         "appointments": [
           {
-            "time": "2021-06-16T16:30:00.000-06:00",
+            "time": "2021-06-16T16:45:00.000-06:00",
             "type": "Moderna Dose 1",
             "vaccine_types": [
               "moderna"
@@ -2978,8 +3489,8 @@
           "jj": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:18.315+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:18.315+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:58.233+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:58.233+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3005,7 +3516,7 @@
         "postal_code": "82930",
         "appointments": [
           {
-            "time": "2021-06-16T16:30:00.000-06:00",
+            "time": "2021-06-16T16:45:00.000-06:00",
             "type": "Moderna Dose 1",
             "vaccine_types": [
               "moderna"
@@ -3321,55 +3832,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:17.51+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:17.51+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.498154,
-          44.273032
-        ]
-      },
-      "properties": {
-        "id": 794255,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Gillette",
-        "name": "Gillette Supercenter",
-        "state": "WY",
-        "address": "2300 S Douglas Hwy",
-        "provider": "walmart",
-        "time_zone": "America/Denver",
-        "postal_code": "82718",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:00:00.000-06:00",
-            "type": "Moderna",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1485",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:12.905+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:12.905+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:57.904+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:57.904+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3477,8 +3941,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3586,8 +4050,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3597,25 +4061,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -107.207014,
-          41.789772
+          -110.953877,
+          41.265902
         ]
       },
       "properties": {
-        "id": 794250,
+        "id": 794511,
         "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Rawlins",
-        "name": "Rawlins Supercenter",
+        "city": "Evanston",
+        "name": "Evanston Supercenter",
         "state": "WY",
-        "address": "2390 E Cedar St",
+        "address": "125 N 2nd St",
         "provider": "walmart",
         "time_zone": "America/Denver",
-        "postal_code": "82301",
+        "postal_code": "82930",
         "appointments": [
           {
-            "time": "2021-06-17T09:00:00.000-06:00",
-            "type": "Pfizer, Moderna",
+            "time": "2021-06-17T08:00:00.000-06:00",
+            "type": "Pfizer, Moderna, Johnson & Johnson",
             "vaccine_types": [
+              "jj",
               "moderna",
               "pfizer"
             ],
@@ -3629,61 +4094,15 @@
         },
         "provider_brand_id": 70,
         "provider_brand_name": "Walmart",
-        "provider_location_id": "4471",
+        "provider_location_id": "1456",
         "appointments_available": true,
         "appointment_vaccine_types": {
+          "jj": true,
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:00.421+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:00.421+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.088799,
-          44.518147
-        ]
-      },
-      "properties": {
-        "id": 794252,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Cody",
-        "name": "Cody Supercenter",
-        "state": "WY",
-        "address": "321 Yellowstone Ave",
-        "provider": "walmart",
-        "time_zone": "America/Denver",
-        "postal_code": "82414",
-        "appointments": [
-          {
-            "time": "2021-06-17T10:00:00.000-06:00",
-            "type": "Moderna",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1778",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:56.282+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:56.282+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:39.612+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:39.612+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3969,55 +4388,8 @@
         "appointment_vaccine_types": {
           "jj": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:55.225+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:55.225+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.378319,
-          43.042872
-        ]
-      },
-      "properties": {
-        "id": 794249,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Riverton",
-        "name": "Riverton Supercenter",
-        "state": "WY",
-        "address": "1733 N Federal Blvd",
-        "provider": "walmart",
-        "time_zone": "America/Denver",
-        "postal_code": "82501",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:00:00.000-06:00",
-            "type": "Moderna",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1457",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:12:50.248+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:50.248+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:35.444+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:35.444+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4043,7 +4415,7 @@
         "postal_code": "82604",
         "appointments": [
           {
-            "time": "2021-06-16T16:30:00.000-06:00",
+            "time": "2021-06-16T16:45:00.000-06:00",
             "type": "Moderna Dose 1",
             "vaccine_types": [
               "moderna"
@@ -4680,8 +5052,8 @@
           "jj": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:39.971+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:39.971+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:20.014+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:20.014+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -4707,7 +5079,7 @@
         "postal_code": "82716",
         "appointments": [
           {
-            "time": "2021-06-16T16:30:00.000-06:00",
+            "time": "2021-06-16T16:45:00.000-06:00",
             "type": "Moderna Dose 1",
             "vaccine_types": [
               "moderna"
@@ -5328,8 +5700,8 @@
           "jj": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:39.69+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:39.69+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:19.683+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:19.683+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5339,20 +5711,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.266907,
-          42.851375
+          -109.251197,
+          41.580611
         ]
       },
       "properties": {
-        "id": 794254,
+        "id": 794678,
         "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Casper",
-        "name": "Casper Supercenter",
+        "city": "Rock Springs",
+        "name": "Rock Springs Supercenter",
         "state": "WY",
-        "address": "4400 E 2nd St",
+        "address": "201 Gateway Blvd",
         "provider": "walmart",
         "time_zone": "America/Denver",
-        "postal_code": "82609",
+        "postal_code": "82901",
         "appointments": [
           {
             "time": "2021-06-17T08:00:00.000-06:00",
@@ -5371,14 +5743,14 @@
         },
         "provider_brand_id": 70,
         "provider_brand_name": "Walmart",
-        "provider_location_id": "1617",
+        "provider_location_id": "1461",
         "appointments_available": true,
         "appointment_vaccine_types": {
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:10:51.045+00:00",
-        "appointments_last_modified": "2021-06-16T22:10:51.045+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:10.902+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:10.902+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5388,72 +5760,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.374748,
-          42.816882
+          -105.498154,
+          44.273032
         ]
       },
       "properties": {
-        "id": 794251,
+        "id": 794255,
         "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Casper",
-        "name": "Casper Supercenter",
+        "city": "Gillette",
+        "name": "Gillette Supercenter",
         "state": "WY",
-        "address": "4255 Cy Ave",
+        "address": "2300 S Douglas Hwy",
         "provider": "walmart",
         "time_zone": "America/Denver",
-        "postal_code": "82604",
+        "postal_code": "82718",
         "appointments": [
           {
             "time": "2021-06-17T08:00:00.000-06:00",
-            "type": "Pfizer, Moderna",
-            "vaccine_types": [
-              "moderna",
-              "pfizer"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "3778",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "pfizer": true,
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:10:51.045+00:00",
-        "appointments_last_modified": "2021-06-16T22:10:51.045+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.791051,
-          41.164049
-        ]
-      },
-      "properties": {
-        "id": 768549,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Cheyenne",
-        "name": "Cheyenne Supercenter",
-        "state": "WY",
-        "address": "2032 Dell Range Blvd",
-        "provider": "walmart",
-        "time_zone": "America/Denver",
-        "postal_code": "82009",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:20:00.000-06:00",
             "type": "Moderna",
             "vaccine_types": [
               "moderna"
@@ -5468,13 +5791,13 @@
         },
         "provider_brand_id": 70,
         "provider_brand_name": "Walmart",
-        "provider_location_id": "1315",
+        "provider_location_id": "1485",
         "appointments_available": true,
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:10:34.09+00:00",
-        "appointments_last_modified": "2021-06-16T22:10:34.09+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:00.665+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:00.665+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5484,23 +5807,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.7619112,
-          41.1262776
+          -107.207014,
+          41.789772
         ]
       },
       "properties": {
-        "id": 768548,
+        "id": 794250,
         "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Cheyenne",
-        "name": "Cheyenne Supercenter",
+        "city": "Rawlins",
+        "name": "Rawlins Supercenter",
         "state": "WY",
-        "address": "580 Livingston Ave",
+        "address": "2390 E Cedar St",
         "provider": "walmart",
         "time_zone": "America/Denver",
-        "postal_code": "82007",
+        "postal_code": "82301",
         "appointments": [
           {
-            "time": "2021-06-17T08:00:00.000-06:00",
+            "time": "2021-06-17T09:00:00.000-06:00",
             "type": "Pfizer, Moderna",
             "vaccine_types": [
               "moderna",
@@ -5516,14 +5839,14 @@
         },
         "provider_brand_id": 70,
         "provider_brand_name": "Walmart",
-        "provider_location_id": "4653",
+        "provider_location_id": "4471",
         "appointments_available": true,
         "appointment_vaccine_types": {
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:10:34.09+00:00",
-        "appointments_last_modified": "2021-06-16T22:10:34.09+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:47.295+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:47.295+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5533,28 +5856,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.540476,
-          41.301639
+          -109.088799,
+          44.518147
         ]
       },
       "properties": {
-        "id": 768479,
+        "id": 794252,
         "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Laramie",
-        "name": "Laramie Supercenter",
+        "city": "Cody",
+        "name": "Cody Supercenter",
         "state": "WY",
-        "address": "4308 E Grand Ave",
+        "address": "321 Yellowstone Ave",
         "provider": "walmart",
         "time_zone": "America/Denver",
-        "postal_code": "82070",
+        "postal_code": "82414",
         "appointments": [
           {
-            "time": "2021-06-17T08:00:00.000-06:00",
-            "type": "Pfizer, Moderna, Johnson & Johnson",
+            "time": "2021-06-17T10:00:00.000-06:00",
+            "type": "Moderna",
             "vaccine_types": [
-              "jj",
-              "moderna",
-              "pfizer"
+              "moderna"
             ],
             "appointment_types": []
           }
@@ -5566,15 +5887,107 @@
         },
         "provider_brand_id": 70,
         "provider_brand_name": "Walmart",
-        "provider_location_id": "1412",
+        "provider_location_id": "1778",
         "appointments_available": true,
         "appointment_vaccine_types": {
-          "jj": true,
-          "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:10:34.09+00:00",
-        "appointments_last_modified": "2021-06-16T22:10:34.09+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:43.313+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:43.313+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.378319,
+          43.042872
+        ]
+      },
+      "properties": {
+        "id": 794249,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Riverton",
+        "name": "Riverton Supercenter",
+        "state": "WY",
+        "address": "1733 N Federal Blvd",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "82501",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:00:00.000-06:00",
+            "type": "Moderna",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1457",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:36.875+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:36.875+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.939798,
+          44.779373
+        ]
+      },
+      "properties": {
+        "id": 794253,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Sheridan",
+        "name": "Sheridan Supercenter",
+        "state": "WY",
+        "address": "1695 Coffeen Ave",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "82801",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:00:00.000-06:00",
+            "type": "Moderna",
+            "vaccine_types": [
+              "moderna"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1508",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:18:31.838+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:31.838+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5600,7 +6013,7 @@
         "postal_code": "82935",
         "appointments": [
           {
-            "time": "2021-06-16T16:30:00.000-06:00",
+            "time": "2021-06-16T16:45:00.000-06:00",
             "type": "J&J COVID-19 Vaccine",
             "vaccine_types": [
               "jj"
@@ -5908,8 +6321,8 @@
         "appointment_vaccine_types": {
           "jj": true
         },
-        "appointments_last_fetched": "2021-06-16T22:10:31.772+00:00",
-        "appointments_last_modified": "2021-06-16T22:10:31.772+00:00",
+        "appointments_last_fetched": "2021-06-16T22:17:26.389+00:00",
+        "appointments_last_modified": "2021-06-16T22:17:26.389+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5935,7 +6348,7 @@
         "postal_code": "82901",
         "appointments": [
           {
-            "time": "2021-06-16T16:30:00.000-06:00",
+            "time": "2021-06-16T16:45:00.000-06:00",
             "type": "Moderna Dose 1",
             "vaccine_types": [
               "moderna"
@@ -6227,8 +6640,8 @@
         "appointment_vaccine_types": {
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:10:31.772+00:00",
-        "appointments_last_modified": "2021-06-16T22:10:31.772+00:00",
+        "appointments_last_fetched": "2021-06-16T22:17:26.389+00:00",
+        "appointments_last_modified": "2021-06-16T22:17:26.389+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6238,557 +6651,191 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.7956985,
-          43.4587962
+          -106.374748,
+          42.816882
         ]
       },
       "properties": {
-        "id": 9613381,
-        "url": "https://www.smithsfoodanddrug.com/rx/covid-eligibility",
-        "city": "Jackson",
-        "name": "JACKSON HOLE",
+        "id": 794251,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Casper",
+        "name": "Casper Supercenter",
         "state": "WY",
-        "address": "1425 S Hwy 89",
-        "provider": "kroger",
+        "address": "4255 Cy Ave",
+        "provider": "walmart",
         "time_zone": "America/Denver",
-        "postal_code": "83001",
+        "postal_code": "82604",
         "appointments": [
           {
-            "time": "2021-06-17T10:30:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-17T10:45:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-17T11:00:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-17T11:30:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-17T11:45:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-17T12:00:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-17T12:15:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-17T12:30:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-18T10:45:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-18T11:00:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-18T11:15:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-18T11:30:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-18T11:45:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-18T12:00:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-18T12:15:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-21T10:00:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-21T10:15:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-21T10:30:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-21T10:45:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-21T11:15:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-21T11:30:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-21T11:45:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-21T12:00:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-21T12:15:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-21T12:30:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-22T10:00:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-22T10:15:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-22T10:30:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-22T10:45:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-22T11:00:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-22T11:15:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-22T11:30:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-22T11:45:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-22T12:00:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-22T12:15:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-22T12:30:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-23T10:00:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-23T10:15:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-23T10:30:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-23T10:45:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-23T11:00:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-23T11:15:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-23T11:30:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-23T11:45:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-23T12:00:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-23T12:15:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-23T12:30:00.000-06:00",
-            "type": "J&J COVID-19 Vaccine",
-            "vaccine_types": [
-              "jj"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-24T10:30:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-24T10:45:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-24T11:00:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-24T11:15:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-24T11:30:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-24T11:45:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-24T12:00:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-24T12:15:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-24T12:30:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-25T10:15:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-25T10:30:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-25T10:45:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-25T11:00:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-25T11:15:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-25T11:30:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-25T11:45:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-25T12:15:00.000-06:00",
-            "type": "Moderna Dose 1",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          },
-          {
-            "time": "2021-06-25T12:30:00.000-06:00",
-            "type": "Moderna Dose 1",
+            "time": "2021-06-17T08:00:00.000-06:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "3778",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:16:18.819+00:00",
+        "appointments_last_modified": "2021-06-16T22:16:18.819+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.266907,
+          42.851375
+        ]
+      },
+      "properties": {
+        "id": 794254,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Casper",
+        "name": "Casper Supercenter",
+        "state": "WY",
+        "address": "4400 E 2nd St",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "82609",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:00:00.000-06:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1617",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:16:18.819+00:00",
+        "appointments_last_modified": "2021-06-16T22:16:18.819+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7619112,
+          41.1262776
+        ]
+      },
+      "properties": {
+        "id": 768548,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Cheyenne",
+        "name": "Cheyenne Supercenter",
+        "state": "WY",
+        "address": "580 Livingston Ave",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "82007",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:00:00.000-06:00",
+            "type": "Pfizer, Moderna",
+            "vaccine_types": [
+              "moderna",
+              "pfizer"
+            ],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "4653",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "pfizer": true,
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:16:01.1+00:00",
+        "appointments_last_modified": "2021-06-16T22:16:01.1+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.791051,
+          41.164049
+        ]
+      },
+      "properties": {
+        "id": 768549,
+        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+        "city": "Cheyenne",
+        "name": "Cheyenne Supercenter",
+        "state": "WY",
+        "address": "2032 Dell Range Blvd",
+        "provider": "walmart",
+        "time_zone": "America/Denver",
+        "postal_code": "82009",
+        "appointments": [
+          {
+            "time": "2021-06-17T08:20:00.000-06:00",
+            "type": "Moderna",
             "vaccine_types": [
               "moderna"
             ],
             "appointment_types": []
           }
         ],
-        "provider_brand": "smiths",
-        "carries_vaccine": null,
+        "provider_brand": "walmart",
+        "carries_vaccine": true,
         "appointment_types": {
           "unknown": true
         },
-        "provider_brand_id": 21,
-        "provider_brand_name": "Smith's",
-        "provider_location_id": "70600184",
+        "provider_brand_id": 70,
+        "provider_brand_name": "Walmart",
+        "provider_location_id": "1315",
         "appointments_available": true,
         "appointment_vaccine_types": {
-          "jj": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:10:00.141+00:00",
-        "appointments_last_modified": "2021-06-16T22:10:00.141+00:00",
+        "appointments_last_fetched": "2021-06-16T22:16:01.1+00:00",
+        "appointments_last_modified": "2021-06-16T22:16:01.1+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6798,20 +6845,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.953877,
-          41.265902
+          -105.540476,
+          41.301639
         ]
       },
       "properties": {
-        "id": 794511,
+        "id": 768479,
         "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Evanston",
-        "name": "Evanston Supercenter",
+        "city": "Laramie",
+        "name": "Laramie Supercenter",
         "state": "WY",
-        "address": "125 N 2nd St",
+        "address": "4308 E Grand Ave",
         "provider": "walmart",
         "time_zone": "America/Denver",
-        "postal_code": "82930",
+        "postal_code": "82070",
         "appointments": [
           {
             "time": "2021-06-17T08:00:00.000-06:00",
@@ -6831,62 +6878,15 @@
         },
         "provider_brand_id": 70,
         "provider_brand_name": "Walmart",
-        "provider_location_id": "1456",
+        "provider_location_id": "1412",
         "appointments_available": true,
         "appointment_vaccine_types": {
           "jj": true,
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:08:03.977+00:00",
-        "appointments_last_modified": "2021-06-16T22:08:03.977+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.939798,
-          44.779373
-        ]
-      },
-      "properties": {
-        "id": 794253,
-        "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-        "city": "Sheridan",
-        "name": "Sheridan Supercenter",
-        "state": "WY",
-        "address": "1695 Coffeen Ave",
-        "provider": "walmart",
-        "time_zone": "America/Denver",
-        "postal_code": "82801",
-        "appointments": [
-          {
-            "time": "2021-06-17T08:00:00.000-06:00",
-            "type": "Moderna",
-            "vaccine_types": [
-              "moderna"
-            ],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "walmart",
-        "carries_vaccine": true,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 70,
-        "provider_brand_name": "Walmart",
-        "provider_location_id": "1508",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:07:28.2+00:00",
-        "appointments_last_modified": "2021-06-16T22:07:28.2+00:00",
+        "appointments_last_fetched": "2021-06-16T22:16:00.702+00:00",
+        "appointments_last_modified": "2021-06-16T22:16:00.702+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }

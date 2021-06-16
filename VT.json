@@ -40,8 +40,8 @@
         "status": "active",
         "provider_id": "costco",
         "location_count": 1,
-        "appointments_last_fetched": "2021-06-16T22:11:49.675+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:49.675+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:51.429+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:51.429+00:00"
       },
       {
         "id": 19,
@@ -51,8 +51,8 @@
         "status": "active",
         "provider_id": "cvs",
         "location_count": 9,
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00"
       },
       {
         "id": 96517,
@@ -73,8 +73,8 @@
         "status": "active",
         "provider_id": "price_chopper",
         "location_count": 1,
-        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:49.258+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:49.258+00:00"
       },
       {
         "id": 99377,
@@ -84,8 +84,8 @@
         "status": "active",
         "provider_id": "price_chopper",
         "location_count": 4,
-        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:49.258+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:49.258+00:00"
       },
       {
         "id": 40,
@@ -133,180 +133,10 @@
       }
     ],
     "provider_brand_count": 9,
-    "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
-    "appointments_last_modified": "2021-06-16T22:13:23.371+00:00"
+    "appointments_last_fetched": "2021-06-16T22:19:51.429+00:00",
+    "appointments_last_modified": "2021-06-16T22:19:51.429+00:00"
   },
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.212396,
-          42.89864
-        ]
-      },
-      "properties": {
-        "id": 143472161,
-        "url": "https://www.pricechopper.com/covidvaccine/",
-        "city": "Bennington",
-        "name": "Price Chopper",
-        "state": "VT",
-        "address": "214 Northside Drive",
-        "provider": "price_chopper",
-        "time_zone": "America/New_York",
-        "postal_code": "05201",
-        "appointments": [],
-        "provider_brand": "price_chopper",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 99377,
-        "provider_brand_name": "Price Chopper",
-        "provider_location_id": "171",
-        "appointments_available": false,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.210731,
-          44.450124
-        ]
-      },
-      "properties": {
-        "id": 143471836,
-        "url": "https://www.pricechopper.com/covidvaccine/",
-        "city": "Burlington",
-        "name": "Market32",
-        "state": "VT",
-        "address": "595 Shelburne Rd",
-        "provider": "price_chopper",
-        "time_zone": "America/New_York",
-        "postal_code": "05401",
-        "appointments": [],
-        "provider_brand": "price_chopper_market_32",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 99378,
-        "provider_brand_name": "Market 32",
-        "provider_location_id": "165",
-        "appointments_available": false,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.066248,
-          44.511655
-        ]
-      },
-      "properties": {
-        "id": 143472162,
-        "url": "https://www.pricechopper.com/covidvaccine/",
-        "city": "Essex Junction",
-        "name": "Price Chopper",
-        "state": "VT",
-        "address": "90 Center Road",
-        "provider": "price_chopper",
-        "time_zone": "America/New_York",
-        "postal_code": "05452",
-        "appointments": [],
-        "provider_brand": "price_chopper",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 99377,
-        "provider_brand_name": "Price Chopper",
-        "provider_location_id": "192",
-        "appointments_available": false,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.978458,
-          43.603904
-        ]
-      },
-      "properties": {
-        "id": 143472167,
-        "url": "https://www.pricechopper.com/covidvaccine/",
-        "city": "Rutland",
-        "name": "Price Chopper",
-        "state": "VT",
-        "address": "38 Rutland Shopping Plaza",
-        "provider": "price_chopper",
-        "time_zone": "America/New_York",
-        "postal_code": "05701",
-        "appointments": [],
-        "provider_brand": "price_chopper",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 99377,
-        "provider_brand_name": "Price Chopper",
-        "provider_location_id": "131",
-        "appointments_available": false,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.083781,
-          44.835821
-        ]
-      },
-      "properties": {
-        "id": 143472163,
-        "url": "https://www.pricechopper.com/covidvaccine/",
-        "city": "St Albans",
-        "name": "Price Chopper",
-        "state": "VT",
-        "address": "170 Swanton Rd,  Rte 7",
-        "provider": "price_chopper",
-        "time_zone": "America/New_York",
-        "postal_code": "05478",
-        "appointments": [],
-        "provider_brand": "price_chopper",
-        "carries_vaccine": null,
-        "appointment_types": null,
-        "provider_brand_id": 99377,
-        "provider_brand_name": "Price Chopper",
-        "provider_location_id": "127",
-        "appointments_available": false,
-        "appointment_vaccine_types": null,
-        "appointments_last_fetched": "2021-06-16T22:13:23.371+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:23.371+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -339,8 +169,178 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:49.675+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:49.675+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:51.429+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:51.429+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.212396,
+          42.89864
+        ]
+      },
+      "properties": {
+        "id": 143472161,
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "city": "Bennington",
+        "name": "Price Chopper",
+        "state": "VT",
+        "address": "214 Northside Drive",
+        "provider": "price_chopper",
+        "time_zone": "America/New_York",
+        "postal_code": "05201",
+        "appointments": [],
+        "provider_brand": "price_chopper",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 99377,
+        "provider_brand_name": "Price Chopper",
+        "provider_location_id": "171",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:19:49.258+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:49.258+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.210731,
+          44.450124
+        ]
+      },
+      "properties": {
+        "id": 143471836,
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "city": "Burlington",
+        "name": "Market32",
+        "state": "VT",
+        "address": "595 Shelburne Rd",
+        "provider": "price_chopper",
+        "time_zone": "America/New_York",
+        "postal_code": "05401",
+        "appointments": [],
+        "provider_brand": "price_chopper_market_32",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 99378,
+        "provider_brand_name": "Market 32",
+        "provider_location_id": "165",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:19:49.258+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:49.258+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.066248,
+          44.511655
+        ]
+      },
+      "properties": {
+        "id": 143472162,
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "city": "Essex Junction",
+        "name": "Price Chopper",
+        "state": "VT",
+        "address": "90 Center Road",
+        "provider": "price_chopper",
+        "time_zone": "America/New_York",
+        "postal_code": "05452",
+        "appointments": [],
+        "provider_brand": "price_chopper",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 99377,
+        "provider_brand_name": "Price Chopper",
+        "provider_location_id": "192",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:19:49.258+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:49.258+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.978458,
+          43.603904
+        ]
+      },
+      "properties": {
+        "id": 143472167,
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "city": "Rutland",
+        "name": "Price Chopper",
+        "state": "VT",
+        "address": "38 Rutland Shopping Plaza",
+        "provider": "price_chopper",
+        "time_zone": "America/New_York",
+        "postal_code": "05701",
+        "appointments": [],
+        "provider_brand": "price_chopper",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 99377,
+        "provider_brand_name": "Price Chopper",
+        "provider_location_id": "131",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:19:49.258+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:49.258+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.083781,
+          44.835821
+        ]
+      },
+      "properties": {
+        "id": 143472163,
+        "url": "https://www.pricechopper.com/covidvaccine/",
+        "city": "St Albans",
+        "name": "Price Chopper",
+        "state": "VT",
+        "address": "170 Swanton Rd,  Rte 7",
+        "provider": "price_chopper",
+        "time_zone": "America/New_York",
+        "postal_code": "05478",
+        "appointments": [],
+        "provider_brand": "price_chopper",
+        "carries_vaccine": null,
+        "appointment_types": null,
+        "provider_brand_id": 99377,
+        "provider_brand_name": "Price Chopper",
+        "provider_location_id": "127",
+        "appointments_available": false,
+        "appointment_vaccine_types": null,
+        "appointments_last_fetched": "2021-06-16T22:19:49.258+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:49.258+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -1378,44 +1378,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.21159631,
-          44.47946772
-        ]
-      },
-      "properties": {
-        "id": 2712080,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "BURLINGTON",
-        "name": "Walgreen Drug Store",
-        "state": "VT",
-        "address": "158 CHERRY ST",
-        "provider": "walgreens",
-        "time_zone": "America/New_York",
-        "postal_code": "05401",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "19449",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
-        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.20786988,
           44.45072145
         ]
@@ -1442,6 +1404,44 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "jj": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
+        "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21159631,
+          44.47946772
+        ]
+      },
+      "properties": {
+        "id": 2712080,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BURLINGTON",
+        "name": "Walgreen Drug Store",
+        "state": "VT",
+        "address": "158 CHERRY ST",
+        "provider": "walgreens",
+        "time_zone": "America/New_York",
+        "postal_code": "05401",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "19449",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
         },
         "appointments_last_fetched": "2021-06-16T20:57:30.899+00:00",
         "appointments_last_modified": "2021-06-16T20:57:30.899+00:00",
@@ -2380,8 +2380,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2489,8 +2489,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2598,8 +2598,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2707,8 +2707,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2816,8 +2816,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2925,8 +2925,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -2999,8 +2999,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3108,8 +3108,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -3217,8 +3217,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }

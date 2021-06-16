@@ -40,8 +40,8 @@
         "status": "active",
         "provider_id": "costco",
         "location_count": 4,
-        "appointments_last_fetched": "2021-06-16T22:13:09.997+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:09.997+00:00"
+        "appointments_last_fetched": "2021-06-16T22:20:22.911+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:22.911+00:00"
       },
       {
         "id": 19,
@@ -51,8 +51,8 @@
         "status": "active",
         "provider_id": "cvs",
         "location_count": 22,
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00"
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00"
       },
       {
         "id": 41,
@@ -95,91 +95,15 @@
         "status": "active",
         "provider_id": "walmart",
         "location_count": 30,
-        "appointments_last_fetched": "2021-06-16T22:12:51.648+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:51.648+00:00"
+        "appointments_last_fetched": "2021-06-16T22:18:38.471+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:38.471+00:00"
       }
     ],
     "provider_brand_count": 6,
-    "appointments_last_fetched": "2021-06-16T22:13:09.997+00:00",
-    "appointments_last_modified": "2021-06-16T22:13:09.997+00:00"
+    "appointments_last_fetched": "2021-06-16T22:20:22.911+00:00",
+    "appointments_last_modified": "2021-06-16T22:20:22.911+00:00"
   },
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.996,
-          18.402
-        ]
-      },
-      "properties": {
-        "id": 170686306,
-        "url": "https://www.costco.com/covid-vaccine.html",
-        "city": "SAN JUAN",
-        "name": "Carolina",
-        "state": "PR",
-        "address": "1185 AVE 65 INFANTERIA",
-        "provider": "costco",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00924",
-        "appointments": [],
-        "provider_brand": "costco",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 139709,
-        "provider_brand_name": "Costco",
-        "provider_location_id": "335",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:09.997+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:09.997+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.139,
-          18.385
-        ]
-      },
-      "properties": {
-        "id": 170686305,
-        "url": "https://www.costco.com/covid-vaccine.html",
-        "city": "BAYAMON",
-        "name": "E Bayamon",
-        "state": "PR",
-        "address": "125 CALLE A",
-        "provider": "costco",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00959",
-        "appointments": [],
-        "provider_brand": "costco",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 139709,
-        "provider_brand_name": "Costco",
-        "provider_location_id": "363",
-        "appointments_available": false,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:07.831+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:07.831+00:00",
-        "appointments_available_all_doses": false,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -212,8 +136,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:21.164+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:21.164+00:00",
+        "appointments_last_fetched": "2021-06-16T22:20:22.911+00:00",
+        "appointments_last_modified": "2021-06-16T22:20:22.911+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -250,8 +174,84 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:11:49.017+00:00",
-        "appointments_last_modified": "2021-06-16T22:11:49.017+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:51.368+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:51.368+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.996,
+          18.402
+        ]
+      },
+      "properties": {
+        "id": 170686306,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "SAN JUAN",
+        "name": "Carolina",
+        "state": "PR",
+        "address": "1185 AVE 65 INFANTERIA",
+        "provider": "costco",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00924",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "335",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:12.396+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:12.396+00:00",
+        "appointments_available_all_doses": false,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.139,
+          18.385
+        ]
+      },
+      "properties": {
+        "id": 170686305,
+        "url": "https://www.costco.com/covid-vaccine.html",
+        "city": "BAYAMON",
+        "name": "E Bayamon",
+        "state": "PR",
+        "address": "125 CALLE A",
+        "provider": "costco",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00959",
+        "appointments": [],
+        "provider_brand": "costco",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 139709,
+        "provider_brand_name": "Costco",
+        "provider_location_id": "363",
+        "appointments_available": false,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:10.531+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:10.531+00:00",
         "appointments_available_all_doses": false,
         "appointments_available_2nd_dose_only": false
       }
@@ -567,44 +567,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.15330294,
-          18.40901043
-        ]
-      },
-      "properties": {
-        "id": 2704852,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "AGUADILLA",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "CARR #2 KM 129.7",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00603",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "177",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:27:09.592+00:00",
-        "appointments_last_modified": "2021-06-16T20:27:09.592+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -67.14673911,
           18.44325134
         ]
@@ -628,6 +590,44 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "15543",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:27:09.592+00:00",
+        "appointments_last_modified": "2021-06-16T20:27:09.592+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.15330294,
+          18.40901043
+        ]
+      },
+      "properties": {
+        "id": 2704852,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "AGUADILLA",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "CARR #2 KM 129.7",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00603",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "177",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -947,44 +947,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.64252659,
-          18.29663295
-        ]
-      },
-      "properties": {
-        "id": 2704871,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "FAJARDO",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "100 CALLE 12",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00738",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "12012",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:27:03.278+00:00",
-        "appointments_last_modified": "2021-06-16T20:27:03.278+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -65.67182824,
           18.34390346
         ]
@@ -1011,6 +973,44 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:27:03.278+00:00",
+        "appointments_last_modified": "2021-06-16T20:27:03.278+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.64252659,
+          18.29663295
+        ]
+      },
+      "properties": {
+        "id": 2704871,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "FAJARDO",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "100 CALLE 12",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00738",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "12012",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
         },
         "appointments_last_fetched": "2021-06-16T20:27:03.278+00:00",
         "appointments_last_modified": "2021-06-16T20:27:03.278+00:00",
@@ -1175,6 +1175,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.0645212,
+          18.40837856
+        ]
+      },
+      "properties": {
+        "id": 2704825,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SAN JUAN",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "685 CALLE CESAR GONZALEZ",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00918",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "283",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:27:03.278+00:00",
+        "appointments_last_modified": "2021-06-16T20:27:03.278+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -66.05601708,
           18.40292695
         ]
@@ -1236,44 +1274,6 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "11847",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:27:03.278+00:00",
-        "appointments_last_modified": "2021-06-16T20:27:03.278+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.0645212,
-          18.40837856
-        ]
-      },
-      "properties": {
-        "id": 2704825,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "SAN JUAN",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "685 CALLE CESAR GONZALEZ",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00918",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "283",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
@@ -1517,20 +1517,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.18753635,
-          18.348371
+          -66.16069854,
+          18.39110408
         ]
       },
       "properties": {
-        "id": 2704839,
+        "id": 2704819,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "BAYAMON",
         "name": "Walgreen Drug Store",
         "state": "PR",
-        "address": "350 CARR 830",
+        "address": "550 CARRETERRA  #167",
         "provider": "walgreens",
         "time_zone": "America/Puerto_Rico",
-        "postal_code": "00957",
+        "postal_code": "00959",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -1539,10 +1539,10 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "289",
+        "provider_location_id": "851",
         "appointments_available": null,
         "appointment_vaccine_types": {
-          "pfizer": true
+          "moderna": true
         },
         "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
         "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
@@ -1593,20 +1593,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.16069854,
-          18.39110408
+          -66.18753635,
+          18.348371
         ]
       },
       "properties": {
-        "id": 2704819,
+        "id": 2704839,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "BAYAMON",
         "name": "Walgreen Drug Store",
         "state": "PR",
-        "address": "550 CARRETERRA  #167",
+        "address": "350 CARR 830",
         "provider": "walgreens",
         "time_zone": "America/Puerto_Rico",
-        "postal_code": "00959",
+        "postal_code": "00957",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -1615,10 +1615,10 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "851",
+        "provider_location_id": "289",
         "appointments_available": null,
         "appointment_vaccine_types": {
-          "moderna": true
+          "pfizer": true
         },
         "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
         "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
@@ -1707,44 +1707,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.15700713,
-          18.36867476
-        ]
-      },
-      "properties": {
-        "id": 2704830,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "BAYAMON",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "G-1 LAUREL AVE",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00956",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "157",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -66.18696126,
           18.36862397
         ]
@@ -1771,6 +1733,44 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.15700713,
+          18.36867476
+        ]
+      },
+      "properties": {
+        "id": 2704830,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "BAYAMON",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "G-1 LAUREL AVE",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00956",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "157",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
         },
         "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
         "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
@@ -1897,44 +1897,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.03657099,
-          18.25032887
-        ]
-      },
-      "properties": {
-        "id": 2704880,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "CAGUAS",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "101 CARR 1",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00725",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "509",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -66.039182,
           18.221961
         ]
@@ -2011,6 +1973,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.03657099,
+          18.25032887
+        ]
+      },
+      "properties": {
+        "id": 2704880,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "CAGUAS",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "101 CARR 1",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00725",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "509",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -66.05756842,
           18.2358571
         ]
@@ -2072,44 +2072,6 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "2803",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.023994,
-          18.442652
-        ]
-      },
-      "properties": {
-        "id": 2704816,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "CAROLINA",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "5984 AVE ISLA VERDE",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00979",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "156",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -2201,6 +2163,82 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.023994,
+          18.442652
+        ]
+      },
+      "properties": {
+        "id": 2704816,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "CAROLINA",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "5984 AVE ISLA VERDE",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00979",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "156",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.97791851,
+          18.39524448
+        ]
+      },
+      "properties": {
+        "id": 2704848,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "CAROLINA",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "65 INFANTRY & JESUS FARGOSO",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00983",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "174",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -65.98346295,
           18.41627414
         ]
@@ -2262,44 +2300,6 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "13767",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.97791851,
-          18.39524448
-        ]
-      },
-      "properties": {
-        "id": 2704848,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "CAROLINA",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "65 INFANTRY & JESUS FARGOSO",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00983",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "174",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -2543,44 +2543,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.26671759,
-          18.4212467
-        ]
-      },
-      "properties": {
-        "id": 2704804,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "DORADO",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "7006 CARR 693",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00646",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "13845",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -66.273422,
           18.464189
         ]
@@ -2604,6 +2566,44 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "183",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.26671759,
+          18.4212467
+        ]
+      },
+      "properties": {
+        "id": 2704804,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "DORADO",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "7006 CARR 693",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00646",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "13845",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -2771,44 +2771,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.1139079,
-          18.42875165
-        ]
-      },
-      "properties": {
-        "id": 2704813,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "GUAYNABO",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "25 AVE PONCE DE LEON",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00965",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "788",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -66.09394783,
           18.37543364
         ]
@@ -2832,6 +2794,44 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "55",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1139079,
+          18.42875165
+        ]
+      },
+      "properties": {
+        "id": 2704813,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "GUAYNABO",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "25 AVE PONCE DE LEON",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00965",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "788",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -3341,20 +3341,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.614906,
-          17.995534
+          -66.63572415,
+          17.99609623
         ]
       },
       "properties": {
-        "id": 2704896,
+        "id": 2704897,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "PONCE",
         "name": "Walgreen Drug Store",
         "state": "PR",
-        "address": "2150 PONCE BYP",
+        "address": "2706 AVE MARUCA",
         "provider": "walgreens",
         "time_zone": "America/Puerto_Rico",
-        "postal_code": "00716",
+        "postal_code": "00728",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -3363,10 +3363,10 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "12598",
+        "provider_location_id": "165",
         "appointments_available": null,
         "appointment_vaccine_types": {
-          "moderna": true
+          "pfizer": true
         },
         "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
         "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
@@ -3417,20 +3417,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.63572415,
-          17.99609623
+          -66.614906,
+          17.995534
         ]
       },
       "properties": {
-        "id": 2704897,
+        "id": 2704896,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "PONCE",
         "name": "Walgreen Drug Store",
         "state": "PR",
-        "address": "2706 AVE MARUCA",
+        "address": "2150 PONCE BYP",
         "provider": "walgreens",
         "time_zone": "America/Puerto_Rico",
-        "postal_code": "00728",
+        "postal_code": "00716",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -3439,48 +3439,10 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "165",
+        "provider_location_id": "12598",
         "appointments_available": null,
         "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.59980433,
-          18.0185926
-        ]
-      },
-      "properties": {
-        "id": 2704893,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "PONCE",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "2979 AVE EMILIO FAGOT",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00716",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "15172",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "unknown": true
+          "moderna": true
         },
         "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
         "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
@@ -3519,6 +3481,44 @@
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.59980433,
+          18.0185926
+        ]
+      },
+      "properties": {
+        "id": 2704893,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "PONCE",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "2979 AVE EMILIO FAGOT",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00716",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "15172",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
         },
         "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
         "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
@@ -3683,32 +3683,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.11209306,
-          18.46416096
+          -66.04687519,
+          18.37637106
         ]
       },
       "properties": {
-        "id": 2704802,
+        "id": 2704845,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
         "city": "SAN JUAN",
         "name": "Walgreen Drug Store",
         "state": "PR",
-        "address": "100 CALLE BRUMBAUGH",
+        "address": "150 CALLE F VIZCARRONDO",
         "provider": "walgreens",
         "time_zone": "America/Puerto_Rico",
-        "postal_code": "00901",
+        "postal_code": "00926",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
         "appointment_types": {
-          "unknown": true
+          "all_doses": true
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "16409",
+        "provider_location_id": "7706",
         "appointments_available": null,
         "appointment_vaccine_types": {
-          "unknown": true
+          "moderna": true
         },
         "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
         "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
@@ -3759,6 +3759,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.11209306,
+          18.46416096
+        ]
+      },
+      "properties": {
+        "id": 2704802,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SAN JUAN",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "100 CALLE BRUMBAUGH",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00901",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "16409",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -66.07599873,
           18.44866334
         ]
@@ -3782,158 +3820,6 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "12599",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.043387,
-          18.41889
-        ]
-      },
-      "properties": {
-        "id": 2704824,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "SAN JUAN",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "429 AVE BARBOSA",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00923",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "7520",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.07472033,
-          18.42341277
-        ]
-      },
-      "properties": {
-        "id": 2704815,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "SAN JUAN",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "525 AVE F.D. ROOSEVELT",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00918",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "21201",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "moderna": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.04192951,
-          18.35578101
-        ]
-      },
-      "properties": {
-        "id": 2704905,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "SAN JUAN",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "12 CALLE TERESA JORNET",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00926",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "2332",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.04687519,
-          18.37637106
-        ]
-      },
-      "properties": {
-        "id": 2704845,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "SAN JUAN",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "150 CALLE F VIZCARRONDO",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00926",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "7706",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
@@ -4025,6 +3911,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.04192951,
+          18.35578101
+        ]
+      },
+      "properties": {
+        "id": 2704905,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SAN JUAN",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "12 CALLE TERESA JORNET",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00926",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "2332",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -66.04183735,
           18.39636503
         ]
@@ -4048,6 +3972,82 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "891",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "moderna": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.043387,
+          18.41889
+        ]
+      },
+      "properties": {
+        "id": 2704824,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SAN JUAN",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "429 AVE BARBOSA",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00923",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "7520",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07472033,
+          18.42341277
+        ]
+      },
+      "properties": {
+        "id": 2704815,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "SAN JUAN",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "525 AVE F.D. ROOSEVELT",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00918",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "21201",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "moderna": true
@@ -4139,44 +4139,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.27762592,
-          18.34426589
-        ]
-      },
-      "properties": {
-        "id": 2704832,
-        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "TOA ALTA",
-        "name": "Walgreen Drug Store",
-        "state": "PR",
-        "address": "CARR 165, KM. 4.7.",
-        "provider": "walgreens",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00954",
-        "appointments": null,
-        "provider_brand": "walgreens",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "all_doses": true
-        },
-        "provider_brand_id": 47,
-        "provider_brand_name": "Walgreens",
-        "provider_location_id": "12651",
-        "appointments_available": null,
-        "appointment_vaccine_types": {
-          "pfizer": true
-        },
-        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
-        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
-        "appointments_available_all_doses": null,
-        "appointments_available_2nd_dose_only": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -66.20341331,
           18.34101654
         ]
@@ -4215,20 +4177,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.22332038,
-          18.40489032
+          -66.27762592,
+          18.34426589
         ]
       },
       "properties": {
-        "id": 2704812,
+        "id": 2704832,
         "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
-        "city": "TOA BAJA",
+        "city": "TOA ALTA",
         "name": "Walgreen Drug Store",
         "state": "PR",
-        "address": "100 CALLE COLINA REAL",
+        "address": "CARR 165, KM. 4.7.",
         "provider": "walgreens",
         "time_zone": "America/Puerto_Rico",
-        "postal_code": "00949",
+        "postal_code": "00954",
         "appointments": null,
         "provider_brand": "walgreens",
         "carries_vaccine": null,
@@ -4237,7 +4199,7 @@
         },
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
-        "provider_location_id": "105",
+        "provider_location_id": "12651",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -4276,6 +4238,44 @@
         "provider_brand_id": 47,
         "provider_brand_name": "Walgreens",
         "provider_location_id": "82",
+        "appointments_available": null,
+        "appointment_vaccine_types": {
+          "pfizer": true
+        },
+        "appointments_last_fetched": "2021-06-16T20:26:57.53+00:00",
+        "appointments_last_modified": "2021-06-16T20:26:57.53+00:00",
+        "appointments_available_all_doses": null,
+        "appointments_available_2nd_dose_only": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.22332038,
+          18.40489032
+        ]
+      },
+      "properties": {
+        "id": 2704812,
+        "url": "https://www.walgreens.com/findcare/vaccination/covid-19",
+        "city": "TOA BAJA",
+        "name": "Walgreen Drug Store",
+        "state": "PR",
+        "address": "100 CALLE COLINA REAL",
+        "provider": "walgreens",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00949",
+        "appointments": null,
+        "provider_brand": "walgreens",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "all_doses": true
+        },
+        "provider_brand_id": 47,
+        "provider_brand_name": "Walgreens",
+        "provider_location_id": "105",
         "appointments_available": null,
         "appointment_vaccine_types": {
           "pfizer": true
@@ -4863,320 +4863,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.168651,
-          18.413195
-        ]
-      },
-      "properties": {
-        "id": 282138260,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "BAYAMON",
-        "name": "CVS Pharmacy in BAYAMON, PR",
-        "state": "PR",
-        "address": "2114 CARR. 2, INT. CALLE MORALES",
-        "provider": "cvs",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00961",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "4594",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.183907,
-          18.366645
-        ]
-      },
-      "properties": {
-        "id": 282138513,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "BAYAMON",
-        "name": "CVS Pharmacy in BAYAMON, PR",
-        "state": "PR",
-        "address": "1 REXVILLE PLAZA STE 13",
-        "provider": "cvs",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00957",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "5677",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.14573,
-          18.384116
-        ]
-      },
-      "properties": {
-        "id": 270503414,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "BAYAMON",
-        "name": "CVS Pharmacy in BAYAMON, PR",
-        "state": "PR",
-        "address": "CALLE MARGINAL#600 URB FLAMBOYAN GARDENS",
-        "provider": "cvs",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00956",
-        "appointments": [
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "5219",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5284,8 +4972,320 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.183907,
+          18.366645
+        ]
+      },
+      "properties": {
+        "id": 282138513,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BAYAMON",
+        "name": "CVS Pharmacy in BAYAMON, PR",
+        "state": "PR",
+        "address": "1 REXVILLE PLAZA STE 13",
+        "provider": "cvs",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00957",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "5677",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.168651,
+          18.413195
+        ]
+      },
+      "properties": {
+        "id": 282138260,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BAYAMON",
+        "name": "CVS Pharmacy in BAYAMON, PR",
+        "state": "PR",
+        "address": "2114 CARR. 2, INT. CALLE MORALES",
+        "provider": "cvs",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00961",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "4594",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.14573,
+          18.384116
+        ]
+      },
+      "properties": {
+        "id": 270503414,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "BAYAMON",
+        "name": "CVS Pharmacy in BAYAMON, PR",
+        "state": "PR",
+        "address": "CALLE MARGINAL#600 URB FLAMBOYAN GARDENS",
+        "provider": "cvs",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00956",
+        "appointments": [
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "5219",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5363,8 +5363,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5467,117 +5467,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.979442,
-          18.403078
-        ]
-      },
-      "properties": {
-        "id": 270650725,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "CAROLINA",
-        "name": "CVS Pharmacy in CAROLINA, PR",
-        "state": "PR",
-        "address": "8030 CALLE TARTAK",
-        "provider": "cvs",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00979",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "10901",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5685,8 +5576,117 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.979442,
+          18.403078
+        ]
+      },
+      "properties": {
+        "id": 270650725,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "CAROLINA",
+        "name": "CVS Pharmacy in CAROLINA, PR",
+        "state": "PR",
+        "address": "8030 CALLE TARTAK",
+        "provider": "cvs",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00979",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10901",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5794,8 +5794,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -5903,8 +5903,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6012,97 +6012,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.101223,
-          18.406077
-        ]
-      },
-      "properties": {
-        "id": 282142556,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "GUAYNABO",
-        "name": "CVS Pharmacy in GUAYNABO, PR",
-        "state": "PR",
-        "address": "C1 CALLE PARKSIDE 4, SAN PATRICIO AVE PARKSIDE AVE.PUEBLO VIEJO WARD",
-        "provider": "cvs",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00968",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-18",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-19",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-20",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "7304",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6190,8 +6101,97 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.101223,
+          18.406077
+        ]
+      },
+      "properties": {
+        "id": 282142556,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "GUAYNABO",
+        "name": "CVS Pharmacy in GUAYNABO, PR",
+        "state": "PR",
+        "address": "C1 CALLE PARKSIDE 4, SAN PATRICIO AVE PARKSIDE AVE.PUEBLO VIEJO WARD",
+        "provider": "cvs",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00968",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-18",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-19",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-20",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "7304",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6254,8 +6254,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6363,8 +6363,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6472,102 +6472,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
-        "appointments_available_all_doses": true,
-        "appointments_available_2nd_dose_only": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.056392,
-          18.419431
-        ]
-      },
-      "properties": {
-        "id": 270565730,
-        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
-        "city": "SAN JUAN",
-        "name": "CVS Pharmacy in SAN JUAN, PR",
-        "state": "PR",
-        "address": "374 AVE PONCE DE LEON",
-        "provider": "cvs",
-        "time_zone": "America/Puerto_Rico",
-        "postal_code": "00918",
-        "appointments": [
-          {
-            "date": "2021-06-17",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-21",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-22",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-23",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-24",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-25",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-26",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-27",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-28",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-29",
-            "vaccine_types": [],
-            "appointment_types": []
-          },
-          {
-            "date": "2021-06-30",
-            "vaccine_types": [],
-            "appointment_types": []
-          }
-        ],
-        "provider_brand": "cvs",
-        "carries_vaccine": null,
-        "appointment_types": {
-          "unknown": true
-        },
-        "provider_brand_id": 19,
-        "provider_brand_name": "CVS",
-        "provider_location_id": "10314",
-        "appointments_available": true,
-        "appointment_vaccine_types": {
-          "unknown": true
-        },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6660,8 +6566,102 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
+        "appointments_available_all_doses": true,
+        "appointments_available_2nd_dose_only": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.056392,
+          18.419431
+        ]
+      },
+      "properties": {
+        "id": 270565730,
+        "url": "https://www.cvs.com/vaccine/intake/store/cvd-schedule",
+        "city": "SAN JUAN",
+        "name": "CVS Pharmacy in SAN JUAN, PR",
+        "state": "PR",
+        "address": "374 AVE PONCE DE LEON",
+        "provider": "cvs",
+        "time_zone": "America/Puerto_Rico",
+        "postal_code": "00918",
+        "appointments": [
+          {
+            "date": "2021-06-17",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-21",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-22",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-23",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-24",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-25",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-26",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-27",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-28",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-29",
+            "vaccine_types": [],
+            "appointment_types": []
+          },
+          {
+            "date": "2021-06-30",
+            "vaccine_types": [],
+            "appointment_types": []
+          }
+        ],
+        "provider_brand": "cvs",
+        "carries_vaccine": null,
+        "appointment_types": {
+          "unknown": true
+        },
+        "provider_brand_id": 19,
+        "provider_brand_name": "CVS",
+        "provider_location_id": "10314",
+        "appointments_available": true,
+        "appointment_vaccine_types": {
+          "unknown": true
+        },
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6754,8 +6754,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6863,8 +6863,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -6972,8 +6972,8 @@
         "appointment_vaccine_types": {
           "unknown": true
         },
-        "appointments_last_fetched": "2021-06-16T22:13:03.489+00:00",
-        "appointments_last_modified": "2021-06-16T22:13:03.489+00:00",
+        "appointments_last_fetched": "2021-06-16T22:19:41.129+00:00",
+        "appointments_last_modified": "2021-06-16T22:19:41.129+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7023,8 +7023,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:51.648+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:51.648+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:38.471+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:38.471+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7072,8 +7072,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:51.648+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:51.648+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:38.471+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:38.471+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7123,8 +7123,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:51.648+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:51.648+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:38.471+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:38.471+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7172,8 +7172,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:51.648+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:51.648+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:38.471+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:38.471+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7221,8 +7221,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:51.648+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:51.648+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:38.471+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:38.471+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7270,8 +7270,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:51.648+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:51.648+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:38.471+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:38.471+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7319,8 +7319,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:51.648+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:51.648+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:38.471+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:38.471+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7368,8 +7368,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:51.648+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:51.648+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:38.471+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:38.471+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7417,8 +7417,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:51.648+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:51.648+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:38.471+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:38.471+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7468,8 +7468,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7519,8 +7519,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7570,8 +7570,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7621,8 +7621,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7670,8 +7670,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7719,8 +7719,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7768,8 +7768,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7817,8 +7817,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7868,8 +7868,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7917,8 +7917,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -7966,8 +7966,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
@@ -8017,8 +8017,8 @@
           "pfizer": true,
           "moderna": true
         },
-        "appointments_last_fetched": "2021-06-16T22:12:37.378+00:00",
-        "appointments_last_modified": "2021-06-16T22:12:37.378+00:00",
+        "appointments_last_fetched": "2021-06-16T22:18:24.701+00:00",
+        "appointments_last_modified": "2021-06-16T22:18:24.701+00:00",
         "appointments_available_all_doses": true,
         "appointments_available_2nd_dose_only": false
       }
