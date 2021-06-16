@@ -1,0 +1,76 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '7,27,47 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        curl https://www.vaccinespotter.org/api/v0/states/AK.json | jq . > AK.json
+        curl https://www.vaccinespotter.org/api/v0/states/AL.json | jq . > AL.json
+        curl https://www.vaccinespotter.org/api/v0/states/AR.json | jq . > AR.json
+        curl https://www.vaccinespotter.org/api/v0/states/AZ.json | jq . > AZ.json
+        curl https://www.vaccinespotter.org/api/v0/states/CA.json | jq . > CA.json
+        curl https://www.vaccinespotter.org/api/v0/states/CO.json | jq . > CO.json
+        curl https://www.vaccinespotter.org/api/v0/states/CT.json | jq . > CT.json
+        curl https://www.vaccinespotter.org/api/v0/states/DE.json | jq . > DE.json
+        curl https://www.vaccinespotter.org/api/v0/states/FL.json | jq . > FL.json
+        curl https://www.vaccinespotter.org/api/v0/states/GA.json | jq . > GA.json
+        curl https://www.vaccinespotter.org/api/v0/states/HI.json | jq . > HI.json
+        curl https://www.vaccinespotter.org/api/v0/states/IA.json | jq . > IA.json
+        curl https://www.vaccinespotter.org/api/v0/states/ID.json | jq . > ID.json
+        curl https://www.vaccinespotter.org/api/v0/states/IL.json | jq . > IL.json
+        curl https://www.vaccinespotter.org/api/v0/states/IN.json | jq . > IN.json
+        curl https://www.vaccinespotter.org/api/v0/states/KS.json | jq . > KS.json
+        curl https://www.vaccinespotter.org/api/v0/states/KY.json | jq . > KY.json
+        curl https://www.vaccinespotter.org/api/v0/states/LA.json | jq . > LA.json
+        curl https://www.vaccinespotter.org/api/v0/states/MA.json | jq . > MA.json
+        curl https://www.vaccinespotter.org/api/v0/states/MD.json | jq . > MD.json
+        curl https://www.vaccinespotter.org/api/v0/states/ME.json | jq . > ME.json
+        curl https://www.vaccinespotter.org/api/v0/states/MI.json | jq . > MI.json
+        curl https://www.vaccinespotter.org/api/v0/states/MN.json | jq . > MN.json
+        curl https://www.vaccinespotter.org/api/v0/states/MO.json | jq . > MO.json
+        curl https://www.vaccinespotter.org/api/v0/states/MS.json | jq . > MS.json
+        curl https://www.vaccinespotter.org/api/v0/states/MT.json | jq . > MT.json
+        curl https://www.vaccinespotter.org/api/v0/states/NC.json | jq . > NC.json
+        curl https://www.vaccinespotter.org/api/v0/states/ND.json | jq . > ND.json
+        curl https://www.vaccinespotter.org/api/v0/states/NE.json | jq . > NE.json
+        curl https://www.vaccinespotter.org/api/v0/states/NH.json | jq . > NH.json
+        curl https://www.vaccinespotter.org/api/v0/states/NJ.json | jq . > NJ.json
+        curl https://www.vaccinespotter.org/api/v0/states/NM.json | jq . > NM.json
+        curl https://www.vaccinespotter.org/api/v0/states/NV.json | jq . > NV.json
+        curl https://www.vaccinespotter.org/api/v0/states/NY.json | jq . > NY.json
+        curl https://www.vaccinespotter.org/api/v0/states/OH.json | jq . > OH.json
+        curl https://www.vaccinespotter.org/api/v0/states/OK.json | jq . > OK.json
+        curl https://www.vaccinespotter.org/api/v0/states/OR.json | jq . > OR.json
+        curl https://www.vaccinespotter.org/api/v0/states/PA.json | jq . > PA.json
+        curl https://www.vaccinespotter.org/api/v0/states/PR.json | jq . > PR.json
+        curl https://www.vaccinespotter.org/api/v0/states/RI.json | jq . > RI.json
+        curl https://www.vaccinespotter.org/api/v0/states/SC.json | jq . > SC.json
+        curl https://www.vaccinespotter.org/api/v0/states/SD.json | jq . > SD.json
+        curl https://www.vaccinespotter.org/api/v0/states/TN.json | jq . > TN.json
+        curl https://www.vaccinespotter.org/api/v0/states/TX.json | jq . > TX.json
+        curl https://www.vaccinespotter.org/api/v0/states/UT.json | jq . > UT.json
+        curl https://www.vaccinespotter.org/api/v0/states/VA.json | jq . > VA.json
+        curl https://www.vaccinespotter.org/api/v0/states/VI.json | jq . > VI.json
+        curl https://www.vaccinespotter.org/api/v0/states/VT.json | jq . > VT.json
+        curl https://www.vaccinespotter.org/api/v0/states/WA.json | jq . > WA.json
+        curl https://www.vaccinespotter.org/api/v0/states/WI.json | jq . > WI.json
+        curl https://www.vaccinespotter.org/api/v0/states/WV.json | jq . > WV.json
+        curl https://www.vaccinespotter.org/api/v0/states/WY.json | jq . > WY.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
